@@ -6,7 +6,6 @@
 華視,rtmp://161.202.204.248:1935/sat/tv111
 華視,http://seb.sason.top/sc/hsxw_fhd.m3u8
 公視,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8
-三立都會台,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
