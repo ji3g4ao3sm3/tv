@@ -21,10 +21,10 @@
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
+緯來日本,rtmp://161.202.204.248/sat/tv771
 緯來綜合,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
-緯來育樂,p5p://45.92.126.18:9906/6044a24900005a2c022ccfba89cc1d77.ts
-Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
+緯來育樂,rtmp://161.202.204.248/sat/tv701
+Discovery,http://220.130.149.128:1935/live/ch7-1/playlist.m3u8
 台灣新聞,#genre#
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 民視新聞,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
