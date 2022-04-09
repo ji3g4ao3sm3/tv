@@ -8,10 +8,6 @@
 公視,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
-八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
-八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.t
-八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
 衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
 中天綜合,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
@@ -20,15 +16,6 @@
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-靖天國際,http://61.58.60.230:9319/live/205.m3u8
-靖天戲劇,http://61.58.60.230:9319/live/203.m3u8
-靖天日本,http://61.58.60.230:9319/live/243.m3u8
-靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
-靖天育樂,http://61.58.60.230:9319/live/204.m3u8
-靖天資訊,http://61.58.60.230:9319/live/202.m3u8
-靖天映畫,http://61.58.60.230:9319/live/244.m3u8
-靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 緯來日本,rtmp://59.124.75.153:1935/sat/tv521
 緯來日本,rtmp://59.124.75.153/sat/tv522
 緯來育樂,rtmp://59.124.75.153/sat/tv701
