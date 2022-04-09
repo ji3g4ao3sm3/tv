@@ -145,13 +145,9 @@ LS龍祥時代,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-HBO HD,http://50.7.61.148:30080/Entry/hbo
 HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-FOX Crime,https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
-FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+CNN International,https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpdFOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 HBO HD,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 HBO HD,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 HBO,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
