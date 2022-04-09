@@ -164,26 +164,22 @@ HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
+HBO HD,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-HBOHD,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-HBOHits,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-HBOSignature,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-HBOSignature2,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-FOXCRIME,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-FOXActionMovies,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+FOX HD,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX HD,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+FOX HD,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+HBO HD,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+HBO HD,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+HBO,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+HBO,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+FOX,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOX,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+Fox,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-Discovery,http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.m3u8
-
-
-
 成人點播頻道_3368,#genre#
 母子愉悅亂倫-蘭心潔,https://je40u.cdnedge.live/file/avple-images/hls/624eeb896d742407ed435445/playlist.m3u8
 人形機器女友-蕭悅兒,https://je40u.cdnedge.live/file/avple-images/hls/6249a0b0eb0b5f202d561616/playlist.m3u8
