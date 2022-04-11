@@ -155,10 +155,6 @@ HBO,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 FOX,https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
 FOX,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 FOX,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 成人點播頻道_3368,#genre#
 母子愉悅亂倫-蘭心潔,https://je40u.cdnedge.live/file/avple-images/hls/624eeb896d742407ed435445/playlist.m3u8
 人形機器女友-蕭悅兒,https://je40u.cdnedge.live/file/avple-images/hls/6249a0b0eb0b5f202d561616/playlist.m3u8
