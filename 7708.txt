@@ -10,7 +10,7 @@
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
 衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
-東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts 
+東森超視,rtmp://161.202.204.248/sat/tv772#rtmp://161.202.204.248:1935/sat/tv771#rtmp://161.202.204.248/sat/tv771
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
