@@ -5,7 +5,7 @@
 台視,rtmp://59.124.75.138/sat/tv071
 華視,http://140.143.146.222/proxy.php?act=play&vid=iptv2020&tid=wintv123&id=26
 華視,http://seb.sason.top/sc/hsxw_fhd.m3u8
-公視,http://140.143.146.222/proxy.php?act=play&vid=iptv2020&tid=wintv123&id=38
+公視,http://cloud-play.hhalloy.com/live/514590fdb3ba8e3f2c3a15dd13037f31.m3u8
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
 衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
