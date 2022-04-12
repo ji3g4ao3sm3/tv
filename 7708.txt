@@ -3,7 +3,7 @@
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 中視,rtmp://59.124.75.138/sat/tv091
 台視,rtmp://59.124.75.138/sat/tv071
-華視,rtmp://161.202.204.248:1935/sat/tv111
+華視,http://140.143.146.222/proxy.php?act=play&vid=iptv2020&tid=wintv123&id=26
 華視,http://seb.sason.top/sc/hsxw_fhd.m3u8
 公視,rtmp://s01.ottclub.info:1935/live/c229.stream#rtmp://s01.ottclub.info:1935/live/c729.stream
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
