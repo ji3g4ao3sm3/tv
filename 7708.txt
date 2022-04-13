@@ -4,6 +4,7 @@
 中視,rtmp://59.124.75.138/sat/tv091
 台視,rtmp://59.124.75.138/sat/tv071
 華視,rtmp://161.202.204.248:1935/sat/tv111
+華視,rtmp://161.202.204.248/sat/tv112
 華視,http://seb.sason.top/sc/hsxw_fhd.m3u8
 公視,http://cloud-play.hhalloy.com/live/514590fdb3ba8e3f2c3a15dd13037f31.m3u8
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
