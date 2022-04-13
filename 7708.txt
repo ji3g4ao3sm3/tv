@@ -70,7 +70,7 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 寶寶巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
 超人力霸王,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
 喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
-名貞探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+名偵探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 動畫電影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 動畫小天地,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 兔小貝爾歌,http://118.26.120.22:55336/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
@@ -144,10 +144,7 @@ MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070
 東森電影,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/32/index.m3u8
 龍翔時代,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/35/index.m3u8
 HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-美亞電影,P2p://51.81.90.178:9906/893a1a9d8b3a4efa8b26e0e89f996bb5&kss=333
-AXN,p5p://45.92.126.18:9906/6044d92d0004949903033b6f41d556d0.ts
-AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+
 動作片,#genre#
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 速度与激情1,https://vod.bunediy.com/20200504/hzsbE24q/index.m3u8
