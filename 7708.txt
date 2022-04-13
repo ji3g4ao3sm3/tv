@@ -15,7 +15,7 @@
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-緯來日本,rtmp://xiaoyu.speedws.com/sat/tv771
+緯來日本,rtmp://59.124.75.138/sat/tv771
 緯來日本,rtmp://59.124.75.153/sat/tv522
 緯來育樂,rtmp://59.124.75.153/sat/tv701
 緯來育樂,rtmp://59.124.75.153:1935/sat/tv701
