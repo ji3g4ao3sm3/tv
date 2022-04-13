@@ -145,11 +145,11 @@ HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&
 HBO HD,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 HBO HD,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 HBO HD,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-HBO,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-HBO,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-FOX,https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
-FOX,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-FOX,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 動作片,#genre#
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 速度与激情1,https://vod.bunediy.com/20200504/hzsbE24q/index.m3u8
