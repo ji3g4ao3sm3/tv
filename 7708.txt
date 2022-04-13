@@ -11,7 +11,6 @@
 三立都會台,http://seb.sason.top/sc/slinews_fhd.m3u8
 衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
-東森超視,rtmp://161.202.204.248/sat/tv772#rtmp://161.202.204.248:1935/sat/tv771#rtmp://161.202.204.248/sat/tv771
 東森戲劇台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
 TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 MoMo綜合,rtmp://59.124.75.150/sat/tv761
@@ -22,6 +21,11 @@ MoMo綜合,rtmp://59.124.75.150/sat/tv761
 緯來日本,rtmp://59.124.75.153/sat/tv522
 緯來育樂,rtmp://59.124.75.150/sat/tv701
 緯來育樂,rtmp://59.124.75.138/sat/tv701
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 台灣新聞,#genre#
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 民視新聞,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
