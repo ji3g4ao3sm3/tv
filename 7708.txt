@@ -32,8 +32,7 @@ MoMo綜合,rtmp://59.124.75.150/sat/tv761
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
 三立LIVE新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-東森LIVE,https://git.io/Jgkps
-東森LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 TVBS新聞,rtmp://59.124.75.138/sat/tv551
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
