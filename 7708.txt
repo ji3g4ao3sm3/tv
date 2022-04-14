@@ -1,4 +1,4 @@
-﻿台灣,#genre#
+﻿台灣頻道,#genre#
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 中視,rtmp://59.124.75.138/sat/tv091
@@ -72,7 +72,7 @@ MBC Daejeon,https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
-電影,#genre#
+外國電視台,#genre#
 CINEMAX,http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 HBOFamily,http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 HBOSignature,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
