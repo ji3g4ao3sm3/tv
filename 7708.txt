@@ -73,9 +73,7 @@ ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1c
 NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
 電影,#genre#
-CINEMAX,http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18392&tsum=5d6639abf9c0be1bdb8ded47c91e3af7
 CINEMAX,http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
-HBOFamily,http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBOFamily,http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 HBOSignature,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
