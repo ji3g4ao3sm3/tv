@@ -5,8 +5,6 @@
 台視,rtmp://59.124.75.138/sat/tv071
 華視,rtmp://59.124.75.138/sat/tv111
 公視,http://hp1.ottclub.info:1935/live/c729.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
-公視,rtmp://s01.ottclub.info:1935/live/c729.stream
-公視,rtmp://s01.ottclub.info:1935/live/c239.stream
 三立,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立,http://seb.sason.top/sc/slinews_fhd.m3u8
 衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
