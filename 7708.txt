@@ -17,6 +17,10 @@
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 MoMo綜合,rtmp://59.124.75.150/sat/tv761
+八大第一台,http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+八大娛樂台,http://50.7.218.42:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
+八大綜合台,http://50.7.218.42:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+八大戲劇台,http://50.7.218.42:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
