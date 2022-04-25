@@ -6,7 +6,6 @@
 華視,rtmp://59.124.75.138/sat/tv111
 公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 三立,http://seb.sason.top/sc/slinews_fhd.m3u8
-三立,http://seb.sason.top/sc/slinews_fhd.m3u8
 大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
