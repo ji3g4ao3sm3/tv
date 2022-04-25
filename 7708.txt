@@ -70,7 +70,6 @@ CI,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=178
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 東森幼幼台,https://git.io/JgYON
 CN卡通,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live205/4gtv-live-mid/720.m3u8?token=s6yKcVNA0R83ApV87C0ARw&expires=1650903554&token1=9DsKFmk9O_FEoCZvDJNKkQ&expires1=1650903554
-迪斯尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
 海綿寶寶,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
 湯姆貓與傑利鼠,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 巧虎,http://118.26.120.37:55336/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
