@@ -68,6 +68,7 @@ QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 
 韓國頻道,#genre#
+The K-POP,https://git.io/JgYAE
 KBS,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 KBS 國際頻道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 SBS,http://ye23.win/iptv/korea2021.php?id=TJB
