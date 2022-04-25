@@ -56,9 +56,11 @@ CatchPlay電影,http://50.7.218.42:8278/catchplay_twn/playlist.m3u8?tid=ma51023a
 好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 HBOSignature,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+CI 罪案偵查頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live027/4gtv-live-mid/720.m3u8?token=2kkVQeU37zxh5vDSJpCR3g&expires=1650904866&token1=RltHU27G5_5ruMmU6Gvi0A&expires1=1650904866
+
+國家地理,#genre#
 Discovery科學,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 Discovery,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
-CI 罪案偵查頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live027/4gtv-live-mid/720.m3u8?token=2kkVQeU37zxh5vDSJpCR3g&expires=1650904866&token1=RltHU27G5_5ruMmU6Gvi0A&expires1=1650904866
 國家地理頻道(臺灣),http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
