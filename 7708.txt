@@ -43,7 +43,7 @@ TVBS新聞,rtmp://59.124.75.138/sat/tv551
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-
+CNN頭條新聞台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live203/4gtv-live-mid/720.m3u8?token=Df7XXeXCakljhi0pdRzvlQ&expires=1650903814&token1=4pHU68Tm3PPPyufIWt8DTw&expires1=1650903814
 
 
 電影頻道,#genre#
