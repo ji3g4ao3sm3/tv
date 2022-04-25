@@ -72,6 +72,8 @@ MOMO親子台https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live
 東森幼幼台,https://git.io/JgYON
 靖洋卡通Nice Bingo,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv057/4gtv-live-mid/4gtv-4gtv057-avc1_2000000=3-mp4a_129000_zho=7.m3u8?token=cJ9zppKHHw77VhcTYe9V5Q&expires=1650904455&token1=dBvXuqtvo0XutSX-WvxtOQ&expires1=1650904455
 CN卡通,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live205/4gtv-live-mid/720.m3u8?token=s6yKcVNA0R83ApV87C0ARw&expires=1650903554&token1=9DsKFmk9O_FEoCZvDJNKkQ&expires1=1650903554
+精選動漫台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/720.m3u8?token=k8tYdehe0US4PbqFTeewVA&expires=1650922195&token1=n9G3vXyRT7oE8QtRnVMdnw&expires1=1650922195
+經典卡通台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live022/4gtv-live-mid/720.m3u8?token=mrTUWtwWF5Yrsoa6YAHlng&expires=1650921830&token1=S3RVvFTPOXk881RizoxlLA&expires1=1650921830
 海綿寶寶,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
 湯姆貓與傑利鼠,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 巧虎,http://118.26.120.37:55336/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
@@ -82,7 +84,6 @@ CN卡通,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live205/4gtv-live-mid
 中華小當家,http://txtest-xp2p.p2p.huya.com/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
 喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
 名偵探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-經典卡通台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live022/4gtv-live-mid/720.m3u8?token=mrTUWtwWF5Yrsoa6YAHlng&expires=1650921830&token1=S3RVvFTPOXk881RizoxlLA&expires1=1650921830
 超人力霸王,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
 倒霉熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 
