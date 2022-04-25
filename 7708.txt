@@ -65,6 +65,8 @@ Discovery,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A28441889
 國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 動物星球,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+History歷史,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live026/4gtv-live-mid/720.m3u8?token=7h0in6V2lAJbJAq_bCL36w&expires=1650905763&token1=XUCHcVep1ikcTl7u32o7wA&expires1=1650905763
+TechStorm,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live109/4gtv-live-mid/720.m3u8?token=fJuTE2wB3EloTvwq90y6zQ&expires=1650905889&token1=l8q5qjo_cCe-FjeLYixnGA&expires1=1650905889
 
 
 動畫頻道,#genre#
