@@ -44,6 +44,8 @@ TVBS新聞,rtmp://59.124.75.138/sat/tv551
 寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+
+
 電影頻道,#genre#
 東森洋片台,http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 EYE戲劇,http://50.7.218.42:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
@@ -62,6 +64,7 @@ CI,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=178
 國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 動物星球,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+
 
 動畫頻道,#genre#
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
@@ -145,6 +148,7 @@ MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070
 18 届世界盃足球,http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
 足球介紹,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
 
+
 港澳頻道,#genre#
 無線財經,http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353
 J2,http://120.84.96.29:808/hls/86/index.m3u8
@@ -154,6 +158,7 @@ J2,http://120.84.96.29:808/hls/86/index.m3u8
 鳳凰資訊,http://50.7.218.42:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 香港RHK31,http://50.7.218.42:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094
 香港RHK32,http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+
 
 日本頻道,#genre#
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -166,6 +171,7 @@ AT-X,https://sub2.neetball.net/live/neet.m3u8
 QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 
+
 韓國頻道,#genre#
 The K-POP,https://git.io/JgYAE
 KBS,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
@@ -175,6 +181,7 @@ MBC 韓劇頻道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC Daejeon,https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
 
 動作片,#genre#
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
@@ -231,6 +238,8 @@ NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 极地反击,https://vod.bunediy.com/20210604/yCxhkxv0/index.m3u8
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
+
+
 科幻片,#genre#
 X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 黑衣人1,https://vod.bunediy.com/20210423/sPJL0UDN/index.m3u8
@@ -269,6 +278,8 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 阿丽塔,https://vod2.buycar5.cn/20201029/45OCwScC/1000kb/hls/index.m3u8
 皇家次子女秘密组织,https://vod4.buycar5.cn/20201116/cLjrmY2D/1000kb/hls/index.m3u8
 超能计划,https://video.buycar5.cn/20200818/SEImmz43/1000kb/hls/index.m3u8
+
+
 喜劇片,#genre#
 男儿王,https://sod.bunediy.com/20210805/1QqETSkl/index.m3u8
 奇花记,https://vod.bunediy.com/20210528/rhWni38B/index.m3u8
@@ -292,6 +303,8 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 宝贝老板2,https://vod.bunediy.com/20210706/NiYYm3Ki/index.m3u8
 黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
 天使替我来爱你,https://vod.bunediy.com/20210529/G2jY90Mb/index.m3u8
+
+
 恐怖片,#genre#
 王国北方的阿信,https://vod.bunediy.com/20210723/ISvKTPET/index.m3u8
 恐惧街1,https://vod.bunediy.com/20210702/pEsIzOE2/index.m3u8
@@ -325,6 +338,8 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 明天的记忆,https://vod.bunediy.com/20210516/2NIkoFSR/index.m3u8
 笔仙怪谈,https://vod.bunediy.com/20210519/75UEjIKE/index.m3u8
 深海狂鲨3,https://vod.bunediy.com/20200728/jmzbVL3q/index.m3u8
+
+
 戰爭片,#genre#
 敦刻尔克,https://vod.bunediy.com/20200505/9lnPcpJs/index.m3u8
 敢死队,https://vod.bunediy.com/20200414/viyQfwe6/index.m3u8
@@ -342,6 +357,8 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 美国叛徒轴心莎莉的审判,https://vod.bunediy.com/20210608/xIyvVk7Q/index.m3u8
 赵云传之龙鸣长坂坡,https://vod.bunediy.com/20201107/UNtYVV05/index.m3u8
 赵子龙,https://vod.bunediy.com/20201130/0XvMrvD4/index.m3u8
+
+
 災難片,#genre#
 一呼百应,https://vod.bunediy.com/20201202/w5BmvUtc/index.m3u8
 战疫2020之我是医生,https://vod.bunediy.com/20201104/fRZDGu3E/index.m3u8
@@ -372,6 +389,8 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 流浪地球2019,https://vod.bunediy.com/20200506/rDqQynvE/index.m3u8
 中国机长2019,https://vod.bunediy.com/20200507/dacHXlEB/index.m3u8
 烈火英雄2019,https://vod.bunediy.com/20200506/fE01jzHV/index.m3u8
+
+
 動畫片,#genre#
 轻松小熊和小薰2021,https://vod.bunediy.com/20210601/5nkUgn7U/index.m3u8
 小美人鱼的奇幻冒险2021,https://vod.bunediy.com/20210630/UUh9l0Lu/index.m3u8
@@ -438,6 +457,8 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 麦路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
 失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 无间风暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
+
+
 成人點播頻道_3368,#genre#
 母子愉悅亂倫-蘭心潔,https://je40u.cdnedge.live/file/avple-images/hls/624eeb896d742407ed435445/playlist.m3u8
 人形機器女友-蕭悅兒,https://je40u.cdnedge.live/file/avple-images/hls/6249a0b0eb0b5f202d561616/playlist.m3u8
