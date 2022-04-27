@@ -77,6 +77,7 @@ MOMO親子台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-liv
 MOMO親子台,http://1257120875.vod2.myqcloud.com/0ef121cdvodtransgzp1257120875/3055695e5285890780828799271/v.f230.m3u8
 東森幼幼台,https://git.io/JgYON
 CN卡通,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live205/4gtv-live-mid/720.m3u8?token=IT47Yk-K7GfUSql5sVthQw&expires=1651051909&token1=gVy1leynRWJTvGwuDFi97g&expires1=1651051909
+CN卡通,http://kb1.ottclub.info:443/water/c678.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
 CN卡通,http://1257120875.vod2.myqcloud.com/0ef121cdvodtransgzp1257120875/3055695e5285890780828799271/v.f230.m3u8
 精選動漫台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/720.m3u8?token=k8tYdehe0US4PbqFTeewVA&expires=1650922195&token1=n9G3vXyRT7oE8QtRnVMdnw&expires1=1650922195
 經典卡通台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live022/4gtv-live-mid/720.m3u8?token=m5jfjDcm_r-bzx7gWnwS6Q&expires=1651068124&token1=rQ80hbJSP2iL3ZHH_hWuNw&expires1=1651068124
