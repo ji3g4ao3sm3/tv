@@ -78,7 +78,7 @@ MOMO親子台https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live
 靖洋卡通Nice Bingo,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv057/4gtv-live-mid/4gtv-4gtv057-avc1_2000000=3-mp4a_129000_zho=7.m3u8?token=cJ9zppKHHw77VhcTYe9V5Q&expires=1650904455&token1=dBvXuqtvo0XutSX-WvxtOQ&expires1=1650904455
 CN卡通,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live205/4gtv-live-mid/720.m3u8?token=s6yKcVNA0R83ApV87C0ARw&expires=1650903554&token1=9DsKFmk9O_FEoCZvDJNKkQ&expires1=1650903554
 精選動漫台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/720.m3u8?token=k8tYdehe0US4PbqFTeewVA&expires=1650922195&token1=n9G3vXyRT7oE8QtRnVMdnw&expires1=1650922195
-經典卡通台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live022/4gtv-live-mid/720.m3u8?token=mrTUWtwWF5Yrsoa6YAHlng&expires=1650921830&token1=S3RVvFTPOXk881RizoxlLA&expires1=1650921830
+經典卡通台,http://1257120875.vod2.myqcloud.com/0ef121cdvodtransgzp1257120875/3055695e5285890780828799271/v.f230.m3u8
 海綿寶寶,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
 湯姆貓與傑利鼠,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 巧虎,http://118.26.120.37:55336/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
