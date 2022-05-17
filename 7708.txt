@@ -1,7 +1,7 @@
 ﻿台灣頻道,#genre#
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
-中視,http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+中視經典,http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 台視,http://50.7.218.42:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 華視,http://50.7.218.42:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
@@ -76,10 +76,6 @@ CI 罪案偵查頻道,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f747
 MOMO親子台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live-mid/720.m3u8?token=cFsR5mY_Zfjj5-C4jq3AUA&expires=1651068542&token1=v7i9vspFGXdohqoSU9vFhQ&expires1=1651068542
 MOMO親子台,http://1257120875.vod2.myqcloud.com/0ef121cdvodtransgzp1257120875/3055695e5285890780828799271/v.f230.m3u8
 東森幼幼台,https://git.io/JgYON
-CN卡通,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live205/4gtv-live-mid/720.m3u8?token=IT47Yk-K7GfUSql5sVthQw&expires=1651051909&token1=gVy1leynRWJTvGwuDFi97g&expires1=1651051909
-精選動漫台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/720.m3u8?token=k8tYdehe0US4PbqFTeewVA&expires=1650922195&token1=n9G3vXyRT7oE8QtRnVMdnw&expires1=1650922195
-經典卡通台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live022/4gtv-live-mid/720.m3u8?token=m5jfjDcm_r-bzx7gWnwS6Q&expires=1651068124&token1=rQ80hbJSP2iL3ZHH_hWuNw&expires1=1651068124
-經典卡通台,http://1257120875.vod2.myqcloud.com/0ef121cdvodtransgzp1257120875/3055695e5285890780828799271/v.f230.m3u8
 海綿寶寶,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
 湯姆貓與傑利鼠,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 巧虎,http://118.26.120.37:55336/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
