@@ -1,11 +1,16 @@
 ﻿台灣頻道,#genre#
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
-中視經典,http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 台視,http://50.7.218.42:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 華視,http://50.7.218.42:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 三立臺灣台,http://59.125.101.187:8501/playlist.m3u8
+三立綜合台,http://50.7.218.42:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
@@ -19,12 +24,11 @@ MoMo綜合,rtmp://59.124.75.150/sat/tv761
 八大娛樂台,http://50.7.218.42:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
 八大綜合台,http://50.7.218.42:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 八大戲劇台,http://50.7.218.42:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
-民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
-公視戲劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv042/4gtv-live-mid/4gtv-4gtv042-avc1_2000000=3-mp4a_139000_zho=6.m3u8?token=3Lp5SwzaeTZqI6R4hJpU-A&expires=1650921603&token1=xWPswsEpbkS5Isx4dIiPRg&expires1=1650921603
+中視經典,http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+中天綜合台,http://50.7.218.42:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天娛樂台,http://50.7.218.42:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+中天亞洲台,http://50.7.218.42:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+JET綜合台,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 
 台灣新聞,#genre#
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
