@@ -7,6 +7,7 @@
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 台視,http://50.7.218.42:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
+華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 華視,http://50.7.218.42:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 三立臺灣台,http://59.125.101.187:8501/playlist.m3u8
