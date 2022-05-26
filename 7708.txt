@@ -30,6 +30,7 @@ JET綜合台,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8?fbclid=IwAR2uErpXmasWyKXdAsf_7CmAt16pfI_p8LnqdgrwtxWmErj7tq4NSTRtnPc
+幸福空間居家,http://61.58.60.230:9319/live/125.m3u8
 
 📺台灣新聞,#genre#
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
