@@ -79,6 +79,7 @@ Discovery,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A28441889
 History歷史,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live026/4gtv-live-mid/720.m3u8?token=7h0in6V2lAJbJAq_bCL36w&expires=1650905763&token1=XUCHcVep1ikcTl7u32o7wA&expires1=1650905763
 TechStorm,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live109/4gtv-live-mid/720.m3u8?token=fJuTE2wB3EloTvwq90y6zQ&expires=1650905889&token1=l8q5qjo_cCe-FjeLYixnGA&expires1=1650905889
 CI 罪案偵查頻道,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+VIUTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
 
 🌈動畫頻道,#genre#
