@@ -32,7 +32,7 @@ JET綜合台,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012
 大愛,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8?fbclid=IwAR2uErpXmasWyKXdAsf_7CmAt16pfI_p8LnqdgrwtxWmErj7tq4NSTRtnPc
 
-台灣新聞,#genre#
+📺台灣新聞,#genre#
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 民視新聞,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
@@ -51,7 +51,7 @@ TVBS新聞,rtmp://59.124.75.138/sat/tv551
 寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 
 
-電影頻道,#genre#
+🎦電影頻道,#genre#
 東森洋片台,http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 EYE戲劇,http://50.7.218.42:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 緯來電影台,http://50.7.218.42:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
@@ -97,7 +97,7 @@ BabyTV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=183
 倒霉熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 
 
-體育直播,#genre#
+⚽體育直播,#genre#
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 緯來體育,rtmp://59.124.75.150/sat/tv721
 愛爾達體育,rtmp://59.124.75.150/sat/md051
@@ -138,7 +138,7 @@ MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070
 足球介紹,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
 高爾夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-港澳頻道,#genre#
+🇭🇰港澳頻道,#genre#
 無線財經,http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353
 J2,http://120.84.96.29:808/hls/86/index.m3u8
 翡翠台,http://50.7.218.42:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
