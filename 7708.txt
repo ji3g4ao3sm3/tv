@@ -54,6 +54,8 @@ TVBS新聞,rtmp://59.124.75.138/sat/tv551
 
 
 🎦電影頻道,#genre#
+CHC動作電影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://111.20.106.16:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://175.18.189.238:9999/tsfile/live/1019_1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#http://175.18.189.238:9999/tsfile/live/1021_1.m3u8#http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8
 星光影視,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 東森洋片台,http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 EYE戲劇,http://50.7.218.42:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
