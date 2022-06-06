@@ -229,7 +229,7 @@ MBC Daejeon,https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
-測視頻道,#genre#
+測試頻道,#genre#
 中视,rtmp://59.124.75.138/sat/tv091#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#p5p://45.92.126.18:19706/615ceea900061b6e0c5469c546672e4d
 中視經典,p5p://45.92.126.18:19706/615ceee60007b48e0c555876520737b3
