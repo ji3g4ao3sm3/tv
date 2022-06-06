@@ -226,6 +226,26 @@ MBC Daejeon,https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
+測視頻道,#genre#
+中視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+中視新聞 HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中視經典台,http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+華視 HD,http://59.125.101.187:8544/playlist.m3u8
+華視 HD,rtmp://59.124.75.157/sat/tv111
+華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
+國會頻道1,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv1.m3u8
+國會頻道2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv2.m3u8
+台視 HD,http://206.119.173.184/tv/js.php?id=143
+台視新聞 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
+公視 HD,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
+公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+民視 HD,http://seb.sason.top/ptv/ftv.php?id=ms
+民視 HD,rtmp://59.124.75.157/sat/tv051
+民視第一台 HD,http://seb.sason.top/ptv/ftv.php?id=dy
+民視新聞台 HD,http://seb.sason.top/sc/msxw_fhd.m3u8
+民視台灣台 HD,http://seb.sason.top/ptv/ftv.php?id=tw
 
 動作片,#genre#
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
