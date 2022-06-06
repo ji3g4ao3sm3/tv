@@ -6,6 +6,7 @@
 民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
+公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 緯來日本,rtmp://59.124.75.138/sat/tv771
 緯來日本,rtmp://59.124.75.153/sat/tv522
 緯來育樂,rtmp://59.124.75.150/sat/tv701
