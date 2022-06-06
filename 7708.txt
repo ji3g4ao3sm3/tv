@@ -21,8 +21,8 @@ CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8	
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-豬哥亮歌廳秀
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv006/4gtv-live-mid/4gtv-4gtv006-avc1_2000000=6-mp4a_135000=8.m3u8?token=q5baFwkekJx0PhripWZ-bA&expires=1654530098&token1=ze07HHUnyVGrMCSxkhIKrA&expires1=1654530098
+豬哥亮歌廳秀,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv006/4gtv-live-mid/4gtv-4gtv006-avc1_2000000=6-mp4a_135000=8.m3u8?token=q5baFwkekJx0PhripWZ-bA&expires=1654530098&token1=ze07HHUnyVGrMCSxkhIKrA&expires1=1654530098
+公視戲劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv042/4gtv-live-mid/4gtv-4gtv042-avc1_2000000=3-mp4a_139000_zho=6.m3u8
 📺台灣新聞,#genre#
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 民視新聞,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
