@@ -1,8 +1,8 @@
 ﻿🇹🇼台灣頻道,#genre#
 民視,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/index.m3u8?token=LLC63xc4n_rn5KYJTLF1vA&expires=1665790848&token1=LVRoxnhsMu8OFOGbZ8qLBA&expires1=1665790848
 民視第一台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=0MYcbuA8kbbAwTUgjdT7Yg&expires=1665791809&token1=n1TJpNsDvoFiIIhuVZmzMg&expires1=1665791809
-民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視台灣台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/index.m3u8?token=P2ovg3kUVw8_-MQIfZIX6A&expires=1665791855&token1=PISujwk9VW0r8P0u6SPjWg&expires1=1665791855
+民視綜藝台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv004/4gtv-live-mid/index.m3u8?token=lbfMwkCoIcdfPYIdnG4I6A&expires=1665791964&token1=0tjsRSO2U3MVG-q3web8MA&expires1=1665791964
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
@@ -62,18 +62,6 @@ CatchPlay電影,http://50.7.218.42:8278/catchplay_twn/playlist.m3u8?tid=ma51023a
 好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 HBOSignature,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-
-
-🐧國家地理,#genre#
-地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-Discovery科學,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
-Discovery,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
-國家地理頻道(臺灣),http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
-國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-動物星球,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-CI 罪案偵查頻道,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-
 
 🌈動畫頻道,#genre#
 原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
