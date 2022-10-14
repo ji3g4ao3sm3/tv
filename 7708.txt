@@ -3,8 +3,8 @@
 民視第一台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=0MYcbuA8kbbAwTUgjdT7Yg&expires=1665791809&token1=n1TJpNsDvoFiIIhuVZmzMg&expires1=1665791809
 民視台灣台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/index.m3u8?token=P2ovg3kUVw8_-MQIfZIX6A&expires=1665791855&token1=PISujwk9VW0r8P0u6SPjWg&expires1=1665791855
 民視綜藝台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv004/4gtv-live-mid/index.m3u8?token=lbfMwkCoIcdfPYIdnG4I6A&expires=1665791964&token1=0tjsRSO2U3MVG-q3web8MA&expires1=1665791964
-民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
+民視影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv09/4gtv-live-mid/index.m3u8?token=kh4plaV67agQejin2_n96A&expires=1665792773&token1=N7g3b6v7xI__W-6lLiPbmw&expires1=1665792773
+民視旅遊,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv07/4gtv-live-mid/index.m3u8?token=-IFojOEZ9I8g2EugrpzlVg&expires=1665792844&token1=5nVNV_wdClxx4MLdM4LNuw&expires1=1665792844
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 緯來日本,rtmp://59.124.75.138/sat/tv771
 緯來日本,rtmp://59.124.75.153/sat/tv522
