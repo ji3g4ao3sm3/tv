@@ -1,6 +1,6 @@
 ﻿🇹🇼台灣頻道,#genre#
 民視,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/index.m3u8?token=LLC63xc4n_rn5KYJTLF1vA&expires=1665790848&token1=LVRoxnhsMu8OFOGbZ8qLBA&expires1=1665790848
-民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民視第一台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=Kqcs9KPHCpOGUSkgu3N3FQ&expires=1665791128&token1=TkPe_lUuLvjiphHV2iXvdg&expires1=1665791128
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
