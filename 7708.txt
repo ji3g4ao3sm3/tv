@@ -55,8 +55,18 @@ TVBS新聞,rtmp://59.124.75.138/sat/tv551
 
 🎦電影頻道,#genre#
 HBO,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-CHC動作電影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://111.20.106.16:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://175.18.189.238:9999/tsfile/live/1019_1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#http://175.18.189.238:9999/tsfile/live/1021_1.m3u8#http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8
+HBO 2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO HITS,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+HBO HITS,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c10053
+Hollywood HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+My Cinema Europe,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live157&nid=176
+漫威宇宙電影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+CHC動作電影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888893/224/3221226465/index.m3u8
+CHC動作電影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
+CHC動作電影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+CHC動作電影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8
 星光影視,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 VIUTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 東森電影台,http://120.84.96.25:808/hls/32/index.m3u8
