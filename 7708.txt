@@ -36,7 +36,7 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 好消息電視台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 東森美洲衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 動物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
-
+原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 
 📺台灣新聞,#genre#
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -86,8 +86,7 @@ CatchPlay電影,http://50.7.218.42:8278/catchplay_twn/playlist.m3u8?tid=ma51023a
 HBOSignature,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
 🌈動畫頻道,#genre#
-原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+
 靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 MOMO親子台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live-mid/720.m3u8?token=cFsR5mY_Zfjj5-C4jq3AUA&expires=1651068542&token1=v7i9vspFGXdohqoSU9vFhQ&expires1=1651068542
 MOMO親子台,http://1257120875.vod2.myqcloud.com/0ef121cdvodtransgzp1257120875/3055695e5285890780828799271/v.f230.m3u8
