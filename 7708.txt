@@ -82,7 +82,7 @@ CatchPlay電影,http://50.7.218.42:8278/catchplay_twn/playlist.m3u8?tid=ma51023a
 HBOSignature,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
 🌈動畫頻道,#genre#
-
+Cartoon Network 台湾,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 MOMO親子台,http://1257120875.vod2.myqcloud.com/0ef121cdvodtransgzp1257120875/3055695e5285890780828799271/v.f230.m3u8
 東森幼幼台,,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
