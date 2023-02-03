@@ -114,12 +114,7 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 民視臺灣,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 民視臺灣,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 民視臺灣,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-東風37,http://123.51.229.65:18560/.m3u8
-東風37,http://218.32.47.179:18528/.m3u8
-東風37,http://60.251.33.252:18560/.m3u8
-東風37,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
-東森超視 HD,http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-東森超視 HD,http://50.7.220.74:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森綜合 HD,http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 東森綜合 HD,http://218.32.47.179:18524/.m3u8
@@ -219,9 +214,11 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 龍華戲劇,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 龍華戲劇,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 龍華戲劇,http://220.134.196.147:9544/index.m3u8
+東風37,http://123.51.229.65:18560/.m3u8
+東風37,http://218.32.47.179:18528/.m3u8
+東風37,http://60.251.33.252:18560/.m3u8
+東風37,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 采昌影劇,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-ONE,http://line.premiumpowers.net:80/Manuel/1234567/941628
-ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
 豬哥亮歌廳秀,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=835
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/.m3u8
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
@@ -229,6 +226,9 @@ ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
 幸福空間居家台,https://git.io/JgYYF
 幸福空間居家台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=838
 幸福空間居家台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
+臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 📺台灣新聞頻道,#genre#
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -683,9 +683,7 @@ MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 彰化生活台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
-臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
 
 外語流行頻道,#genre#
 ALL THE K-POP,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10
