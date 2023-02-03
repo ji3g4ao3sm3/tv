@@ -354,23 +354,7 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 原住民族電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
 
 🎦電影輪流播,#genre#
-周星驰,http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-林正英,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-李连杰,http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
-成龙,http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-斯坦森,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-徐克,http://tx.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1.m3u8
-赌博,http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-欢笑剧场,http://111.48.34.190/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225776/1.m3u8?icpid=88888888&from=1&hms_devid=1263
-每日影院,http://42.48.60.248:8082/live/gqts-800k.m3u8
-超级电影,http://111.13.42.13/PLTV/88888888/224/3221226133/1.m3u8
-警匪,http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
-怪物科幻,http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-丧尸,http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-战争,http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-漫威,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-HBOSignature,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 東森電影,http://120.84.96.71:808/hls/32/index.m3u8
