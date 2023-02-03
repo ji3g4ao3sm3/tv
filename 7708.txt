@@ -176,17 +176,6 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 衛視中文台 HD,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
 衛視中文台 HD,http://50.7.220.74:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
 衛視中文台,http://line.premiumpowers.net:80/Manuel/1234567/941624
-衛視闔家歡,http://220.134.196.147:9561/http/116.50.42.18:8081/hls/61/803/ch02.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-衛視闔家歡,http://220.134.196.147:9561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
-衛視闔家歡,http://60.251.33.252:18504/.m3u8
-衛視卡式台,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/277260/live_372775317_46465575_1500/index.m3u8
-衛視卡式台,https://cn-jsnt-ct-01-04.bilivideo.com/live-bvc/790291/live_372775317_46465575/index.m3u8
-衛視卡式台,https://cn-zjjh-ct-04-03.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
-衛視卡式台,https://cn-jssz-cm-02-20.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
-衛視卡式台,https://cn-hnld-ct-01-56.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
-衛視卡式台,https://cn-hnly-cu-01-11.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
-衛視卡式台,https://cn-hbyc-ct-02-16.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
-衛視卡式台,https://cn-cq-ct-01-03.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
 
 東風37,http://123.51.229.65:18560/.m3u8
 東風37,http://218.32.47.179:18528/.m3u8
@@ -351,6 +340,9 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 衛視電影 HD,http://220.134.196.147:9558/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646f6868906a760733c82ee9b65e9e19dd55
 衛視電影 HD,http://220.134.196.147:9578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
 衛視電影 HD,http://218.32.47.179:18553/.m3u8
+衛視闔家歡,http://220.134.196.147:9561/http/116.50.42.18:8081/hls/61/803/ch02.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+衛視闔家歡,http://220.134.196.147:9561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+衛視闔家歡,http://60.251.33.252:18504/.m3u8
 衛視電影 HD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖天電影,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
