@@ -657,7 +657,7 @@ MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070
 高爾夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
 
-台灣地區頻道,#genre#
+🚉台灣地區頻道,#genre#
 客家電視台,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/.m3u8
 客家電視台,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
 正德電視台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=61
@@ -667,7 +667,7 @@ MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070
 彰化生活台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
 
 
-外語流行頻道,#genre#
+🎶外語流行頻道,#genre#
 ALL THE K-POP,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10
 THE K-POP,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S14
 The K-POP,https://git.io/JgYAE
@@ -690,7 +690,7 @@ EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 時尚台FTV4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 時裝頻道,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 
-外語新聞頻道,#genre#
+👩‍💼外語新聞頻道,#genre#
 ABC NEWS LIVE,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418139
 ABC News,http://198.16.64.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 ABC News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
