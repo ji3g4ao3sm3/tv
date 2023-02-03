@@ -1,12 +1,5 @@
 ﻿🇹🇼台灣綜合頻道,#genre#
-AXN,http://218.32.47.179:18558/.m3u8
-AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
-AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
-AXN,http://198.16.64.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
-AXN,http://line.premiumpowers.net:80/Manuel/1234567/941660
-AXN,http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+
 EYETV戲劇,http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 EYETV戲劇,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 EYETV戲劇台,http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
@@ -346,19 +339,7 @@ Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=645
-國會議事轉播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-國會議事轉播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-國會議事轉播,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/parliamentarytv2.m3u8
-立法院 直播內政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
-立法院 直播司法及法制委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
-立法院 直播外交及國防委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
-立法院 直播交通委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
-立法院 直播社會福利及衛生環境委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
-立法院 直播財政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
-立法院 直播院會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
-立法院 直播教育及文化委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
-立法院 直播朝野協商 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
-立法院 直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+
 GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV-10 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
 GOOD TV-11 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
@@ -371,6 +352,14 @@ GOOD TV-6,http://live.streamingfast.net/osmflivech6.m3u8
 GOOD TV-7,http://live.streamingfast.net/osmflivech7.m3u8
 GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
 GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
+AXN,http://218.32.47.179:18558/.m3u8
+AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
+AXN,http://198.16.64.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
+AXN,http://line.premiumpowers.net:80/Manuel/1234567/941660
+AXN,http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 
 📺台灣新聞頻道,#genre#
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -943,6 +932,20 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
 
+國會議事轉播,#genre#
+國會議事轉播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+國會議事轉播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+國會議事轉播,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/parliamentarytv2.m3u8
+立法院 直播內政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+立法院 直播司法及法制委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
+立法院 直播外交及國防委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
+立法院 直播交通委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
+立法院 直播社會福利及衛生環境委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
+立法院 直播財政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
+立法院 直播院會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
+立法院 直播教育及文化委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
+立法院 直播朝野協商 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
+立法院 直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
 成人點播頻道_3368,#genre#
 母子愉悅亂倫-蘭心潔,https://je40u.cdnedge.live/file/avple-images/hls/624eeb896d742407ed435445/playlist.m3u8
 人形機器女友-蕭悅兒,https://je40u.cdnedge.live/file/avple-images/hls/6249a0b0eb0b5f202d561616/playlist.m3u8
