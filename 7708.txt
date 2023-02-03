@@ -353,51 +353,51 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
 
 
-YY電影-成龍,http://106.53.212.251/daili/yy.php?id=1354888751
-YY電影-林正英03,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-YY電影-林正英04,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
-YY電影-電影輪播01,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
-YY電影-歐美電影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
-YY電影-歐美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
-YY電影-歐美動作電影,http://106.53.212.251/daili/yy.php?id=1382745089
-YY電影-好片看不停,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28205255
-YY電影-周星馳,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
-Bili電影-松鼠精選 動作懸疑戰爭,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/957007/live_252582133_1552126_1500/index.m3u8
-Bili電影-阿梅 電影大片24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/124786/live_334056_8894439_1500/index.m3u8
-Bili電影-喜劇動作僵屍24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/791978/live_14659392_8620418_minihevc/index.m3u8
+成龍,http://106.53.212.251/daili/yy.php?id=1354888751
+林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
+電影輪播01,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+歐美電影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
+歐美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
+歐美動作電影,http://106.53.212.251/daili/yy.php?id=1382745089
+好片看不停,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28205255
+周星馳,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
+松鼠精選 動作懸疑戰爭,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/957007/live_252582133_1552126_1500/index.m3u8
+阿梅 電影大片24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/124786/live_334056_8894439_1500/index.m3u8
+喜劇動作僵屍24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/791978/live_14659392_8620418_minihevc/index.m3u8
 
-鬥魚電影-恐怖故事,http://epg.112114.xyz/douyu/2337939
-鬥魚電影-恐怖經典,http://epg.112114.xyz/douyu/1165374
-鬥魚電影-千部經典,http://epg.112114.xyz/douyu/7882691
-鬥魚電影-恐怖電影,http://epg.112114.xyz/douyu/310926
-鬥魚電影-桃花影院,http://epg.112114.xyz/douyu/7305938
-鬥魚電影-特輯影院,http://epg.112114.xyz/douyu/3637778
-鬥魚電影-神樂影片 1,http://epg.112114.xyz/douyu/122402
-鬥魚電影-神樂影片 2,http://epg.112114.xyz/douyu/85894
-鬥魚電影-鬼片恐怖驚悚,http://epg.112114.xyz/douyu/2935323
-鬥魚電影-鬼吹燈系列,http://epg.112114.xyz/douyu/9292503
-鬥魚電影-國產青春,http://epg.112114.xyz/douyu/5423
-鬥魚電影-救救小鸭吧,http://epg.112114.xyz/douyu/7925840
-鬥魚電影-淩兒影院,http://epg.112114.xyz/douyu/1377142
-鬥魚電影-喜劇經典,http://epg.112114.xyz/douyu/9650887
-鬥魚電影-喜劇電影,http://epg.112114.xyz/douyu/9292492
-鬥魚電影-港式恐怖,http://epg.112114.xyz/douyu/3637726
-鬥魚電影-粤语電影,http://epg.112114.xyz/douyu/1226741
-鬥魚電影-菜園小餅,http://epg.112114.xyz/douyu/7701735
-鬥魚電影-華語動作,http://epg.112114.xyz/douyu/1504768
-鬥魚電影-華語電影,http://epg.112114.xyz/douyu/3928
-鬥魚電影-萌牛影院,http://epg.112114.xyz/douyu/7494871
-鬥魚電影-愛看電影,http://epg.112114.xyz/douyu/432071
-鬥魚電影-粵語電影 1,http://epg.112114.xyz/douyu/2466104
-鬥魚電影-粵語電影 2,http://epg.112114.xyz/douyu/6566671
-鬥魚電影-粵語綜藝,http://epg.112114.xyz/douyu/7919720
-鬥魚電影-經典神劇,http://epg.112114.xyz/douyu/3700024
-鬥魚電影-漫威宇宙 1,http://epg.112114.xyz/douyu/4282654
-鬥魚電影-漫威宇宙 2,http://epg.112114.xyz/douyu/6140589
-鬥魚電影-網神影廳,http://epg.112114.xyz/douyu/508118
-鬥魚電影-劉德華 1,http://epg.112114.xyz/douyu/2516864
-鬥魚電影-劉德華 2,http://epg.112114.xyz/douyu/8985415
-鬥魚電影-歐美大片,http://epg.112114.xyz/douyu/2793084
+恐怖故事,http://epg.112114.xyz/douyu/2337939
+恐怖經典,http://epg.112114.xyz/douyu/1165374
+千部經典,http://epg.112114.xyz/douyu/7882691
+恐怖電影,http://epg.112114.xyz/douyu/310926
+桃花影院,http://epg.112114.xyz/douyu/7305938
+特輯影院,http://epg.112114.xyz/douyu/3637778
+神樂影片 1,http://epg.112114.xyz/douyu/122402
+神樂影片 2,http://epg.112114.xyz/douyu/85894
+鬼片恐怖驚悚,http://epg.112114.xyz/douyu/2935323
+鬼吹燈系列,http://epg.112114.xyz/douyu/9292503
+國產青春,http://epg.112114.xyz/douyu/5423
+救救小鸭吧,http://epg.112114.xyz/douyu/7925840
+淩兒影院,http://epg.112114.xyz/douyu/1377142
+喜劇經典,http://epg.112114.xyz/douyu/9650887
+喜劇電影,http://epg.112114.xyz/douyu/9292492
+港式恐怖,http://epg.112114.xyz/douyu/3637726
+粤语電影,http://epg.112114.xyz/douyu/1226741
+菜園小餅,http://epg.112114.xyz/douyu/7701735
+華語動作,http://epg.112114.xyz/douyu/1504768
+華語電影,http://epg.112114.xyz/douyu/3928
+萌牛影院,http://epg.112114.xyz/douyu/7494871
+愛看電影,http://epg.112114.xyz/douyu/432071
+粵語電影 1,http://epg.112114.xyz/douyu/2466104
+粵語電影 2,http://epg.112114.xyz/douyu/6566671
+粵語綜藝,http://epg.112114.xyz/douyu/7919720
+經典神劇,http://epg.112114.xyz/douyu/3700024
+漫威宇宙 1,http://epg.112114.xyz/douyu/4282654
+漫威宇宙 2,http://epg.112114.xyz/douyu/6140589
+網神影廳,http://epg.112114.xyz/douyu/508118
+劉德華 1,http://epg.112114.xyz/douyu/2516864
+劉德華 2,http://epg.112114.xyz/douyu/8985415
+歐美大片,http://epg.112114.xyz/douyu/2793084
 
 🌈動畫頻道,#genre#
 CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
