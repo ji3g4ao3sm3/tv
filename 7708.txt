@@ -139,11 +139,6 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 華視綜合娛樂,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 華視綜合娛樂,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 愛爾達娛樂 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-愛爾達影劇 HD,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
-愛爾達影劇 HD,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
-愛爾達影劇 HD,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-愛爾達影劇 HD,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-愛爾達影劇,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 靖天日本,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 靖天日本,https://epg.pm/stream/c6d33420f57fe5f24617c15006265ed2839e3457cc894110d1f54e6302d58bd5.m3u8
 靖天育樂,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
@@ -158,7 +153,6 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 靖天戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
 靖天歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 靖天歡樂,https://epg.pm/stream/9769df2e1a2ba12009747d6ddd1ff1f38d6b9861b3ea4986539a21cabb1f0ddc.m3u8
-
 靖洋戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 緯來育樂 HD,http://218.32.47.179:18562/.m3u8
 緯來育樂 HD,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
