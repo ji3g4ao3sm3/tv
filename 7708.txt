@@ -354,7 +354,7 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 
 
 成龍,http://106.53.212.251/daili/yy.php?id=1354888751
-林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+
 林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
 電影輪播01,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
 歐美電影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
