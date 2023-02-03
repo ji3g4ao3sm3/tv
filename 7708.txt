@@ -359,6 +359,18 @@ Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV
 立法院 直播教育及文化委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
 立法院 直播朝野協商 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
 立法院 直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
+GOOD TV-10 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
+GOOD TV-11 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
+GOOD TV-13 健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
+GOOD TV-14 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
+GOOD TV-2 生活台,http://live.streamingfast.net/osmflivech12.m3u8
+GOOD TV-3 真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
+GOOD TV-5 共用觀點,http://live.streamingfast.net/osmflivech5.m3u8
+GOOD TV-6,http://live.streamingfast.net/osmflivech6.m3u8
+GOOD TV-7,http://live.streamingfast.net/osmflivech7.m3u8
+GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
+GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
 
 📺台灣新聞,#genre#
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -501,6 +513,247 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 战争,http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
 漫威,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 HBOSignature,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
+影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+東森電影,http://120.84.96.71:808/hls/32/index.m3u8
+東森電影,http://120.84.96.72:808/hls/32/index.m3u8
+東森電影,http://120.84.96.73:808/hls/32/index.m3u8
+東森電影,http://120.84.96.78:808/hls/32/index.m3u8
+東森電影,http://120.84.96.85:808/hls/32/index.m3u8
+東森電影,http://120.84.96.89:808/hls/32/index.m3u8
+東森電影,http://120.84.96.96:808/hls/32/index.m3u8
+東森電影,http://120.84.96.120:808/hls/32/index.m3u8
+東森電影,http://120.84.96.125:808/hls/32/index.m3u8
+東森電影,http://120.84.96.126:808/hls/32/index.m3u8
+東森電影,http://120.84.96.196:808/hls/32/index.m3u8
+東森電影,http://120.84.96.233:808/hls/32/index.m3u8
+東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森電影,http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
+衛視電影 HD,http://220.134.196.147:9558/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646f6868906a760733c82ee9b65e9e19dd55
+衛視電影 HD,http://220.134.196.147:9578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
+衛視電影 HD,http://220.134.196.147:9549/index.m3u8
+衛視電影 HD,http://218.32.47.179:18553/.m3u8
+衛視電影 HD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+衛視電影,http://line.premiumpowers.net:80/Manuel/1234567/941625
+StarMovies GOLD HD,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+StarMovies GOLD HD,http://220.134.196.147:9560/index.m3u8
+緯來電影 HD,http://220.134.196.147:9555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
+緯來電影 HD,http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
+緯來電影 HD,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
+緯來電影 HD,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+星衛電影 HD,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛電影 HD,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+星衛電影 HD,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+星衛電影 HD,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
+星衛電影 HD,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛電影 HD,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+龍祥時代,http://120.84.96.71:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.72:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.73:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.78:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.85:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.89:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.96:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.120:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.125:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.126:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.196:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.233:808/hls/35/index.m3u8
+龍祥時代,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=lxsd
+龍祥時代,http://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
+龍祥時代,http://198.16.64.10:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+龍祥時代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+龍祥時代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+龍祥時代,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+龍祥時代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?ct=18335&tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+龍祥時代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
+龍華電影,http://218.32.47.179:18556/.m3u8
+龍華電影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
+美亞電影 HD,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+美亞電影 HD,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?ct=19226&tid=MFEF1001328410013284&tsum=9839709ca0f37641c5d1ba962c3bc739
+美亞電影 HD,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+美亞電影 HD,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖天電影,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+天映經典,http://120.84.96.71:808/hls/85/index.m3u8
+天映經典,http://120.84.96.72:808/hls/85/index.m3u8
+天映經典,http://120.84.96.73:808/hls/85/index.m3u8
+天映經典,http://120.84.96.78:808/hls/85/index.m3u8
+天映經典,http://120.84.96.85:808/hls/85/index.m3u8
+天映經典,http://120.84.96.89:808/hls/85/index.m3u8
+天映經典,http://120.84.96.96:808/hls/85/index.m3u8
+天映經典,http://120.84.96.120:808/hls/85/index.m3u8
+天映經典,http://120.84.96.125:808/hls/85/index.m3u8
+天映經典,http://120.84.96.126:808/hls/85/index.m3u8
+天映經典,http://120.84.96.196:808/hls/85/index.m3u8
+天映經典,http://120.84.96.233:808/hls/85/index.m3u8
+天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
+東森洋片 HD,http://120.84.96.71:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.72:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.73:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.78:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.85:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.89:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.96:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.120:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.125:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.126:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.196:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.233:808/hls/33/index.m3u8
+東森洋片 HD,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+東森洋片 HD,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c2416337202&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片 HD,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+東森洋片 HD,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片 HD,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+東森洋片 HD,http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
+好萊塢電影 HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+好萊塢電影 HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+好萊塢電影 HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+好萊塢電影 HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+好萊塢電影 HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+好萊塢電影 HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+好萊塢電影 HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+好萊塢電影 HD,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+好萊塢電影 HD,http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
+CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+CINEMAX HD,http://218.32.47.179:18559/.m3u8
+CINEMAX HD,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
+CINEMAX HD,http://220.134.196.147:9530/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+CINEMAX HD,http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+CINEMAX HD,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+CINEMAX HD,http://line.premiumpowers.net:80/Manuel/1234567/941659
+Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+HBO,http://220.134.196.147:9557/index.m3u8
+HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+HBO HD,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+HBO原創,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO原創,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO家庭,http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO家庭,http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
+HBO家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+HBO家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO強檔,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+HBO強檔,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+ROCK ENTERTAINMENT,http://line.premiumpowers.net:80/Manuel/1234567/941643
+4K 影視,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+BOO驚悚台,http://23.237.10.66:16420
+BOO驚悚台,https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
+CBN 每日影院,http://122.194.12.119:14312/playurl?protocol=http&playtype=live&auth=no&accesstoken=R5B68EB2BU3090A0ABK7735A043IBF1B73DPBM3147E9BV10422Z4E2C9WDF2B2623FB1&playtoken=ABCDEFGH&programid=4200000078
+CHC家庭影院,http://120.84.96.71:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.72:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.73:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.78:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.85:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.89:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.96:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.120:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.125:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.126:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.196:808/hls/36/index.m3u8
+CHC家庭影院,http://120.84.96.233:808/hls/36/index.m3u8
+CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
+CHC家庭電影,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
+CHC動作電影,http://120.84.96.71:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.72:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.73:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.78:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.85:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.89:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.96:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.120:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.125:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.126:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.196:808/hls/31/index.m3u8
+CHC動作電影,http://120.84.96.233:808/hls/31/index.m3u8
+CHC動作電影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+CHC動作電影,http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
+CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
+CHC高清電影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
+IPTV高清院線,http://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
+Hi-YAH!,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+KINOSHKA Thriller,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18055/index.m3u8
+Kix (印尼字幕),http://210.210.155.37/dr9445/h/h07/index.m3u8
+My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
+NewTV超級電影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+NewTV超級電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+NewTV超級電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
+NewTV超級電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
+NewTV精品電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+PANDA影院,http://182.151.211.171:808/hls/127/index.m3u8
+女神經典影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+女神經典影院,https://pull.kktv8.com/livekktv/99350550.flv
+女神經典影院,https://pull.kktv8.com/livekktv/99350550/playlist.m3u8
+午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+每日影院,http://182.151.211.171:808/hls/128/index.m3u8
+每日影院,http://beifeng.site:4000/udp/239.3.1.111:8001
+芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+明星大片,http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8
+東方影視,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+東方影視,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8 
+東北熱劇,http://39.134.115.163:8080/PLTV/88888910/224/3221226202/index.m3u8
+金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+龍鑫網路電影,http://106.115.27.230:9901/tsfile/live/1029_1.m3u8
+長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+長城精品,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
+長城精品,http://198.16.64.10:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
+峨嵋電影,http://182.151.211.171:808/hls/58/index.m3u8
+峨嵋電影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
+峨嵋電影4K,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
+湖南電影,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f896e9.m3u8
+動作電影,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18050/index.m3u8
+票房電影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+黑莓電影,http://117.169.124.149:8080/live/jdianying/index.m3u8
+黑莓電影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+黑莓電影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
+黑莓電影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225764/index.m3u8
+黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225769/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888910/224/3221225764/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888910/224/3221225769/index.m3u8
+黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225764/index.m3u8
+黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://39.137.49.76:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
+電影輪播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 
 🌈動畫頻道,#genre#
 Cartoon Network 台湾,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
@@ -563,342 +816,132 @@ MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070
 足球介紹,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
 高爾夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-🇭🇰港澳頻道,#genre#
-有線新聞台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
-有線財經新聞台,http://98.142.138.122:1631/zhiboyuandakaTV/icable53832845.m3u8
-耀才財經新聞,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
-耀才財經新聞,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-鳳凰衛視中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-鳳凰衛視諮詢台,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-鳳凰電影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
-麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳視資訊,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-澳視資訊,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8?zgangd
-澳視澳門,http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-澳視澳門,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8?zgangd
-澳視澳門,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8?zgangd
-澳門Macau,http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-澳視綜藝,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
-澳視綜藝,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
-澳視綜藝,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
-澳視綜藝,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
-澳視體育,http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+外語新聞頻道,#genre#
+ABC NEWS LIVE,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418139
+ABC News,http://198.16.64.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+ABC News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
+ABC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376410
+ANN News,http://tv.redrainl.site:9500/live.m3u8?c=29
+BBC 1,http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+BBC 2,http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+BBC America,https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+BBC WORLD NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+BBC WORLD NEWS,http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+BBC WORLD NEWS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418112
+BBC 地球,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
+BETRIA,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bernamanews.m3u8
+Bloomberg News Asia,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
+Bloomberg News,http://tv.redrainl.site:9500/live.m3u8?c=14
+Bloomberg News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+Bloomberg News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bloombergfinance.m3u8
+Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+CBC News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CBS News,http://198.16.64.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+CBS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/424635
+CNA亞洲新聞 International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA亞洲新聞 Singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA亞洲新聞,http://198.16.64.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
+CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+CNA亞洲新聞,http://tv.redrainl.site:9500/live.m3u8?c=38
+CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA亞洲新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+CNA亞洲新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cna.m3u8
+CNBC,http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+CNBC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418115
+CNBC,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
+CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
+CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+CNN International,http://198.16.64.10:8278/cnn_antik/playlist.m3u8?tid=MDDD5459459654594596&ct=19225&tsum=6755808cb6aeb34e391b5c7ab695342a
+CNN,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418435
+CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CW,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419893
+DW 德國之聲,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DW 德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+Euronews,http://198.16.64.10:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+Euronews,https://euronews.alteox.app/hls/en_stream.m3u8
+Euronews,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+Euronews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+FOX NEWS CHANNEL,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488004
+FOX NEWS,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+FOX NEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+France 24,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/france24.m3u8
+France 24,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+France 24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+France 24,http://tv.redrainl.site:9500/live.m3u8?c=13
+France 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+France 24,https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+GB News UK,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+HTB Hokkaido NEWS24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php
+KBS WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+MSNBC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418123
+NBC NEWS NOW,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/405946
+NBC NEWS NOW,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+NEWS,http://tv.redrainl.site:9500/live.m3u8?c=41
+NHK World,http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
+NHK,http://123.51.229.65:18525/.m3u8
+日本24新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
+RT News,http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
+RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+Sky News,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/435362
+TBN Asia,http://210.210.155.35/qwr9ew/s/s39/01.m3u8
+TRT World,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/trtworld.m3u8
+TRT World,http://tv.redrainl.site:9500/live.m3u8?c=35
+TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
+VOA,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+半島電視台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+半島電視台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+半島電視台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半島電視台,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-🇯🇵日本頻道,#genre#
-NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-Animax Japan,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-群馬テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
-Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-Nippon TV,http://203.162.235.41:16905
-AT-X,https://sub2.neetball.net/live/neet.m3u8
-QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
-
-
-🇰🇷韓國頻道,#genre#
-The K-POP,https://git.io/JgYAE
-KBS,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-KBS 國際頻道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-SBS,http://ye23.win/iptv/korea2021.php?id=TJB
-MBC 韓劇頻道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-MBC Daejeon,https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
-ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-
-GOOD TV,#genre#
-GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
-GOOD TV-10 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
-GOOD TV-11 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
-GOOD TV-13 健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
-GOOD TV-14 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
-GOOD TV-2 生活台,http://live.streamingfast.net/osmflivech12.m3u8
-GOOD TV-3 真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
-GOOD TV-5 共用觀點,http://live.streamingfast.net/osmflivech5.m3u8
-GOOD TV-6,http://live.streamingfast.net/osmflivech6.m3u8
-GOOD TV-7,http://live.streamingfast.net/osmflivech7.m3u8
-GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
-GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
-
-
-動作片,#genre#
-丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
-速度与激情1,https://vod.bunediy.com/20200504/hzsbE24q/index.m3u8
-速度与激情2,https://vod.bunediy.com/20200508/XEPv04NL/index.m3u8
-速度与激情3,https://vod.bunediy.com/20200502/o0W0XpNu/index.m3u8
-速度与激情4,https://vod.bunediy.com/20201123/iGZ3KNq0/index.m3u8
-速度与激情5,https://vod.bunediy.com/20200411/1LxuwQJG/index.m3u8
-速度与激情6,https://vod.bunediy.com/20200502/UkkujEjt/index.m3u8
-速度与激情7,https://vod.bunediy.com/20200411/KIyfciyV/index.m3u8
-速度与激情8,https://vod.bunediy.com/20200506/ojX8vBqa/index.m3u8
-速度与激情9,https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
-碟中谍1,https://vod.bunediy.com/20200502/XQLlxzBj/index.m3u8
-碟中谍2,https://vod.bunediy.com/20200502/q8QQd3A7/index.m3u8
-碟中谍3,https://vod3.buycar5.cn/20201112/pKdRJ5In/1000kb/hls/index.m3u8
-碟中谍4,,https://vod.bunediy.com/20200507/YDyIVxVC/index.m3u8
-碟中谍5,https://vod.bunediy.com/20200430/txxPIQyd/index.m3u8
-碟中谍6,https://vod.bunediy.com/20200505/oISZDOVe/index.m3u8
-刺客联盟,https://vod.bunediy.com/20200501/MlJ8cFEN/index.m3u8
-刺客学妹,https://vod.bunediy.com/20200429/zHcjL0Tl/index.m3u8
-超能查派,https://vod.bunediy.com/20210423/82vlXTCU/index.m3u8
-小人物,https://vod.bunediy.com/20210415/YfavRyHH/index.m3u8
-扫黑·决战,https://vod3.buycar5.cn/20210529/PzbOlrXI/1000kb/hls/index.m3u8
-扫黑英雄,https://vod.bunediy.com/20210124/EG8OPhzd/index.m3u8
-那些希望我死的人,https://vod.bunediy.com/20210516/AbSAaINO/index.m3u8
-大师,https://vod.bunediy.com/20210425/qwGkUpoC/index.m3u8
-三重威胁之跨国大营救,https://video.buycar5.cn/20200921/O0MOuVMW/1000kb/hls/index.m3u8
-冷血悍将,https://vod.bunediy.com/20210430/plO3QxQN/index.m3u8
-绝地狙杀,https://vod.bunediy.com/20210701/aP44AiJA/index.m3u8
-特种兵归来4替身疑云,https://vod.bunediy.com/20210205/Gx2xszWU/index.m3u8
-绝色逃生,https://vod.bunediy.com/20210626/7bUKvRKo/index.m3u8
-狂鼠列车,https://vod.bunediy.com/20210114/ziOkPTse/index.m3u8
-神枪手,https://vod.bunediy.com/20210413/PkK1Hiw3/index.m3u8
-异类,https://vod.bunediy.com/20210610/AC0zFCUv/index.m3u8
-绅士们,https://vod.bunediy.com/20210320/VOust4l2/index.m3u8
-新王加冕,https://vod4.buycar5.cn/20210121/ecrjDZB9/1000kb/hls/index.m3u8
-狩猎,https://v3.szjal.cn/20200322/gWs4wNoB/1000kb/hls/index.m3u8
-惊天营救,https://video.buycar5.cn/20200802/yWMtbad5/2000kb/hls/index.m3u8
-特别有种：致命行动,https://vod.bunediy.com/20200802/FIorqGhz/index.m3u8
-漫画威龙之大话特务,https://vod.bunediy.com/20200612/SBZqNjlS/index.m3u8
-火药奶昔,https://vod.bunediy.com/20210715/n0yn4g7S/index.m3u8
-疾速猪杀,https://vod.bunediy.com/20210717/alo7iYhP/index.m3u8
-黑寡妇2021,https://vod.bunediy.com/20210709/J4Ja9qwI/index.m3u8
-刺杀小说家,https://vod.bunediy.com/20210409/nGotUHrq/index.m3u8
-归零地2021,https://vod.bunediy.com/20210706/XSEsvr0h/index.m3u8
-杀手妻子的保镖,https://vod.bunediy.com/20210704/hG0M3qZC/index.m3u8
-午夜2021,https://vod.bunediy.com/20210703/GZ6IqYxN/index.m3u8
-21座桥,https://vod.bunediy.com/20210627/AEdWV4N6/index.m3u8
-混沌行走,https://vod4.buycar5.cn/20210404/YcZULYzt/1000kb/hls/index.m3u8?_t=1625026587283
-大师2021,https://vod4.buycar5.cn/20210425/VnSyV10a/1000kb/hls/index.m3u8?skipl=1
-角头外传,https://vod3.buycar5.cn/20210525/TAG22gSv/1000kb/hls/index.m3u8
-武状元苏乞儿之天降神谕,https://vod.bunediy.com/20210531/AmxIzH9e/index.m3u8
-偷天侠盗团,https://vod.bunediy.com/20210610/AC0zFCUv/index.m3u8
-极地反击,https://vod.bunediy.com/20210604/yCxhkxv0/index.m3u8
-人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
-漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
-
-
-科幻片,#genre#
-X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
-黑衣人1,https://vod.bunediy.com/20210423/sPJL0UDN/index.m3u8
-黑衣人2,https://vod.bunediy.com/20210423/pwxKyrkx/index.m3u8
-黑衣人3,https://vod.bunediy.com/20210423/YTNsu0ts/index.m3u8
-僵尸世界大战,https://vod.bunediy.com/20201114/9NGt3RRS/index.m3u8
-人类清除计划1,https://vod.bunediy.com/20210614/ugWIoqlI/index.m3u8
-人类清除计划2,https://vod.bunediy.com/20210614/a41vtWN3/index.m3u8
-人类清除计划3,https://vod.bunediy.com/20210614/hUKaRUH9/index.m3u8
-人类清除计划4,https://vod.bunediy.com/20210614/OJEilvp8/index.m3u8
-人类清除计划5,https://vod.bunediy.com/20210718/Qh7w1Rip/index.m3u8
-格罗姆少校,https://vod.bunediy.com/20210708/vQm4fsPn/index.m3u8
-缉魂2021,https://vod.bunediy.com/20210226/7cpHlqFm/index.m3u8
-明日之战2021,https://vod.bunediy.com/20210702/zTBLVa5m/index.m3u8
-寂静之地2021,https://vod.bunediy.com/20210628/PSuVWdEh/index.m3u8
-胜利号2021,https://vod.bunediy.com/20210205/KxIiSJ5H/index.m3u8
-哥斯拉大战金刚2021,https://vod.bunediy.com/20210331/LBhwkrkZ/index.m3u8
-无限2021,https://vod.bunediy.com/20210611/M3vrMbYw/index.m3u8
-末日激战2021,https://vod.bunediy.com/20210210/ZRRJVnFq/index.m3u8
-外星罪孽2021,https://vod.bunediy.com/20210602/zNfpRTE2/index.m3u8
-信条2020,https://vod.bunediy.com/20201128/vPsvLMCa/index.m3u8
-我们需要谈谈AI2020,https://vod.bunediy.com/20210403/HiGsIIrq/index.m3u8
-绝密档案2020,https://vod.bunediy.com/20201114/wkJl97Qv/index.m3u8
-喋血战士2020,https://vod.bunediy.com/20210103/6yJbUvOu/index.m3u8
-变形金刚1,https://vod.bunediy.com/20200430/NfSpDY3H/index.m3u8
-变形金刚2,https://vod.bunediy.com/20200413/sS5mUOIR/index.m3u8
-变形金刚3,https://vod.bunediy.com/20200503/S8C2H0KH/index.m3u8
-变形金刚4,https://vod.bunediy.com/20200413/dHlVjwOc/index.m3u8
-变形金刚5,https://vod.bunediy.com/20200413/uGp9n5uQ/index.m3u8
-变异巨蟒,https://vod.bunediy.com/20210502/8Xmd0onj/index.m3u8
-活死人军团,https://vod.bunediy.com/20210521/VwWoDVSP/index.m3u8
-大圣无双,https://vod.bunediy.com/20210617/0C4mR3nv/index.m3u8
-死侍2我爱我家,https://vod.bunediy.com/20210618/eLszCspg/index.m3u8
-天际浩劫3,https://vod3.buycar5.cn/20201218/uVdSCVK0/1000kb/hls/index.m3u8
-鲨鱼:起点2021,https://vod.bunediy.com/20210629/0dNbrFMG/index.m3u8
-阿丽塔,https://vod2.buycar5.cn/20201029/45OCwScC/1000kb/hls/index.m3u8
-皇家次子女秘密组织,https://vod4.buycar5.cn/20201116/cLjrmY2D/1000kb/hls/index.m3u8
-超能计划,https://video.buycar5.cn/20200818/SEImmz43/1000kb/hls/index.m3u8
-
-
-喜劇片,#genre#
-男儿王,https://sod.bunediy.com/20210805/1QqETSkl/index.m3u8
-奇花记,https://vod.bunediy.com/20210528/rhWni38B/index.m3u8
-十四天之暖春来,https://vod.bunediy.com/20210524/5uzpnQYP/index.m3u8
-超越2021,https://vod.bunediy.com/20210715/rXrhK4HA/index.m3u8
-你好李焕英2021,https://n1.szjal.cn/20210501/qrmmoZW5/index.m3u8
-比得兔2021,https://vod.bunediy.com/20210706/92Da0kz4/index.m3u8
-人潮汹涌2021,https://vod.bunediy.com/20210414/RY8Zet12/index.m3u8
-非常保镖2021,https://vod.bunediy.com/20210523/c5qB9U3N/index.m3u8
-巴布与斯塔尔的维斯塔德尔玛之旅2021,https://vod.bunediy.com/20210308/o6hjkoYM/index.m3u8
-疯狂原始人2020,https://vod.bunediy.com/20210216/rwr9EzzI/index.m3u8
-同学麦娜丝2020,https://vod.bunediy.com/20210220/cyVIj5y0/index.m3u8
-骗骗爱上你2020,https://vod.bunediy.com/20210312/2jXLYT3u/index.m3u8
-练爱ing2020,https://vod.bunediy.com/20210708/unRdFznE/index.m3u8
-腿2020,https://vod.bunediy.com/20210401/AduS3RVk/index.m3u8
-公子变形计2020,https://vod.bunediy.com/20210529/ckFQWzVN/index.m3u8
-乘风破浪泰国版2019,https://vod.bunediy.com/20210126/XVngNt7P/index.m3u8
-电击女孩2015,https://vod.bunediy.com/20200429/OUqG2Zq2/index.m3u8
-我很好谢谢我爱你2014,https://vod.bunediy.com/20200423/oCe42Mqu/index.m3u8
-九叔归来2,https://vod.bunediy.com/20210520/wTozNEgQ/index.m3u8
-宝贝老板2,https://vod.bunediy.com/20210706/NiYYm3Ki/index.m3u8
-黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
-天使替我来爱你,https://vod.bunediy.com/20210529/G2jY90Mb/index.m3u8
-
-
-恐怖片,#genre#
-王国北方的阿信,https://vod.bunediy.com/20210723/ISvKTPET/index.m3u8
-恐惧街1,https://vod.bunediy.com/20210702/pEsIzOE2/index.m3u8
-恐惧街2,https://vod.bunediy.com/20210709/3hSO7wXK/index.m3u8
-恐惧街3,https://vod.bunediy.com/20210716/MWbSiOdJ/index.m3u8
-猛鬼实验室2021,https://vod.bunediy.com/20210527/SedKmtZ5/index.m3u8
-我想结束这一切2020,https://vod.bunediy.com/20200905/eYY7CwMR/index.m3u8
-隐形人2020,https://vod.bunediy.com/20200612/pqpBfOmD/index.m3u8
-逃跑2020,https://vod.bunediy.com/20201122/Sk9f5hEr/index.m3u8
-单身请开眼2020,https://vod.bunediy.com/20210619/faOUcwYG/index.m3u8
-红衣小女孩2015,https://vod.bunediy.com/20200715/t1V6hqPv/index.m3u8
-招魂,https://vod.bunediy.com/20200509/ati4Yfl4/index.m3u8
-招魂2,https://vod.bunediy.com/20210423/AuBBjAZg/index.m3u8
-招魂3,https://vod.bunediy.com/20210604/QMhOSfp2/index.m3u8
-潜伏,https://vod.bunediy.com/20210329/3jKg74A3/index.m3u8
-潜伏2,https://vod.bunediy.com/20210329/8yRZPLu5/index.m3u8
-潜伏3,https://vod.bunediy.com/20210329/2GbVfnGl/index.m3u8
-潜伏4,https://vod4.buycar5.cn/20210117/FSn9DWFV/1000kb/hls/index.m3u8
-电锯惊魂1,https://vod.bunediy.com/20200703/J8GbAlOy/index.m3u8
-电锯惊魂2,https://vod.bunediy.com/20210520/YsDKSL8R/index.m3u8
-电锯惊魂3,https://vod.bunediy.com/20210520/QURVL75v/index.m3u8
-电锯惊魂4,https://vod.bunediy.com/20210621/CEwLCvTT/index.m3u8
-电锯惊魂5,https://vod.bunediy.com/20210520/qhQLDMF0/index.m3u8
-电锯惊魂6,https://vod.bunediy.com/20210520/1pyxhCzu/index.m3u8
-电锯惊魂7,https://vod.bunediy.com/20210520/Dfx0uKCs/index.m3u8
-电锯惊魂8,https://vod.bunediy.com/20201218/b5xSmd3g/index.m3u8
-电锯惊魂9,https://vod.bunediy.com/20210601/NjifTcC3/index.m3u8
-粽邪2,https://v3.dious.cc/20201231/ATOfMqkY/1000kb/hls/index.m3u8
-红衣小女孩外传,https://vod2.buycar5.cn/20200911/d8OCUkLG/1000kb/hls/index.m3u8
-流言,https://vod.bunediy.com/20210617/YcAQfTTo/index.m3u8
-明天的记忆,https://vod.bunediy.com/20210516/2NIkoFSR/index.m3u8
-笔仙怪谈,https://vod.bunediy.com/20210519/75UEjIKE/index.m3u8
-深海狂鲨3,https://vod.bunediy.com/20200728/jmzbVL3q/index.m3u8
-
-
-戰爭片,#genre#
-敦刻尔克,https://vod.bunediy.com/20200505/9lnPcpJs/index.m3u8
-敢死队,https://vod.bunediy.com/20200414/viyQfwe6/index.m3u8
-敢死队2,https://vod.bunediy.com/20200507/PlYF2nAX/index.m3u8
-敢死队3,https://video.buycar5.cn/20200902/hN54huLN/1000kb/hls/index.m3u8
-长城,https://vod.bunediy.com/20201112/D12bKXu1/index.m3u8
-海豹突击队大战僵尸,https://vod.bunediy.com/20200429/V37xe7Sd/index.m3u8
-勇者行动,https://vod4.buycar5.cn/20210319/lEblpSN4/1000kb/hls/index.m3u8
-浴血无名川2021,https://vod.bunediy.com/20210402/0XLg8Moc/index.m3u8
-灰猎犬号2020,https://vod.bunediy.com/20210315/5KzwUySP/index.m3u8
-战争幽灵2020,https://vod.bunediy.com/20201101/oEeIZs7s/index.m3u8
-八佰2020,https://vod.bunediy.com/20201107/aeFcG8Dl/index.m3u8
-特别有种2020,https://vod.bunediy.com/20200802/FIorqGhz/index.m3u8
-绝地狙杀,https://vod.bunediy.com/20210701/aP44AiJA/index.m3u8
-美国叛徒轴心莎莉的审判,https://vod.bunediy.com/20210608/xIyvVk7Q/index.m3u8
-赵云传之龙鸣长坂坡,https://vod.bunediy.com/20201107/UNtYVV05/index.m3u8
-赵子龙,https://vod.bunediy.com/20201130/0XvMrvD4/index.m3u8
-
-
-災難片,#genre#
-一呼百应,https://vod.bunediy.com/20201202/w5BmvUtc/index.m3u8
-战疫2020之我是医生,https://vod.bunediy.com/20201104/fRZDGu3E/index.m3u8
-鲨海逃生,https://vod.bunediy.com/20200715/yqForWuB/index.m3u8
-伦敦陷落,https://vod.bunediy.com/20200410/lLDXf1Na/index.m3u8
-天使陷落,https://vod.bunediy.com/20200716/kqWXJuaG/index.m3u8
-奥林匹斯的陷落,https://vod.bunediy.com/20200413/8ln8maRr/index.m3u8
-冰海陷落,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/34b477bb663d4f1185f7a3b2620d64f9?.mp4
-圣安地列斯地震,https://vod.bunediy.com/20200429/TgcGlvX6/index.m3u8
-摩天营救,https://vod.bunediy.com/20200502/eYIxYopq/index.m3u8
-惊涛飓浪,https://vod.bunediy.com/20210107/uPeK4B4o/index.m3u8
-极限逃生,https://video.buycar5.cn/20200902/Ll6uHuNT/1000kb/hls/index.m3u8
-大地震,https://vod.bunediy.com/20201228/0b3waKbS/index.m3u8
-巨鳄风暴,https://video.buycar5.cn/20200920/0Kd8cZcT/1000kb/hls/index.m3u8
-冰峰暴,https://video.buycar5.cn/20200920/bDVyhhrG/1000kb/hls/index.m3u8
-天·火,https://video.buycar5.cn/20200920/WS058uud/1000kb/hls/index.m3u8?_t=1626435840511
-大雪怪,https://iqiyi-com.jjyl12349.com/20210722/wqgq76CZ/1000kb/hls/index.m3u8
-陆行鲨,https://video.buycar5.cn/20200801/rCgfwAYf/1000kb/hls/index.m3u8
-龙潭巨兽,https://vod2.buycar5.cn/20201018/GPU5H6Gg/1000kb/hls/index.m3u8
-变异狂蟒2,https://vod.bunediy.com/20210103/dCoW7mMw/index.m3u8
-狂鳄海啸2021,https://vod.bunediy.com/20210716/CL6vosPi/index.m3u8
-终极台风2020,https://vod.bunediy.com/20200927/mQcakLd5/index.m3u8
-蟑潮2020,https://vod.bunediy.com/20201129/eeIpXp1y/index.m3u8
-大章鱼2020,https://vod.bunediy.com/20200904/22A5PO8S/index.m3u8
-紧急救援2020,https://vod.bunediy.com/20210206/V92cbtDm/index.m3u8
-末日逃生2020,https://vod.bunediy.com/20201121/0U8Ir42T/index.m3u8
-流浪地球2020特别版,https://vod.bunediy.com/20210117/BJ9K5hW9/index.m3u8
-流浪地球2019,https://vod.bunediy.com/20200506/rDqQynvE/index.m3u8
-中国机长2019,https://vod.bunediy.com/20200507/dacHXlEB/index.m3u8
-烈火英雄2019,https://vod.bunediy.com/20200506/fE01jzHV/index.m3u8
-
-
-動畫片,#genre#
-轻松小熊和小薰2021,https://vod.bunediy.com/20210601/5nkUgn7U/index.m3u8
-小美人鱼的奇幻冒险2021,https://vod.bunediy.com/20210630/UUh9l0Lu/index.m3u8
-哪吒重生普通话,https://vod.bunediy.com/20210402/OZAmg4R0/index.m3u8
-哪吒重生粤语,https://vod.bunediy.com/20210419/2PPPh5p4/index.m3u8
-许愿神龙2019,https://vod.bunediy.com/20210320/QliPfBWg/index.m3u8
-史酷比狗2020,https://vod.bunediy.com/20210103/FFX4xuhq/index.m3u8
-刺猬索尼克2020,https://vod.bunediy.com/20200614/I10PiEjp/index.m3u8
-大侦探皮卡丘2019,https://vod.bunediy.com/20200413/p5UVBxY2/index.m3u8
-粵語片,#genre#
-感动她77次,https://vod.bunediy.com/20210616/yIqayuCV/index.m3u8
-乜代宗师,https://vod.bunediy.com/20200614/OCvmcxdM/index.m3u8
-小Q,https://vod.bunediy.com/20200506/UHhFhJW2/index.m3u8
-犯罪现场,https://vod.bunediy.com/20200505/rbJ2qIRS/index.m3u8
-反贪风暴4,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/831c19187d804ab0978948475309a7b0?.mp4
-扫毒2天地对决,https://vod.bunediy.com/20200506/Oj5vncqn/index.m3u8
-追龍2,https://vod.bunediy.com/20210528/uf00AqP7/index.m3u8
-澳门风云1,https://vod.bunediy.com/20200507/zzd7HFwq/index.m3u8
-澳门风云2,https://vod.bunediy.com/20200429/P9bXXW4Y/index.m3u8
-澳门风云3,https://vod.bunediy.com/20200413/wFbpv5Ph/index.m3u8
-冲锋战警,https://vod.bunediy.com/20200507/hV5vwb5m/index.m3u8
-线人,https://vod.bunediy.com/20200502/LkIv0kQA/index.m3u8
-宝贝计划,https://vod.bunediy.com/20200422/tkAPJur1/index.m3u8
-决战紫禁之巅,https://vod.bunediy.com/20200508/nPCsfb0w/index.m3u8
-消失的子弹,https://vod.bunediy.com/20200509/6T1yB1Sx/index.m3u8
-六福喜事,https://vod.bunediy.com/20200501/ObuDiUml/index.m3u8
-武状元苏乞儿,https://vod.bunediy.com/20200502/HAl7VeIg/index.m3u8
-反贪风暴2,https://vod.bunediy.com/20200413/4xxPBE9s/index.m3u8
-反贪风暴3,https://vod.bunediy.com/20200505/3MSozGmy/index.m3u8
-杀破狼·贪狼,https://vod.bunediy.com/20200502/UcivsUkO/index.m3u8
-黑白迷宫,https://vod.bunediy.com/20200505/mDITuuLv/index.m3u8
-毒。诫,https://vod.bunediy.com/20200506/ORGIjkTB/index.m3u8
-我的特工爷爷,https://vod.bunediy.com/20200506/4FKwF8mF/index.m3u8
-妖铃铃,https://vod.bunediy.com/20200506/Nu88z7bg/index.m3u8
-导火线,https://vod.bunediy.com/20200430/KW9Egt1J/index.m3u8
-赌侠1,https://vod.bunediy.com/20200502/NjxSYXFA/index.m3u8
-赌侠2之上海滩赌圣,https://vod.bunediy.com/20200502/gRB1ZH18/index.m3u8
-盲探,https://vod.bunediy.com/20200508/PIZ2xtAv/index.m3u8
-拆弹专家1,https://vod.bunediy.com/20200505/IhpYdE7G/index.m3u8
-拆弹专家2,https://vod.bunediy.com/20210417/wT1T0eNw/index.m3u8
-叶问3,https://vod.bunediy.com/20200428/lQbysS4M/index.m3u8
-追龙1,https://vod.bunediy.com/20200412/eKNTcmZb/index.m3u8
-追龙2,https://vod.bunediy.com/20210528/uf00AqP7/index.m3u8
-新喜剧之王,https://vod.bunediy.com/20200506/X9Z4oxAg/index.m3u8
-急先锋,https://vod.bunediy.com/20201019/laE6f29v/index.m3u8
-真·三国无双2021,https://vod.bunediy.com/20210506/sYQDB8Nk/index.m3u8
-满城尽带黄金甲2006,https://vod.bunediy.com/20210511/w9yrStD9/index.m3u8
-警察故事2013,https://vod.bunediy.com/20210504/czMwCrdk/index.m3u8
-侠盗联盟2017,https://vod.bunediy.com/20201219/mcDTCV1J/index.m3u8
-逃学威龙1,https://vod.bunediy.com/20201123/QwB6CNCz/index.m3u8
-逃学威龙2,https://vod.bunediy.com/20200508/nh4LL8IH/index.m3u8
-窃听风云2,https://vod.bunediy.com/20201117/IM8vkwtD/index.m3u8
-神探蒲松龄2019,https://vod.bunediy.com/20201121/grvQI6UI/index.m3u8
-怪物先生2019,https://vod.bunediy.com/20200818/AdZsrIxI/index.m3u8
-恶战2014,https://vod.bunediy.com/20200507/0GOIXykq/index.m3u8
-追凶2012,https://vod.bunediy.com/20200509/pfNHYZNX/index.m3u8
-惊天破2016,https://vod.bunediy.com/20200505/VVePtZWk/index.m3u8\
-百变星君,https://vod.bunediy.com/20200506/WrT2zpOt/index.m3u8
-夺命金2012,https://vod.bunediy.com/20200507/ZHkTAzTn/index.m3u8
-功夫,https://vod.bunediy.com/20200506/rznhZHhg/index.m3u8
-回魂夜,https://vod.bunediy.com/20200424/mjB2MA3P/index.m3u8
-超级学校霸王,https://vod.bunediy.com/20200502/hEqDdWKL/index.m3u8
-冲锋车,https://vod.bunediy.com/20200507/YJyPz52V/index.m3u8
-麦路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
-失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
-无间风暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
-
+海外衛視頻道,#genre#
+MEDIACORP U,http://xtv.ooo:8080/Univision@RE/100Bangla/231071
+MEDIACORP U,http://line.premiumpowers.net:80/Manuel/1234567/941617
+Channel 8,http://xtv.ooo:8080/Univision@RE/100Bangla/231068
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+東森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+東風衛視,http://60.251.33.252:18560/.m3u8
+東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
+星空衛視,http://120.84.96.161:808/hls/79/index.m3u8
+星空衛視,http://120.84.96.50:808/hls/79/index.m3u8
+星空衛視,http://120.84.96.62:808/hls/79/index.m3u8
+星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亞洲,http://line.premiumpowers.net:80/Manuel/1234567/941621
+TVBS亞洲,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+美國中文電視,https://jpts.sinovision.net/livestream.m3u8
+美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
+華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8
+華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
+華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+新唐人亞太台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=833
+新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
 
 成人點播頻道_3368,#genre#
 母子愉悅亂倫-蘭心潔,https://je40u.cdnedge.live/file/avple-images/hls/624eeb896d742407ed435445/playlist.m3u8
