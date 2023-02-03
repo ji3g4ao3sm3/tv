@@ -58,9 +58,6 @@
 公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公視台語台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=691
 公視戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
-EYETV戲劇,http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-EYETV戲劇,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-EYETV戲劇台,http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
 JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
@@ -138,12 +135,6 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 東森戲劇 HD,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 東森戲劇 HD,http://60.251.33.252:18538/.m3u8
 東森戲劇 HD,http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-東森購物1,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=853
-東森購物2,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=851
-東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-東森購物3,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=852
-東森購物5,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=854
 星衛娛樂台,http://23.237.10.66:16359
 華視主頻道 HD,http://218.32.47.179:18503/.m3u8
 華視主頻道 HD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
@@ -239,17 +230,7 @@ ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/.m3u8
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
 歡喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
-MOMO購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO購物1台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=623
-MOMO購物1台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=849
-MOMO購物2台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=624
-MOMO購物2台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=850
-MOMO購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-Viva 美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-Viva 美好購物1台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=855
-Viva 美好購物2台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=27
-Viva 美好購物2台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=856
-Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+
 人間衛視,http://123.51.229.65:18561/.m3u8
 人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8http://120.84.96.195:808/hls/32/index.m3u8
@@ -760,6 +741,7 @@ MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070
 足球介紹,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
 高爾夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+
 外語流行頻道,#genre#
 ALL THE K-POP,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10
 THE K-POP,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S14
@@ -782,6 +764,7 @@ EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 時尚台FTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 時尚台FTV4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 時裝頻道,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
+
 外語新聞頻道,#genre#
 ABC NEWS LIVE,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418139
 ABC News,http://198.16.64.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
@@ -925,6 +908,26 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 立法院 直播教育及文化委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
 立法院 直播朝野協商 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
 立法院 直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+
+購物頻道,#genre#
+東森購物1,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=853
+東森購物2,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=851
+東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物3,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=852
+東森購物5,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=854
+MOMO購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO購物1台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=623
+MOMO購物1台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=849
+MOMO購物2台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=624
+MOMO購物2台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=850
+MOMO購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+Viva 美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+Viva 美好購物1台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=855
+Viva 美好購物2台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=27
+Viva 美好購物2台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=856
+Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+
 成人點播頻道_3368,#genre#
 母子愉悅亂倫-蘭心潔,https://je40u.cdnedge.live/file/avple-images/hls/624eeb896d742407ed435445/playlist.m3u8
 人形機器女友-蕭悅兒,https://je40u.cdnedge.live/file/avple-images/hls/6249a0b0eb0b5f202d561616/playlist.m3u8
