@@ -65,8 +65,6 @@ JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
 MOMO綜合,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
-TVBS HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS歡樂台 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
 TVBS歡樂台 HD,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 TVBS歡樂台 HD,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
