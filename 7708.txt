@@ -65,7 +65,6 @@
 中天綜合 HD,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天綜合 HD,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天綜合 HD,http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
-公視(油管),https://www.youtube.com/watch?v=4Uc00FPs27M
 公視,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=690
 公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
@@ -96,7 +95,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://line.premiumpowers.net:80/Manuel/1234567/941621
 TVBS亞洲,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-
 台視 HD,http://107.151.203.111:2209/135/us50.php?id=tsk
 台視 HD,http://60.251.33.252:18543/.m3u8
 台視 HD,http://123.51.229.65:18543/.m3u8
@@ -337,8 +335,7 @@ Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-國會頻道1,http://61.58.60.230:9319/live/123.m3u8
-國會頻道2,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=645
+
 
 GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV-10 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
@@ -933,6 +930,8 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
 
 國會議事轉播,#genre#
+國會頻道1,http://61.58.60.230:9319/live/123.m3u8
+國會頻道2,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=645
 國會議事轉播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 國會議事轉播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 國會議事轉播,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/parliamentarytv2.m3u8
