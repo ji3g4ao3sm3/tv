@@ -323,47 +323,14 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 靖天戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖天電影,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
-龍華日韓,http://123.51.229.65:18551/.m3u8
-龍華日韓,http://60.251.33.252:18551/.m3u8
-龍華日韓,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-龍華洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
-龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
-龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
-龍華偶像,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
-龍華戲劇,http://123.51.229.65:18513/.m3u8
-龍華戲劇,http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
-龍華戲劇,http://60.251.33.252:18513/.m3u8
-龍華戲劇,http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-龍華戲劇,http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
-龍華戲劇,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龍華戲劇,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-龍華戲劇,http://220.134.196.147:9544/index.m3u8
 
-衛視電影 HD,http://220.134.196.147:9549/index.m3u8
-衛視電影 HD,http://220.134.196.147:9558/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646f6868906a760733c82ee9b65e9e19dd55
-衛視電影 HD,http://220.134.196.147:9578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
-衛視電影 HD,http://218.32.47.179:18553/.m3u8
+
+
 衛視闔家歡,http://220.134.196.147:9561/http/116.50.42.18:8081/hls/61/803/ch02.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 衛視闔家歡,http://220.134.196.147:9561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 衛視闔家歡,http://60.251.33.252:18504/.m3u8
-衛視電影 HD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 
-天映經典,http://120.84.96.71:808/hls/85/index.m3u8
-天映經典,http://120.84.96.72:808/hls/85/index.m3u8
-天映經典,http://120.84.96.73:808/hls/85/index.m3u8
-天映經典,http://120.84.96.78:808/hls/85/index.m3u8
-天映經典,http://120.84.96.85:808/hls/85/index.m3u8
-天映經典,http://120.84.96.89:808/hls/85/index.m3u8
-天映經典,http://120.84.96.96:808/hls/85/index.m3u8
-天映經典,http://120.84.96.120:808/hls/85/index.m3u8
-天映經典,http://120.84.96.125:808/hls/85/index.m3u8
-天映經典,http://120.84.96.126:808/hls/85/index.m3u8
-天映經典,http://120.84.96.196:808/hls/85/index.m3u8
-天映經典,http://120.84.96.233:808/hls/85/index.m3u8
-天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 東森洋片 HD,http://120.84.96.71:808/hls/33/index.m3u8
