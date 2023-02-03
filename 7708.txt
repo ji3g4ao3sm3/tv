@@ -23,7 +23,6 @@
 八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 八大精彩,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/.m3u8
 八大精彩,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
-三立台灣,http://220.134.196.147:9531/index.m3u8
 三立台灣,http://220.134.196.147:9556/index.m3u8
 三立台灣,http://50.7.168.234:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
 三立台灣,http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
