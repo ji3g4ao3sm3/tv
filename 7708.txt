@@ -352,18 +352,19 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8
 黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
 
-
+周星馳,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
 成龍,http://106.53.212.251/daili/yy.php?id=1354888751
-
 林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
-電影輪播01,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+劉德華 1,http://epg.112114.xyz/douyu/2516864
+劉德華 2,http://epg.112114.xyz/douyu/8985415
 歐美電影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
+歐美大片,http://epg.112114.xyz/douyu/2793084
 歐美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 歐美動作電影,http://106.53.212.251/daili/yy.php?id=1382745089
-好片看不停,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28205255
-周星馳,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
-松鼠精選 動作懸疑戰爭,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/957007/live_252582133_1552126_1500/index.m3u8
-阿梅 電影大片24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/124786/live_334056_8894439_1500/index.m3u8
+電影輪播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28205255
+電影輪播1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+電影輪播2,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/957007/live_252582133_1552126_1500/index.m3u8
+電影輪播3,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/124786/live_334056_8894439_1500/index.m3u8
 喜劇動作僵屍24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/791978/live_14659392_8620418_minihevc/index.m3u8
 
 恐怖故事,http://epg.112114.xyz/douyu/2337939
@@ -392,12 +393,11 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 粵語電影 2,http://epg.112114.xyz/douyu/6566671
 粵語綜藝,http://epg.112114.xyz/douyu/7919720
 經典神劇,http://epg.112114.xyz/douyu/3700024
-漫威宇宙 1,http://epg.112114.xyz/douyu/4282654
-漫威宇宙 2,http://epg.112114.xyz/douyu/6140589
+漫威宇宙,http://epg.112114.xyz/douyu/4282654
+漫威宇宙,http://epg.112114.xyz/douyu/6140589
 網神影廳,http://epg.112114.xyz/douyu/508118
-劉德華 1,http://epg.112114.xyz/douyu/2516864
-劉德華 2,http://epg.112114.xyz/douyu/8985415
-歐美大片,http://epg.112114.xyz/douyu/2793084
+
+
 
 🌈動畫頻道,#genre#
 CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
