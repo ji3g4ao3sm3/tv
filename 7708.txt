@@ -366,8 +366,7 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 電影輪播2,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/957007/live_252582133_1552126_1500/index.m3u8
 電影輪播3,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/124786/live_334056_8894439_1500/index.m3u8
 電影輪播4,http://epg.112114.xyz/douyu/7925840
-喜劇動作僵屍24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/791978/live_14659392_8620418_minihevc/index.m3u8
-
+IMAX影廳,http://epg.112114.xyz/douyu/4332
 恐怖故事,http://epg.112114.xyz/douyu/2337939
 恐怖經典,http://epg.112114.xyz/douyu/1165374
 千部經典,http://epg.112114.xyz/douyu/7882691
