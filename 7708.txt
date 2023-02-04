@@ -365,6 +365,7 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 電影輪播1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
 電影輪播2,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/957007/live_252582133_1552126_1500/index.m3u8
 電影輪播3,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/124786/live_334056_8894439_1500/index.m3u8
+電影輪播4,http://epg.112114.xyz/douyu/7925840
 喜劇動作僵屍24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/791978/live_14659392_8620418_minihevc/index.m3u8
 
 恐怖故事,http://epg.112114.xyz/douyu/2337939
@@ -378,7 +379,7 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 鬼片恐怖驚悚,http://epg.112114.xyz/douyu/2935323
 鬼吹燈系列,http://epg.112114.xyz/douyu/9292503
 國產青春,http://epg.112114.xyz/douyu/5423
-救救小鸭吧,http://epg.112114.xyz/douyu/7925840
+
 淩兒影院,http://epg.112114.xyz/douyu/1377142
 喜劇經典,http://epg.112114.xyz/douyu/9650887
 喜劇電影,http://epg.112114.xyz/douyu/9292492
@@ -389,8 +390,6 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 華語電影,http://epg.112114.xyz/douyu/3928
 萌牛影院,http://epg.112114.xyz/douyu/7494871
 愛看電影,http://epg.112114.xyz/douyu/432071
-粵語電影 1,http://epg.112114.xyz/douyu/2466104
-粵語電影 2,http://epg.112114.xyz/douyu/6566671
 粵語綜藝,http://epg.112114.xyz/douyu/7919720
 經典神劇,http://epg.112114.xyz/douyu/3700024
 漫威宇宙,http://epg.112114.xyz/douyu/6140589
