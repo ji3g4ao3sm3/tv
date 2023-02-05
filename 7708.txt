@@ -440,8 +440,141 @@ ANIMAX,http://220.134.196.147:9517/http/116.50.42.18:8088/index.m3u8
 動漫輪播-懷舊動畫,http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 動漫輪播-懷舊動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 愛奇藝小豬佩奇,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
-
-
+🌍人文地理,#genre#
+亞洲旅遊台,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+亞洲旅遊台,http://220.134.196.147:9523/index.m3u8
+亞洲旅遊台,http://220.134.196.147:9565/http/116.50.42.18:8088/hls/76/818/ch61.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+亞洲旅遊台,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
+亞洲旅遊台,http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+亞洲旅遊台,http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+亞洲旅遊台,http://218.32.47.179:18513/.m3u8
+亞洲旅遊台,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+亞洲旅遊台,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+亞洲旅遊台,http://50.7.168.234:8278/asiatravel_twn/playlist.m3u8?tid=MDAD1549954015499540&ct=19344&tsum=b5f42b47e9e2868d29244c6c106c526c
+亞洲旅遊台,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+EYETV旅遊,http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+BBC 地球,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
+BBC 地球,http://line.premiumpowers.net:80/Manuel/1234567/941667
+BBC LIFESTYLE,http://line.premiumpowers.net:80/Manuel/1234567/941668
+CI 罪案偵查頻道,http://line.premiumpowers.net:80/Manuel/1234567/941666
+CNEX 紀實頻道,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+EYETV旅遊,http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+EYETV旅遊,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+GOOD TV 愛旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+History 歷史頻道,http://line.premiumpowers.net:80/Manuel/1234567/941661
+Taiwan+,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=836
+Taiwan+,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=975
+TLC旅遊生活,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
+TLC旅遊生活,http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+TLC旅遊生活,http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+動物星球,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+動物星球,http://218.32.47.179:18512/.m3u8
+動物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
+動物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+動物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+動物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+動物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+動物星球,http://50.7.168.234:8278/animalplanet_twn/playlist.m3u8?tid=MF9F9255818592558185&ct=19344&tsum=749eaebb64cf95e20862c56226a8446e
+動物星球,http://50.7.168.234:8278/animalplanet_twn/playlist.m3u8?tid=ME5E9654770896547708&ct=19338&tsum=775367f2f591f704aaf1489d70434b49
+動物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+國家地理頻道,http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
+國家地理頻道,http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+國家地理頻道,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+國家地理頻道,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+國家地理頻道,http://line.premiumpowers.net:80/Manuel/1234567/941665
+國家地理台灣,http://218.32.47.179:18509/.m3u8
+國家地理台灣,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
+國家地理台灣,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
+國家地理野生,http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+國家地理野生,http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+國家地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+國家地理野生,http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+探索頻道 HD,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
+探索頻道 HD,http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+探索頻道 HD,http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+探索頻道 HD,http://198.16.64.10:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+探索頻道 HD,http://198.16.64.10:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+探索頻道 HD,http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+探索頻道 HD,http://220.134.196.147:9568/http/116.50.42.19:8081/hls/71/813/ch44.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
+探索頻道 HD,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+探索動力,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+探索動力,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+探索動力,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+探索動力,http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+探索動力,,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+探索科學,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+探索科學,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+探索科學,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+探索科學,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+探索亞洲,http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+探索亞洲,http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+探索亞洲,http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+探索亞洲,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+探索亞洲,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+求索紀錄,http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+求索紀錄,http://111.11.123.33:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+求索紀錄,http://111.11.123.36:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+求索科學,http://111.11.123.30:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+求索科學,http://111.11.123.33:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+求索科學,http://111.11.123.36:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+求索生活,http://111.11.123.30:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+求索生活,http://111.11.123.33:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+求索生活,http://111.11.123.36:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+求索動物,http://111.11.123.30:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+求索動物,http://111.11.123.33:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+求索動物,http://111.11.123.36:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+野生動物世界,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=18ecc42f7592013fe6118da7ad7413ae&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237ce2d0e981c4f8e9cc7a6b580446dfb8c1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+野生動物世界,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=6f7e4caf076b5849e054b9d10e3dd9b6&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237cfa3af7a53bd965ac423deba96b443ecb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+野生動物世界,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=bf409ee21a05eface8ef683ed3af5304&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237c33e2b95b36532300ec052fb3fde382a8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+野生動物世界,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=2508a784a5f5d13ac3db5195900307a4&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237c6e7d241ca25c34a63908af24f643f720&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+野生動物世界,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=0b4ed9b162a1abebabc424c2c8363445&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237ceae3cf3aa8a2bef2ebaed5e0f6e6c25e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+成都大熊貓繁育研究基地,https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
+鬥魚紀錄片,http://epg.112114.xyz/douyu/3485629
+紀實人文,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+紀實人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+紀實人文,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+紀實人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+紀實人文,http://39.134.115.221:8080/PLTV/88888910/224/3221225654/index.m3u8
+紀實人文,http://39.134.115.221:8080/PLTV/88888910/224/3221225655/index.m3u8
+紀實人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225654/index.m3u8
+紀實人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+紀實人文,http://nsszds.f3322.net:808/hls/56/index.m3u8
+紀實人文,http://tvmvip110.club/bs.php?id=28
+上海紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
+上海紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
+上海紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
+北京紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+北京紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
+北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+金鷹紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+全紀實,http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
+全紀實,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+茶頻道,http://fxhack.f3322.org:8000/udp/239.77.0.15:5146
+茶頻道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
+快樂垂釣,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
+C4k360,http://cdnx1.plusx.tv:8880/C4K360/mono.m3u8?token=cb776083b1e1b6f9bb2222
+DOXTV,http://113.117.74.11:808/hls/62/index.m3u8
+GTV網路棋牌,http://42.176.185.28:9901/tsfile/live/1021_1.m3u8
+Heritage 4k,http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Home 4k,http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
+In WILD,https://inwild-samsungau.amagi.tv/playlist.m3u8
+Insight UHD,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
+Museum 4k,http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
+MYZEN TV 4K,http://cdnx1.plusx.tv:8880/myZen/mono.m3u8?token=24cce35b06aecc51433333
+NASA 4k 60P,http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
+NASA Live,http://tv.redrainl.site:9500/live.m3u8?c=39
+NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+Nature,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
+ODISEA UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
+RailCowGirl,https://ytm2.yuanhsing.cf/RailCowGirl.m3u8
+RailWay,https://ytm2.yuanhsing.cf/RailWay.m3u8
+TRAVELXP,http://line.premiumpowers.net:80/Manuel/1234567/941662
+TRAVELXP TV 4K,http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
+ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
+VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?%243840x2160
 ⚽體育直播,#genre#
 緯來體育,http://218.32.47.179:18563/.m3u8
 緯來體育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
