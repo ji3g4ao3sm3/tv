@@ -443,46 +443,104 @@ ANIMAX,http://220.134.196.147:9517/http/116.50.42.18:8088/index.m3u8
 
 
 ⚽體育直播,#genre#
-智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-緯來體育,rtmp://59.124.75.150/sat/tv721
-愛爾達體育,rtmp://59.124.75.150/sat/md051
-愛爾達體育,rtmp://59.124.75.150/sat/md011
-eleven,rtmp://59.124.75.150/sat/tv731
-eleven,rtmp://59.124.75.150/sat/md021
-博斯網球,rtmp://59.124.75.150/sat/md031
-博斯魅力,rtmp://59.124.75.150/sat/md041
-籃球SGL,http://txtest-xp2p.p2p.huya.com/1099531627800-1099531627800-85899448999215104-2199063379056-10057-A-0-1.xs
-籃球路人王,http://txtest-xp2p.p2p.huya.com/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.xs
-籃球路人王2,http://txtest-xp2p.p2p.huya.com/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.xs
-籃球路人王3,http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.xs
-籃球街波王子,http://txtest-xp2p.p2p.huya.com/1099531739790-1099531739790-86380442386694144-2199063603036-10057-A-0-1.xs
-籃球雲賽場,http://txtest-xp2p.p2p.huya.com/1099531627815-1099531627815-85899513423724544-2199063379086-10057-A-0-1.xs
-撞球,http://txtest-xp2p.p2p.huya.com/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.xs
-撞球,http://txtest-xp2p.p2p.huya.com/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.xs
-撞球,http://txtest-xp2p.p2p.huya.com/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.xs
-撞球,http://txtest-xp2p.p2p.huya.com/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.xs
-足球,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
-WWE,http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
-MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.xs
-泰拳,http://txtest-xp2p.p2p.huya.com/1199546362707-1199546362707-5370801297354129408-2399092848870-10057-A-0-1.xs
-拳擊,http://txtest-xp2p.p2p.huya.com/0-0-0-2399123531982-10057-A-0-1.xs
-游泳,http://txtest-xp2p.p2p.huya.com/1099531627797-1099531627797-85899436114313216-2199063379050-10057-A-0-1.xs
-冰壺,http://txtest-xp2p.p2p.huya.com/1447756350-1447756350-6218066175826329600-2895636156-10057-A-0-1.xs
-棒球,http://txtest-xp2p.p2p.huya.com/1099531739891-1099531739891-86380876178391040-2199063603238-10057-A-0-1.xs
-皮划艇,http://txtest-xp2p.p2p.huya.com/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.xs
-賽車,http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
-摩托車,http://txtest-xp2p.p2p.huya.com/1099531728928-1099531728928-86333790451924992-2199063581312-10057-A-0-1.xs
+緯來體育,http://218.32.47.179:18563/.m3u8
+緯來體育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
+緯來體育,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+緯來體育,http://123.51.229.65:18509/.m3u8
+緯來體育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+緯來體育,http://50.7.220.74:8278/videolandsport/playlist.m3u8?ct=19226&tid=MA6A1192684511926845&tsum=0b7ca9a61e7371df68108a27dc358c68
+愛爾達體育1台,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
+愛爾達體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+愛爾達體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+愛爾達體育1台,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+愛爾達體育2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+愛爾達體育2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+愛爾達體育2台,http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+愛爾達娛樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+博斯無限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+博斯網球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+博斯網球,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯網球,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯網球,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+博斯運動1,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
+博斯運動1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+博斯運動1,http://220.134.196.147:9564/http/116.50.42.18:8066/hls/210/10018/cstv18.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+博斯運動2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+博斯運動2,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
+博斯運動2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+博斯運動2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+博斯運動2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+博斯高球1,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
+博斯高球1,http://198.16.64.10:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+ELEVEN體育1台,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+ELEVEN體育1台,http://220.134.196.147:9566/index.m3u8
+ELEVEN體育1台,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+ELEVEN體育1台,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+ELEVEN體育1台,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+ELEVEN體育2台,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+ELEVEN體育2台,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+ELEVEN體育2台,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
+ELEVEN 1,http://cineapp.org:8000/Fernando/Fernando/7451
+ELEVEN 3,http://cineapp.org:8000/Fernando/Fernando/7453
+ELEVEN 6,http://cineapp.org:8000/Fernando/Fernando/7456
+NBA動態,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
+TraceSports,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+智林體育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+日-J Sports 1[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+日-J Sports 2[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+日-J Sports 3[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+日-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日-女子摔跤,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.xs
+咪咕籃球,http://39.134.115.163:8080/PLTV/88888910/224/3221226243/index.m3u8
+曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+勁爆體育 HD,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+勁爆體育 HD,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+五星體育 HD,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星體育 HD,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星體育 HD,http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新視覺 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新視覺 HD,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+新視覺 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+新視覺 HD,http://39.134.115.221:8080/PLTV/88888910/224/3221225622/index.m3u8
+新視覺 HD,http://39.134.115.221:8080/PLTV/88888910/224/3221225648/index.m3u8
+新視覺 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+新視覺 HD,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
+廣東體育,http://113.117.74.10:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.11:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.12:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.13:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.14:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.15:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.16:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.17:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.18:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.19:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.37:808/hls/1/index.m3u8
+廣東體育,http://113.117.74.9:808/hls/1/index.m3u8
+廣東體育,http://120.84.96.73:808/hls/22/index.m3u8
+澳門體育,http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
+澳門體育,http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
+澳門體育,http://61.244.22.5/ch4/_definst_/sport_ch4.live/playlist.m3u8
+澳門體育,http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
+澳門體育,http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+遼寧體育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 體育賽場,http://txtest-xp2p.p2p.huya.com/1099531627962-1099531627962-85900144783917056-2199063379380-10057-A-0-1.xs
-第一賽場,http://txtest-xp2p.p2p.huya.com/1099531739778-1099531739778-86380390847086592-2199063603012-10057-A-0-1.xs
-田徑場,http://txtest-xp2p.p2p.huya.com/2452891977-2452891977-10535090821835784192-4905907410-10057-A-0-1.xs
-51 屆歐霸盃足球,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
-51 屆歐霸盃足球,http://txtest-xp2p.p2p.huya.com/1099531740188-1099531740188-86382151783677952-2199063603832-10057-A-0-1.xs
-天下足球,http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
-18 届世界盃足球,http://txtest-xp2p.p2p.huya.com/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs
-18 届世界盃足球,http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
-足球介紹,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
-高爾夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+BRTV體育休閒,http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+FTV足球頻道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+百事通體育1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba1/4000000/mnf.m3u8
+百事通體育2,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba2/4000000/mnf.m3u8
+百事通體育3,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba3/4000000/mnf.m3u8
+百事通體育4,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba4/4000000/mnf.m3u8
+百事通體育5,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
+百事通體育6,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba6/4000000/mnf.m3u8
+百事通體育7,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8
 
 🚉台灣地區頻道,#genre#
 客家電視台,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/.m3u8
