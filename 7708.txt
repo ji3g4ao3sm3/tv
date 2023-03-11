@@ -242,7 +242,7 @@ TVBS HD,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&ts
 華視新聞資訊 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 華視新聞資訊 HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 華視新聞資訊 HD,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=597
-視新聞資訊 HD,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=797
+華視新聞資訊 HD,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=797
 華視新聞資訊 HD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 華視新聞資訊 HD,http://stream.dsichannel.com/hls/cts-news.m3u8
 三立iNEWS(油管),https://www.youtube.com/watch?v=EB4g7wecgTI
