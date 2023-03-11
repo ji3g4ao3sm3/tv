@@ -8,12 +8,7 @@
 台視 HD,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 台視 HD,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
 
-中視經典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/.m3u8
-中視經典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
-中視經典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-中視經典,http://198.16.64.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
-中視經典,http://198.16.64.10:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-中視經典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+
 中視菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 中視菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 民視 HD,http://23.237.10.66:16334
