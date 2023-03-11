@@ -7,6 +7,7 @@
 台視 HD,http://23.237.10.66:16344
 台視 HD,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 台視 HD,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
+公視,https://www.youtube.com/watch?v=4Uc00FPs27M
 公視,http://218.32.47.179:18505/.m3u8
 公視,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=690
 公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
