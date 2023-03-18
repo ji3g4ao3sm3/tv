@@ -7,7 +7,6 @@
 台視 HD,http://23.237.10.66:16344
 台視 HD,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 台視 HD,http://107.151.203.111:2209/135/us50.php?id=tsk
-民視 HD,rtmp://59.124.75.138/sat/tv051
 中視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中視菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 中視菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
