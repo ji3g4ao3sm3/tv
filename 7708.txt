@@ -106,9 +106,7 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 東風37,http://60.251.33.252:18560/.m3u8
 東風37,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 采昌影劇,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-豬哥亮歌廳秀,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=835
-豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/.m3u8
-豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+台視綜合台http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
 歡喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 幸福空間居家台,https://git.io/JgYYF
 幸福空間居家台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=838
