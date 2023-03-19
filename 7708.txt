@@ -8,7 +8,6 @@
 台視 HD,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 台視 HD,http://107.151.203.111:2209/135/us50.php?id=tsk
 中視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-中視 HD,https://pull-l3-cny.douyincdn.com/live/637b1ea1620192f5c4f2acc7459a825c.flv
 中視菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 中視菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 民視 HD,http://23.237.10.66:16334
@@ -25,9 +24,7 @@
 八大第一 HD,http://198.16.64.10:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大第一 HD,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大第一 HD,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大綜合台 HD,https://pull-l3-cny.douyincdn.com/live/9b121f925034c2b6f0896d94c36c52c5.flv
-八大戲劇台 HD,https://pull-l3-cny.douyincdn.com/live/37b8061b2a35e59e0d38634720c818d7.flv
-八大精采台,https://pull-l3-cny.douyincdn.com/live/44a28e0ddea0077103baee76876b9ead.flv
+
 中天綜合 HD,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合 HD,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天綜合 HD,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
@@ -240,7 +237,7 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 原住民族電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
 
 🎦電影直播頻道,#genre#
-CATCHPLAY電影台,https://pull-l3-cny.douyincdn.com/live/ff2494bcf23ef92c4c5d224aa69241e2.flv
+
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 靖天日本,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
