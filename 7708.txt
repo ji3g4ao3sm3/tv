@@ -237,9 +237,12 @@ SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 原住民族電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
 
 🎦電影直播頻道,#genre#
+CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 
-影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
-影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 靖天日本,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 靖天日本,https://epg.pm/stream/c6d33420f57fe5f24617c15006265ed2839e3457cc894110d1f54e6302d58bd5.m3u8
 
