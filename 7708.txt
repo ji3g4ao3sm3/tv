@@ -8,11 +8,11 @@
 中視 HD,rtmp://59.124.75.138/sat/tv091
 
 華視 HD,rtmp://59.124.75.138/sat/tv111
-華視HD,http://218.32.47.179:18503/.m3u8
-華視HD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
-華視HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
-華視HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-華視HD,https://ytm2.yuanhsing.cf/ctsprog.m3u8
+華視 HD,http://218.32.47.179:18503/.m3u8
+華視 HD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
+華視 HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
+華視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+華視 HD,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 
 民視 HD,rtmp://59.124.75.138/sat/tv051
 民視 HD,http://107.151.203.111:2209/135/us50.php?id=msk
