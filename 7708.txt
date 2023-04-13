@@ -11,9 +11,9 @@
 華視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 華視 HD,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 
+民視 HD,http://107.151.203.111:2209/135/us50.php?id=msk
 民視 HD,http://220.134.196.147:9574/ch49.m3u8
 民視 HD,rtmp://59.124.75.138/sat/tv051
-民視 HD,http://107.151.203.111:2209/135/us50.php?id=msk
 民視 HD,http://23.237.10.66:16334
 
 八大第一 HD,http://60.251.33.252:18539/.m3u8
