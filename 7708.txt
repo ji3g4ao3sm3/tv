@@ -1,11 +1,11 @@
 ﻿🇹🇼台灣綜合頻道,#genre#
-台視 HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
 華視 HD,http://218.32.47.179:18503/.m3u8
 華視 HD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
 華視 HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
 華視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 華視 HD,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 中視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+台視 HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
 八大第一 HD,http://60.251.33.252:18539/.m3u8
 八大第一 HD,http://123.51.229.65:18539/.m3u8
 八大第一 HD,http://198.16.64.10:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
