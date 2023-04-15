@@ -126,9 +126,9 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
@@ -148,7 +148,6 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經 HD,http://60.251.33.252:18515/.m3u8
-非凡新聞 HD,http://220.134.196.147:9539/index.m3u8
 非凡商業,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
@@ -166,6 +165,7 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
+HBO HD,http://220.134.196.147:9539/index.m3u8
 
 靖天日本,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 靖天日本,https://epg.pm/stream/c6d33420f57fe5f24617c15006265ed2839e3457cc894110d1f54e6302d58bd5.m3u8
