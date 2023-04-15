@@ -111,8 +111,7 @@ Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/c
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 📺台灣新聞頻道,#genre#
-TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
-TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news.flv
+
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
