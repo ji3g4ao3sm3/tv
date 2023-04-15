@@ -138,13 +138,11 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 華視新聞資訊 HD,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視 新聞資訊,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156391&extension=ts&play_token=UEKTIim7lP
 三立新聞LIVE,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
-LIVE三立,http://2023.stream-link.org/playlist/set_news.flv
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
 中天新聞 2(循環直播),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-東森LIVE,http://2023.stream-link.org/playlist/ebc_news.flv
 東森財經 HD,rtmp://59.124.75.138/sat/tv571
 東森財經 HD,http://123.51.230.108:18515/.m3u8
 東森財經 HD,http://123.51.229.65:18515/.m3u8
