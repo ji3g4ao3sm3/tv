@@ -111,121 +111,59 @@ Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/c
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 📺台灣新聞頻道,#genre#
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
+TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news.flv
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
-TVBS新聞,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS新聞,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-TVBS新聞,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-TVBS新聞,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS新聞,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS新聞,http://line.premiumpowers.net:80/Manuel/1234567/941622
-TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-TVBS HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
-TVBS HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS HD,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
-TVBS HD,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
-年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新聞,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新聞,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-東森LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-東森LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
-東森LIVE,http://50.7.168.234:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-東森新聞 HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/4_2213132.m3u8
-東森新聞 HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 
-東森新聞 HD,http://220.134.196.147:9514/index.m3u8
-壹新聞 HD,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
-壹新聞 HD,http://220.134.196.147:9510/index.m3u8
-壹新聞 HD,http://60.251.59.180:8501/.m3u8
-壹新聞 HD,http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-民視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-民視新聞 HD,http://220.134.196.147:9504/index.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941622
+TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
+TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=vFR5CkmzbA
+
+年代新聞 HD,http://220.134.196.147:9517/index.m3u8
+年代新聞 HD,http://220.134.196.147:9517/http/116.50.42.18:8088/index.m3u8
+年代新聞 HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+民視新聞 HD,http://220.134.196.147:9514/index.m3u8
+民視新聞 HD,http://123.51.230.108:18663/.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞 HD,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-民視新聞 HD,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-民視新聞 HD,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-民視新聞 HD,http://tv.redrainl.site:9500/live.m3u8?c=01
-民視新聞 HD,http://tv.redrainl.site:9500/live.m3u8?c=1
-民視新聞 HD,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
-台視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-台視新聞 HD,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=627
-台視新聞 HD,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=997
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+台視新聞 HD,http://2023.stream-link.org/playlist/ttv_news.flv
+台視新聞 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞 HD,http://tv.redrainl.site:9500/live.m3u8?c=11
-台視新聞 HD,https://git.io/JgkxY
-台視新聞 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-台視新聞 HD(油管),https://www.youtube.com/watch?v=xL0ch83RAK8
-中視新聞 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-中視新聞 HD,http://198.16.64.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-中視新聞 HD,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-中視新聞 HD,http://tv.redrainl.site:9500/live.m3u8?c=02
-中視新聞 HD,http://tv.redrainl.site:9500/live.m3u8?c=2
-中視新聞 HD,https://git.io/Jgkxz
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+中視新聞 HD,http://2023.stream-link.org/playlist/ctv_news.flv
 中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
-中視新聞 HD,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-中視新聞 HD,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
-中視新聞 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
-華視新聞資訊 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 華視新聞資訊 HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
-華視新聞資訊 HD,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=597
-華視新聞資訊 HD,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=797
-華視新聞資訊 HD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 華視新聞資訊 HD,http://stream.dsichannel.com/hls/cts-news.m3u8
-三立iNEWS(油管),https://www.youtube.com/watch?v=EB4g7wecgTI
-三立iNEWS,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=651
-三立iNEWS,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=819
-三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
-三立iNEWS,https://git.io/Jgkxj
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
-三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立新聞 LIVE,http://60.251.59.180:8506/ch18.m3u8
-三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
+華視 新聞資訊,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156391&extension=ts&play_token=UEKTIim7lP
+三立新聞LIVE,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
+LIVE三立,http://2023.stream-link.org/playlist/set_news.flv
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-寰宇新聞,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
-寰宇新聞台灣台,https://git.io/JgkpO
-寰宇新聞台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-鏡新聞Mnews,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=641
-鏡新聞Mnews,http://tv.redrainl.site:9500/live.m3u8?c=28
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-鏡新聞Mnews,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
 中天新聞 2(循環直播),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-中天新聞 HD(油管),https://www.youtube.com/watch?v=_QbRXRnHMVY
-中天新聞,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=896
-中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-中天新聞,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=3
-中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
-中天新聞,https://git.io/Jgkpy
+東森LIVE,http://2023.stream-link.org/playlist/ebc_news.flv
+東森財經 HD,rtmp://59.124.75.138/sat/tv571
+東森財經 HD,http://123.51.230.108:18515/.m3u8
 東森財經 HD,http://123.51.229.65:18515/.m3u8
-東森財經 HD,http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
-東森財經 HD,http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-東森財經 HD,http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-東森財經 HD,http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經 HD,http://60.251.33.252:18515/.m3u8
-非凡新聞,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新聞,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+非凡新聞 HD,http://220.134.196.147:9539/index.m3u8
 非凡商業,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
-SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
-原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
