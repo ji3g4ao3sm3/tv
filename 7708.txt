@@ -5,12 +5,14 @@
 華視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 華視 HD,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 中視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-台視 HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
 八大第一 HD,http://60.251.33.252:18539/.m3u8
 八大第一 HD,http://123.51.229.65:18539/.m3u8
 八大第一 HD,http://198.16.64.10:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大第一 HD,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大第一 HD,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+台視綜合HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
+台視綜合 HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
+台視綜合 HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
 中天綜合 HD,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合 HD,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天綜合 HD,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
@@ -41,8 +43,7 @@ TVBS亞洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 星衛娛樂台,http://23.237.10.66:16359
-台視綜合 HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
-台視綜合 HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
+
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中視菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 中視菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
