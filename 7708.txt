@@ -132,7 +132,6 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-中視新聞 HD,http://2023.stream-link.org/playlist/ctv_news.flv
 中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 華視新聞資訊 HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
