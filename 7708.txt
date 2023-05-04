@@ -37,7 +37,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 靖天歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 靖天戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
 靖洋戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-緯來日本 HD,http://60.251.59.180:8513/.m3u8
 緯來綜合 HD,http://123.51.229.65:18540/.m3u8
 緯來綜合 HD,http://123.51.230.108:18540/.m3u8
 緯來綜合 HD,http://60.251.33.252:18540/.m3u8
