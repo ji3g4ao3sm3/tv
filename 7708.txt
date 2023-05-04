@@ -191,7 +191,7 @@ i-Fun動漫台,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.
 經典卡通台,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
 精選動漫台,http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
 小豬佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-小豬珮奇,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
+小豬佩奇,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
 東森幼幼歌曲輪播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 親子動畫01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 親子動畫02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
