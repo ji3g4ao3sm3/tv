@@ -13,9 +13,6 @@
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
-華視新聞資訊 HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
-華視新聞資訊 HD,http://stream.dsichannel.com/hls/cts-news.m3u8
-三立新聞LIVE,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
@@ -26,8 +23,6 @@
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經 HD,http://60.251.33.252:18515/.m3u8
-非凡商業,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
-SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -45,7 +40,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立台灣,http://220.134.196.147:9531/index.m3u8
-中天綜合 HD,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 非凡商業 HD,http://220.134.196.147:9574/ch49.m3u8
 八大第一 HD,http://60.251.33.252:18539/.m3u8
 八大第一 HD,http://123.51.229.65:18539/.m3u8
@@ -66,27 +60,16 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 大愛2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 華視-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 華視-天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-愛爾達娛樂 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
-靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-靖天國際,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-靖天歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-靖天戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-靖洋戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 緯來綜合 HD,http://123.51.229.65:18540/.m3u8
 緯來綜合 HD,http://123.51.230.108:18540/.m3u8
 緯來綜合 HD,http://60.251.33.252:18540/.m3u8
 東風37,http://123.51.229.65:18560/.m3u8
 東風37,http://60.251.33.252:18560/.m3u8
 東風37,http://123.51.230.108:18560/.m3u8
-采昌影劇,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-全民最大黨,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
-Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 幸福空間居家台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 彰化生活台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
 GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
@@ -101,82 +84,20 @@ GOOD TV-6,http://live.streamingfast.net/osmflivech6.m3u8
 GOOD TV-7,http://live.streamingfast.net/osmflivech7.m3u8
 GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
 GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
-
 🎦電影直播頻道,#genre#
-CHC家庭電影,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
-CHC高清電影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
-東森電影,http://120.84.96.73:808/hls/32/index.m3u8
-東森電影,http://120.84.96.89:808/hls/32/index.m3u8
-東森電影,http://120.84.96.113:808/hls/32/index.m3u8
-東森電影,http://120.84.96.82:808/hls/32/index.m3u8
-東森電影,http://120.84.96.87:808/hls/32/index.m3u8
-衛視電影 HD,http://220.134.196.147:9549/index.m3u8
-龍祥時代,http://120.84.96.73:808/hls/35/index.m3u8
-龍祥時代,http://120.84.96.89:808/hls/35/index.m3u8
-龍祥時代,http://120.84.96.113:808/hls/35/index.m3u8
-龍祥時代,http://120.84.96.87:808/hls/35/index.m3u8
-經典電影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
-天映經典,http://120.84.96.73:808/hls/85/index.m3u8
-天映經典,http://120.84.96.89:808/hls/85/index.m3u8
-天映經典,http://120.84.96.113:808/hls/85/index.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
-天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
-東森洋片 HD,http://120.84.96.73:808/hls/33/index.m3u8
-東森洋片 HD,http://120.84.96.89:808/hls/33/index.m3u8
-東森洋片 HD,http://120.84.96.113:808/hls/33/index.m3u8
-東森洋片 HD,http://120.84.96.82:808/hls/33/index.m3u8
-東森洋片 HD,http://120.84.96.87:808/hls/33/index.m3u8
-我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 4K超高清電影,http://r.jdshipin.com/5DWJk
 Hi-YAH!,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 Kix (印尼字幕),http://210.210.155.37/dr9445/h/h07/index.m3u8
 My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
-NewTV超級電影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-NewTV超級電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
-NewTV超級電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
-NewTV超級電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
-NewTV精品電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-PANDA影院,http://182.151.211.171:808/hls/127/index.m3u8
-每日影院,http://182.151.211.171:808/hls/128/index.m3u8
-芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-明星大片,http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8
-東北熱劇,http://39.134.115.163:8080/PLTV/88888910/224/3221226202/index.m3u8
 金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-峨嵋電影,http://182.151.211.171:808/hls/58/index.m3u8
-黑莓電影,http://117.169.124.149:8080/live/jdianying/index.m3u8
-黑莓電影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225764/index.m3u8
-黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225769/index.m3u8
-黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
-黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
-黑莓電影,http://39.135.138.58:18890/PLTV/88888910/224/3221225764/index.m3u8
-黑莓電影,http://39.135.138.58:18890/PLTV/88888910/224/3221225769/index.m3u8
-黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225764/index.m3u8
-黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
-黑莓電影,http://39.135.138.58:18890/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影,http://39.137.49.76:8080/PLTV/88888888/224/3221225718/index.m3u8
-黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
-黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
-黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8
-黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
 電影輪播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 
 🌈動畫頻道,#genre#
-靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
-靖天卡通,https://epg.pm/stream/a573cf9d61a653dbf527f3b304c5a5fe4cd589b139e8a91e9eaafffbe1775d94.m3u8
-靖天卡通,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-靖洋卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
 東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 粉紅豬小妹,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
 喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
@@ -187,9 +108,6 @@ PANDA影院,http://182.151.211.171:808/hls/127/index.m3u8
 動漫輪播-童年經典,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
 動漫輪播-懷舊動畫,http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 動漫輪播-懷舊動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-i-Fun動漫台,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
-經典卡通台,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
-精選動漫台,http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
 小豬佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 小豬佩奇,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
 東森幼幼歌曲輪播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
@@ -198,13 +116,7 @@ i-Fun動漫台,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.
 英文兒歌動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-卡通輪播1,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 卡通輪播2,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
-動漫輪播-童年經典,http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-動漫輪播-童年經典,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-動漫輪播-懷舊動畫,http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-動漫輪播-懷舊動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-愛奇藝小豬佩奇,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
 愛奇藝小豬佩奇,http://118.26.120.33:55336/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 愛奇藝小豬佩奇,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8?key=08b3f8f3a31f12001f96a0f53163b0596
 愛奇藝小豬佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8?key
@@ -282,18 +194,15 @@ SiTV動漫秀場,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u
 優漫卡通,http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
 優漫卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8
 反轉星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-名偵探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 名偵探柯南,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 玩具樂園,http://118.26.120.37:55336/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
 玩具樂園,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
 英文兒歌,http://118.26.120.23:55336/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73
 倒楣熊,http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
 倒楣熊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
-倒楣熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 動物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
 迪斯尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪斯尼動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
 湯姆和傑瑞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
 湯姆和傑瑞,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
 奧特曼,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
