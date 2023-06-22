@@ -257,34 +257,16 @@ VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?%243840x21
 ⚽體育直播,#genre#
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
 無綫財經·體育·資訊台[1280x720],http://sc2022.stream-link.org/list.php?id=h009
-博斯運動1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
-博斯運動1,http://220.134.196.147:9564/http/116.50.42.18:8066/hls/210/10018/cstv18.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-博斯運動2,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
-ELEVEN體育1台,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-ELEVEN體育1台,http://220.134.196.147:9566/index.m3u8
 ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-NBA動態,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
-TraceSports,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
-智林體育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-日-J Sports 1[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-日-J Sports 2[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-日-J Sports 3[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+博斯高球1,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+博斯高球1,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+博斯高球1,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+博斯高球2,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+丹麥-Sportv2,http://23.237.10.66:16180
 日-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-咪咕籃球,http://39.134.115.163:8080/PLTV/88888910/224/3221226243/index.m3u8
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-新視覺 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-新視覺 HD,http://39.134.115.221:8080/PLTV/88888910/224/3221225622/index.m3u8
-新視覺 HD,http://39.134.115.221:8080/PLTV/88888910/224/3221225648/index.m3u8
-新視覺 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-新視覺 HD,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
 廣東體育,http://120.84.96.73:808/hls/22/index.m3u8
-澳門體育,http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
-澳門體育,http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
-澳門體育,http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-遼寧體育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-BRTV體育休閒,http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-FTV足球頻道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-世新綜合,http://61.58.60.230:9319/live/49.m3u8
+FTV足球頻道,http://204bae1.123nat.com:55/bestv.php?id=90
 
 🎶外語流行頻道,#genre#
 The K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
