@@ -281,6 +281,7 @@ RailWay,https://ytm2.yuanhsing.cf/RailWay.m3u8
 VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?%243840x2160
 ⚽體育直播,#genre#
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
+無綫財經·體育·資訊台[1280x720],http://sc2022.stream-link.org/list.php?id=h009
 博斯運動1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯運動1,http://220.134.196.147:9564/http/116.50.42.18:8066/hls/210/10018/cstv18.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 博斯運動2,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
