@@ -40,10 +40,13 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+中天亞洲台,https://dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&timestamp=1686638322&rand=sbaKtRgStP&uuid=9b647b3816b2a66a&from=web&sign=4cb4d8e2dc09780b9cfe8c921e3ce9c5
+中天综合,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1686637427&rand=uwPO6Q61lx&uuid=9b647b3816b2a66a&from=web&sign=07a84f6d4b7764c0434c82037a60a76e
 三立台灣,http://220.134.196.147:9531/index.m3u8
 非凡商業 HD,http://220.134.196.147:9574/ch49.m3u8
 八大第一 HD,http://60.251.33.252:18539/.m3u8
 八大第一 HD,http://123.51.229.65:18539/.m3u8
+八大第一 HD,https://dispatch.ulivetv.net/v/live/clijwtkn9eio.m3u8?stream_id=clijwtkn9eio&timestamp=1686638205&rand=FlyyE6vV2j&uuid=9b647b3816b2a66a&from=web&sign=63d8c9881554d19302bfaf318b864474
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森超視34.5,https://epg.pw/stream/eb60567383fe9a9226fd2ea1f728a1acbf5dd7543ede209993527ef9bef82a68.m3u8
 東森綜合 HD,http://220.134.196.147:9553/index.m3u8
