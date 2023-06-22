@@ -121,18 +121,13 @@ EYE戲劇台,https://dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7
 東森電影,https://dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&timestamp=1686303119&rand=8Q3K3OV9ls&uuid=9b647b3816b2a66a&from=web&sign=242b4f3b13e2c15cb27e5e23573f8a31
 東森超視,https://dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&timestamp=1686276983&rand=S9lUBe2KRs&uuid=9b647b3816b2a66a&from=web&sign=07e14d0c0e8def18e3caf50c8412ef92
 🌈動畫頻道,#genre#
-東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-粉紅豬小妹,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
-喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
-名偵探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+東森幼幼,http://sc2022.stream-link.org/list.php?id=t026
 倒霉熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 動漫輪播-動畫電影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 動漫輪播-童年經典,http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
 動漫輪播-童年經典,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
 動漫輪播-懷舊動畫,http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 動漫輪播-懷舊動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-小豬佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-小豬佩奇,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
 東森幼幼歌曲輪播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 親子動畫01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 親子動畫02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
