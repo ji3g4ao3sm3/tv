@@ -121,7 +121,6 @@ EYE戲劇台,https://dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7
 東森電影,https://dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&timestamp=1686303119&rand=8Q3K3OV9ls&uuid=9b647b3816b2a66a&from=web&sign=242b4f3b13e2c15cb27e5e23573f8a31
 東森超視,https://dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&timestamp=1686276983&rand=S9lUBe2KRs&uuid=9b647b3816b2a66a&from=web&sign=07e14d0c0e8def18e3caf50c8412ef92
 🌈動畫頻道,#genre#
-東森幼幼,http://sc2022.stream-link.org/list.php?id=t026
 MOMO綜合台,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
 東森幼幼歌曲輪播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
