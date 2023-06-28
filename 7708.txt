@@ -1,6 +1,5 @@
 📺台灣新聞頻道,#genre#
-民視新聞 HD,http://123.51.230.108:18663/.m3u8
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
