@@ -20,8 +20,11 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 寰宇新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=53
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-中天新聞 2(循環直播),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-東森財經 HD,http://123.51.230.108:18515/.m3u8
+中天新聞,http://2023.stream-link.org/live/2072341054
+中天新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=43
+東森新聞,http://2023.stream-link.org/live/256467434
+東森新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=44
+東森財經 HD,http://2023.stream-link.org/live/1562729921
 東森財經 HD,http://123.51.229.65:18515/.m3u8
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
