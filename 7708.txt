@@ -27,29 +27,13 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 華視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 華視 HD,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 中視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-中視 HD,rtmp://219.80.97.77/sat/tv091
-中視 HD,rtmp://119.81.124.89/sat/tv091
-台視 HD,rtmp://219.80.97.77/sat/tv071
-台視 HD,rtmp://119.81.124.89/sat/tv071
-民視 HD,rtmp://219.80.97.77/sat/tv051
-民視 HD,rtmp://119.81.124.89/sat/tv051
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-中天亞洲台,https://dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&timestamp=1686638322&rand=sbaKtRgStP&uuid=9b647b3816b2a66a&from=web&sign=4cb4d8e2dc09780b9cfe8c921e3ce9c5
-中天综合,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1686637427&rand=uwPO6Q61lx&uuid=9b647b3816b2a66a&from=web&sign=07a84f6d4b7764c0434c82037a60a76e
 三立台灣,http://220.134.196.147:9531/index.m3u8
 非凡商業 HD,http://220.134.196.147:9574/ch49.m3u8
-八大第一 HD,http://60.251.33.252:18539/.m3u8
-八大第一 HD,http://123.51.229.65:18539/.m3u8
-八大第一 HD,https://dispatch.ulivetv.net/v/live/clijwtkn9eio.m3u8?stream_id=clijwtkn9eio&timestamp=1686638205&rand=FlyyE6vV2j&uuid=9b647b3816b2a66a&from=web&sign=63d8c9881554d19302bfaf318b864474
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-東森超視34.5,https://epg.pw/stream/eb60567383fe9a9226fd2ea1f728a1acbf5dd7543ede209993527ef9bef82a68.m3u8
 東森綜合 HD,http://220.134.196.147:9553/index.m3u8
-東森綜合 HD,https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1686313315&rand=nHqiCNV70W&uuid=9b647b3816b2a66a&from=web&sign=5df001f7090ed2cbd6f0cef83de5da41
-東森戲劇 HD,http://123.51.229.65:18538/.m3u8
-東森戲劇 HD,http://60.251.33.252:18538/.m3u8
-東森戲劇 HD,http://123.51.230.108:18538/.m3u8
 東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 大愛1台,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
@@ -61,13 +45,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 大愛2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 華視-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 華視-天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-華視-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-緯來綜合 HD,http://123.51.229.65:18540/.m3u8
-緯來綜合 HD,http://123.51.230.108:18540/.m3u8
-緯來綜合 HD,http://60.251.33.252:18540/.m3u8
-東風37,http://123.51.229.65:18560/.m3u8
-東風37,http://60.251.33.252:18560/.m3u8
-東風37,http://123.51.230.108:18560/.m3u8
 幸福空間居家台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -86,6 +63,7 @@ GOOD TV-6,http://live.streamingfast.net/osmflivech6.m3u8
 GOOD TV-7,http://live.streamingfast.net/osmflivech7.m3u8
 GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
 GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
+
 🎦電影直播頻道,#genre#
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
