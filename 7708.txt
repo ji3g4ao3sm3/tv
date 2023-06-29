@@ -1,5 +1,7 @@
 📺台灣新聞頻道,#genre#
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞 HD,http://tv.redrainl.site:9500/live.m3u8?c=1
+民視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -16,6 +18,7 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中視新聞 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+東森衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
@@ -26,7 +29,12 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 華視 HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
 華視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 華視 HD,https://ytm2.yuanhsing.cf/ctsprog.m3u8
+華視娛樂台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 中視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+中天娛樂台,http://162.19.247.76:22222/live/ztyl/index.m3u8
+東森電影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+東森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8
+生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
