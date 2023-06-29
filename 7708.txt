@@ -1,13 +1,9 @@
 📺台灣新聞頻道,#genre#
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞 HD,http://2023.stream-link.org/live/1536981751
-民視新聞 http://123.51.230.108:18663/.m3u8
-TVBS新聞,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-300d09ed-7cca-4909-831e-3184bf30496f.m3u8?by=yeslivetv_com
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
@@ -15,20 +11,10 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
-寰宇國際新聞,http://2023.stream-link.org/live/187458082
-寰宇新聞,http://2023.stream-link.org/live/1666533776
-寰宇新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=53
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-中天新聞,http://2023.stream-link.org/live/2072341054
-中天新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=43
-東森新聞,http://2023.stream-link.org/live/256467434
-東森新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=44
-東森財經 HD,http://2023.stream-link.org/live/1562729921
-東森財經 HD,http://123.51.229.65:18515/.m3u8
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-東森財經 HD,http://60.251.33.252:18515/.m3u8
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 
 ﻿🇹🇼台灣綜合頻道,#genre#
