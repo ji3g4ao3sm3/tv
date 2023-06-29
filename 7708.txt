@@ -2,7 +2,7 @@
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞 HD,http://2023.stream-link.org/live/1536981751
 民視新聞 http://123.51.230.108:18663/.m3u8
-TVBS新聞,http://2023.stream-link.org/live/2051588601
+TVBS新聞,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-300d09ed-7cca-4909-831e-3184bf30496f.m3u8?by=yeslivetv_com
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
