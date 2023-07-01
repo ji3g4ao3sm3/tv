@@ -202,33 +202,31 @@ Oko Lele,https://ytm2.yuanhsing.cf/OkoLeleOfficialchannel.m3u8
 Pea Pea Korea,https://ytm2.yuanhsing.cf/PeaPeaKorea.m3u8
 Talking Tom Heroes Adventures,https://ytm2.yuanhsing.cf/TalkingTomHeroes.m3u8
 🌍人文地理,#genre#
-亞洲旅遊台,http://220.134.196.147:9523/index.m3u8
-亞洲旅遊台,http://220.134.196.147:9565/http/116.50.42.18:8088/hls/76/818/ch61.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-動物星球,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-國家地理台灣,http://218.32.47.179:18509/.m3u8
-國家地理台灣,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
-國家地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-成都大熊貓繁育研究基地,https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
-上海紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
-上海紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
-上海紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
-北京紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
-北京紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
-北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-金鷹紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-全紀實,http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
-全紀實,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-茶頻道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
-快樂垂釣,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
-In WILD,https://inwild-samsungau.amagi.tv/playlist.m3u8
-NASA Live,http://tv.redrainl.site:9500/live.m3u8?c=39
-NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-Nature,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
-RailCowGirl,https://ytm2.yuanhsing.cf/RailCowGirl.m3u8
-RailWay,https://ytm2.yuanhsing.cf/RailWay.m3u8
-VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?%243840x2160
+求索纪录,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+求索science,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+求索动物,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+求索生活,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+北京冬奥纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+纪实科教「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+北京冬奥纪实 5.5M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw561828427_-1362625921/ott.mobaibox.com/PLTV/3/224/3221227711/index.m3u8?icpid=3&RTS=1674380677&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+北京冬奥纪实 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw2056461541_1405788434/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1674386466&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226235/1.m3u8
+湖南快乐垂钓 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南茶 7M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000/mnf.m3u8
+动物世界,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Discovery,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
+世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+全纪实[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+全纪实,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000201/index.m3u8?IAS
+全纪实,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000201/index.m3u8?IAS
+全纪实,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000201/index.m3u8?IAS
+全纪实,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000201/index.m3u8?IAS
+金鹰纪实,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
+金鹰纪实,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
+金鹰纪实,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
+
 ⚽體育直播,#genre#
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
 無綫財經·體育·資訊台[1280x720],http://sc2022.stream-link.org/list.php?id=h009
