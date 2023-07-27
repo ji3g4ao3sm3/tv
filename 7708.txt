@@ -38,7 +38,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 東森綜合 HD,http://220.134.196.147:9553/index.m3u8
 東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-大愛1台,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大愛1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
