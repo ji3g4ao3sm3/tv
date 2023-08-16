@@ -72,7 +72,13 @@ Kix (印尼字幕),http://210.210.155.37/dr9445/h/h07/index.m3u8
 My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
 長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 電影輪播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-
+美亚电影台,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+阿里郎 Arirang,http://198.16.100.90:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+靖天卡通台,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+靖天国际台,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+龙华偶像,http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+龙华洋片,http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
 🌈動畫頻道,#genre#
 東森幼幼歌曲輪播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
