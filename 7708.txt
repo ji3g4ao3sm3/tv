@@ -79,6 +79,15 @@ My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
 靖天国际台,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 龙华偶像,http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 龙华洋片,http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
+华语影院 8M,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+电竞天堂 8M,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+青春动漫 8M,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+宝宝动画 8M,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+星光影院 8M,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+谍战剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+全球大片 8M,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+热门剧场 8M,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+陶瓷高清 8M,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
 🌈動畫頻道,#genre#
 東森幼幼歌曲輪播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
