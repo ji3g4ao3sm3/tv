@@ -17,6 +17,8 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 東森衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+东森财经新闻,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 
 ﻿🇹🇼台灣綜合頻道,#genre#
@@ -27,10 +29,12 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 東森電影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 東森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+TVBS HD,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立台灣,http://220.134.196.147:9531/index.m3u8
+民视 HD,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 非凡商業 HD,http://220.134.196.147:9574/ch49.m3u8
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森綜合 HD,http://220.134.196.147:9553/index.m3u8
@@ -46,6 +50,9 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
+中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+八大戏剧GTVDrama,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+八大第一GTVFirst,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV-10 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
 GOOD TV-11 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
@@ -61,7 +68,11 @@ GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
 
 🎦電影直播頻道,#genre#
 東森電影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森电影ETTVMovie,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 東森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8
+EYETV戏剧,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+EYETV旅游,http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+星卫电影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
@@ -208,6 +219,10 @@ Talking Tom Heroes Adventures,https://ytm2.yuanhsing.cf/TalkingTomHeroes.m3u8
 金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000/mnf.m3u8
 动物世界,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Discovery,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
+DiscoveryHD,http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+DiscoveryKidsTamil,http://198.16.100.90:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e
+DiscoveryTurbo,http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MA4A9062409890624098&ct=19254&tsum=a08aaae68298f6df5540cb41f9d7fdd5
+DiscoveryWorldTamil,http://198.16.100.90:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
 世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 全纪实[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 全纪实,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000201/index.m3u8?IAS
@@ -221,6 +236,7 @@ Discovery,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
 ⚽體育直播,#genre#
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
 無綫財經·體育·資訊台[1280x720],http://sc2022.stream-link.org/list.php?id=h009
+愛爾達體育3台,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
 ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 博斯高球1,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球1,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
