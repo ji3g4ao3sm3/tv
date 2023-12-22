@@ -92,6 +92,7 @@ My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
 热门剧场 8M,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 陶瓷高清 8M,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
 🌈動畫頻道,#genre#
+靖天卡通台,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 東森幼幼歌曲輪播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
