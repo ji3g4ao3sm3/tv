@@ -57,11 +57,10 @@ GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
 GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
 
 🎦電影直播頻道,#genre#
-EYETV旅遊,http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+CCTV電影,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
 HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-CCTV電影,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
 星卫电影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
