@@ -22,6 +22,7 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+年代新聞,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
 🇹🇼台灣綜合頻道,#genre#
 華視CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
@@ -64,7 +65,6 @@ GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
 CCTV電影,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
 東森電影HD,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 好莱坞电影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
 HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 星卫电影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
