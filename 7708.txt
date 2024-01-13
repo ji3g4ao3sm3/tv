@@ -1,6 +1,6 @@
 📺台灣新聞頻道,#genre#
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -22,7 +22,6 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 🇹🇼台灣綜合頻道,#genre#
 華視CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
@@ -154,6 +153,7 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 時尚台FTV4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 👩‍💼外語新聞頻道,#genre#
+FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ANN News,http://tv.redrainl.site:9500/live.m3u8?c=29
 BBC America,https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 BBC WORLD NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
