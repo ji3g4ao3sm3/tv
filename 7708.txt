@@ -48,18 +48,17 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
-GOOD TV-2 生活台,http://live.streamingfast.net/osmflivech12.m3u8
-GOOD TV-3 真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
-GOOD TV-5 共用觀點,http://live.streamingfast.net/osmflivech5.m3u8
-GOOD TV-6,http://live.streamingfast.net/osmflivech6.m3u8
-GOOD TV-7,http://live.streamingfast.net/osmflivech7.m3u8
-GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
-GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
-GOOD TV-10 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
-GOOD TV-11 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
-GOOD TV-13 健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
-GOOD TV-14 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
+GOOD TV 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
+GOOD TV 生活台,http://live.streamingfast.net/osmflivech12.m3u8
+GOOD TV 真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
+GOOD TV 共用觀點,http://live.streamingfast.net/osmflivech5.m3u8
+GOOD TV 墓主音樂,http://live.streamingfast.net/osmflivech6.m3u8
+GOOD TV 禱告大軍,http://live.streamingfast.net/osmflivech7.m3u8
+GOOD TV 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
+GOOD TV 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
+GOOD TV 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
+GOOD TV 健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
+GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 
 🎦電影直播頻道,#genre#
 CCTV電影,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
