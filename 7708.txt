@@ -62,7 +62,6 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 
 🎦電影直播頻道,#genre#
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-CCTV電影,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
 東森電影HD,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 好莱坞电影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 HBO,http://220.134.196.147:9520/index.m3u8
