@@ -93,7 +93,6 @@ ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 英文兒歌動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 🌍人文地理,#genre#
-金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000/mnf.m3u8
 动物世界,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Animal Planet 中字,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 Discovery,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
