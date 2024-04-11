@@ -2,7 +2,6 @@
 民視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
