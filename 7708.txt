@@ -41,6 +41,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 緯來綜合台,https://epg.pw/stream/3c3bb8bead49158d9674091094bdb6b099b1f5eeb9ff93c9c9c27cd5ca4c8c9c.m3u8
 緯來育樂台,https://epg.pw/stream/2a732300753dd501a544b41d3ed7a272642a8b4f251c1131636d36644ad3fbd0.m3u8
 緯來育樂台,https://epg.pw/stream/3791deb30b7bba8c51c4492c66e4533fb786249b546387ca93e2a8a044689529.m3u8
+公視戲劇,https://epg.pw/stream/20465771bc9dbdd972f3c59e3c6645103aed450acd7f46bd1e4a9d166ee047a4.m3u8
 大愛1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 華視-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
