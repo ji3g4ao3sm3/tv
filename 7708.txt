@@ -728,7 +728,7 @@ K,mitv://135.148.104.228:19806/5e51b7ff2fa34cb6a667e3d3c217da88
 成人電影,mitv:// Generationnexxxt.com:19806/87c67ddb3fe542209fad31646df0ab1e
 松視1,mitv:// Generationnexxxt.com:19806/f4f8edef1bc84e3f96f0ef2f1aca7462
 松視2,mitv:// Generationnexxxt.com:19806/214a310f878442028c2bea560e9518c6
-《花花公子》，mitv:// Generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
+花花公子，mitv:// Generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
 香蕉,mitv:// Generationnexxxt.com:19806/2755dbf54022456bb1def228cda54ba1
 松視3,mitv:// Generationnexxxt.com:19806/4f855e073cb74c4ba33494f3c5feab03
 JStar極限,mitv:// Generationnexxxt.com:19806/dcf99b2bda44417a96ec205123929881
