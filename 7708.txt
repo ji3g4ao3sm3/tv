@@ -716,3 +716,15 @@ FAKE DRIVING SCHOOL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/6758
 極限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
 彩虹k,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
 彩虹電影,http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+彩虹E,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
+HustLer,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
+Redlight,http://z88.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
+SEX ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+Passie,http://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
+白兔,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
+花花公子電視,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/527/index.m3u8
+菊花臺,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/147/index.m3u8
+紅綠兔,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6280/index.m3u8
+YOSSO TV SEXY,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
+白兔1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
