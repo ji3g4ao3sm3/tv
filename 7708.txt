@@ -1,24 +1,95 @@
 📺台灣新聞頻道,#genre#
+三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+三立inews,https://z88.ubtvfans.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
+三立inews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
+TVBS HD,https://epg.pw/stream/6fbdab20eab852bdd687d555493c325c308e0d1810227661f2b1bc0c318149aa.m3u8
+東森新聞,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
+東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+東森財經新聞,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
+華視HD,https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
+華視新聞,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+華視新聞資訊,https://epg.pw/stream/b20d2989c1b4d83ae0b5972a00648b724ae245f21c9542eca7bb8c32a0043a24.ctv
+民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
+民視HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 民視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-TVBS HD,https://epg.pw/stream/6fbdab20eab852bdd687d555493c325c308e0d1810227661f2b1bc0c318149aa.m3u8
+台視HD,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+臺視新聞,https://z88.ubtvfans.com/live/rx6/1/f2689f3bc90c3782bc56427e5463bcf8/index.m3u8
+臺視財經,https://z88.ubtvfans.com/live/rx1/300/b2a1f44e14f47427518936897549976e/index.m3u8
+壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
+中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中視新聞,https://z88.ubtvfans.com/live/rx6/2400//index.m3u8
+華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
+公視,https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 公視新聞,https://epg.pw/stream/deb6dde9203b31944f68bdf2bbfb405fef11b30877093abffaecf1057e3efd00.ctv
+環宇臺灣,https://z88.ubtvfans.com/live/rx1/87/7de4c5cddc5dd3402c2a2414a4f90484/index.m3u8
+年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-東森衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-東森財經新聞,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-華視新聞,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
-華視新聞資訊,https://epg.pw/stream/b20d2989c1b4d83ae0b5972a00648b724ae245f21c9542eca7bb8c32a0043a24.ctv
-HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+
+
+娛樂戲劇,#genre#
+東森衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+東森亞洲衛視,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
+民視HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
+臺視HD,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
+中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
+華視HD,https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
+公視,https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
+好消息,https://z88.ubtvfans.com/live/rx1/104/a4837e9b394e278fe4726be73a5c227e/index.m3u8
+客家電視,https://z88.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
+緯來綜合,https://z88.ubtvfans.com/live/rx1/2726/5acfb74f1676ec3fb0ae5f4c28939c16/index.m3u8
+八大第一,https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
+八大綜合,https://z88.ubtvfans.com/live/rx1/2286/78f60a216640f76802257cbab8095843/index.m3u8
+三立臺灣HD,https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
+三立都會HD,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
+華藝綜合,https://z88.ubtvfans.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
+東森綜合,https://z88.ubtvfans.com/live/rx1/372/0c714ce5b680b8d96604ec36804f1f86/index.m3u8
+中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
+中天娛樂HD,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
+tvbd歡樂,https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
+八大精彩,https://z88.ubtvfans.com/live/rx1/1024/2ebca361d9557429a40fb2d738123d6e/index.m3u8
+JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
+TVBS HD,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+緯來育樂,https://z88.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
+緯來日本,https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
+國興衛視,https://z88.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
+八大娛樂,https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
+中天亞洲,https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
+民視綜藝,https://z88.ubtvfans.com/live/rx3/98/3c6f819155886e63394f7f294db07f13/index.m3u8
+民視第一臺,https://z88.ubtvfans.com/live/rx1/34/d6fc071b304e36d2997065d5c2545774/index.m3u8
+民視臺灣,https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
+龍華日韓,https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
+豬哥亮歌廳秀,https://z88.ubtvfans.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
+ELTA娛樂,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
+韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+靖天國際,https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
+靖天育樂,https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
+靖天日本,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+靖天歡樂,https://z88.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
+三立綜合,https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
+靖天資訊,https://z88.ubtvfans.com/live/rx1/49/829a40d3fd987c2728597b3a038b6c4a/index.m3u8
+靖天綜合,https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
+中視經典,https://z88.ubtvfans.com/live/rx1/185/3702befddc527f8013cd34d03611d5cd/index.m3u8
+中視菁采,https://z88.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
+TVBS精采,https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
+年代much,https://z88.ubtvfans.com/live/rx1/1359/44acb036ef6a4711efb23d82a5d9151e/index.m3u8
+TVN臺灣版,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
+三立國際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
+東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+八大戲劇,https://z88.ubtvfans.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
+緯來戲劇,https://z88.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
+catchplay,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
+Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
 
 🇹🇼台灣綜合頻道,#genre#
 華視CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
@@ -68,6 +139,40 @@ GOOD TV 健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
 GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 
 🎦電影直播頻道,#genre#
+東森電影.https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+緯來電影,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
+HBOhd,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
+愛達爾影劇,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
+東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
+好萊塢,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
+龍華洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
+靖天影畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
+靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
+緯來精采,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
+EYE戲劇,https://z88.ubtvfans.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
+三立戲劇,https://z88.ubtvfans.com/live/rx1/64/73393c10a0588bd9119eaed578fb81d5/index.m3u8
+龍華偶像,https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
+霹靂臺灣,https://z88.ubtvfans.com/live/rx1/1339/4548801261b49eea62f971f931ed19a7/index.m3u8
+靖天電影,https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
+美亞電影,https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
+民視影劇,https://z88.ubtvfans.com/live/rx1/1023/950cf40ce6700c1bf2c2d8b1636576da/index.m3u8
+HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+HBO1,https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
+HBO2,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+采昌影劇,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
+影迷數位,https://z88.ubtvfans.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
+龍華戲劇,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
+龍華經典,https://z88.ubtvfans.com/live/rx1/100/a199b21da53bc0e33feffca890752109/index.m3u8
+龍祥時代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
+AXN臺灣,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
+天映經典,https://z88.ubtvfans.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
+公視戲劇,https://z88.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
+AXN亞洲,https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
+thrill,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/index.m3u8
+龍華電影,https://z88.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
+華納電影,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 東森電影HD,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 好莱坞电影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
@@ -78,7 +183,6 @@ HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 Hi-YAH!,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 Kix (印尼字幕),http://210.210.155.37/dr9445/h/h07/index.m3u8
 My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
@@ -91,6 +195,18 @@ My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
 變種人電影,https://epg.pw/stream/f41827a1237e7180f5397cd04a3521f6bffe93737f13bd0f27dadeaa4f900746.ctv
 
 🌈動畫頻道,#genre#
+Astro Ceria,p2p://135.148.104.228:19806/65a60c7700089e76e0e3d6806c8b1e66
+Boomerang,p2p://135.148.104.228:19806/65619d3500003c6967236ef726ef1633
+Animax,p2p://135.148.104.228:19806/22f75ace87a545aab39a2e4cd244bbad
+Nick Jr.,p2p://135.148.104.228:19806/acebbded37714fa4a5554c025873a92c
+Hands Up,p2p://135.148.104.228:19806/7a79a82b627a417f897895b4adf874aa
+Boomerang(B),p2p://135.148.104.228:19806/45f849d284af44fb80815dc8faa555d0
+Animax(B),p2p://135.148.104.228:19806/9a6969de27b145dc972e19d71c1a8932
+MOMO,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
+東森幼幼,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
+CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
+靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 靖天卡通台,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 東森幼幼台,https://epg.pw/stream/d35cc573746024eb611046288002be136a43c60a22a30468168d81e2afe2897e.m3u8
 東森幼幼台,https://epg.pw/stream/1d9ca51d13542893db91a27fea36b56c6af8a85f2b39d49695832a26f18b1124.m3u8
@@ -114,12 +230,30 @@ ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 英文兒歌動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 🌍人文地理,#genre#
+國家地理,https://z88.ubtvfans.com/live/rx1/302/5c562b6b602c232f4ef70bd948dc2f7f/index.m3u8
+探索頻道,https://z88.ubtvfans.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8
+動物星球,https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+民視旅遊,https://z88.ubtvfans.com/live/rx2/78/b74e51bdd2f933ad4272e33628754a67/index.m3u8
+探索亞洲,https://z88.ubtvfans.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
+探索科學,https://z88.ubtvfans.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
+DMAX,https://z88.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
+探索eve!https://z88.ubtvfans.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
+視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
+美食星球,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
+EYE旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
 动物世界,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Animal Planet 中字,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 Discovery,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
 
 
 ⚽體育直播,#genre#
+緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+ELEVEN1,https://z88.ubtvfans.com/live/rx1/1133/64a8f14b61c93d85873c39955eccf1c9/index.m3u8
+ELEVEN2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+ELTA體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
+ELTA體育2!https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
+ELTA體育3,https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
+ELTA體育4,https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 日-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -127,6 +261,11 @@ ELTA体育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC50
 博思無限,https://epg.pw/stream/8869d8435b617bd9720f9f7ca6e20bf99f66ccf8ce853cfb71d3092fa7e39685.m3u8
 博斯運動1,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯運動2,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+博斯無限1,https://z88.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
+博斯無限2,https://z88.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
+博斯運動1,https://z88.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
+博斯運動2,https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
+亞洲旅遊,https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
 
 🎶外語流行頻道,#genre#
 EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
@@ -190,6 +329,53 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 
+港澳頻道,#genre#
+翡翠臺,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+翡翠臺,https://z88.ubtvfans.com/live/rx1/30/fb664922e2e0f516cde26b1d27a01331/index.m3u8
+明珠臺,https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
+明珠臺,https://z88.ubtvfans.com/live/rx1/2437/60f6d630f969e14ada0c4ff4e424733e/index.m3u8
+無線新聞,https://z88.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
+HOY資訊臺,https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
+Viutv,https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
+Viutv,https://z88.ubtvfans.com/live/rx1/72/67ad6810b074a91c73426c59e36738d6/index.m3u8
+TVB 財經,https://z88.ubtvfans.com/live/rx1/393/2ab98535a19d87448969f590b141d15b/index.m3u8
+TVB 直播,https://z88.ubtvfans.com/live/rx1/2743/4f144d9eee874c8d70c168c4b0c4b8d5/index.m3u8
+NOW新聞,https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
+凰鳳香港,https://z88.ubtvfans.com/live/rx1/358/efd02792da62ca36ce0cace8399dc10f/index.m3u8
+凰鳳衛視,https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+鳳凰資訊,https://z88.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
+星空衛視,https://z88.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
+港臺31,https://z88.ubtvfans.com/live/rx1/353/5012273951b1fa2f58322e047b5cad8e/index.m3u8
+港臺32,https://z88.ubtvfans.com/live/rx1/397/f342385d2bec6e54b6edd5c18597c39e/index.m3u8
+HKIBC,https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
+HOY,https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
+澳門資訊,https://z88.ubtvfans.com/live/rx3/399/9293c862ac36b967b559d9e06def36cf/index.m3u8
+澳門澳視,https://z88.ubtvfans.com/live/rx1/23/2461dc775e41aa30e9d1e941702fc5b7/index.m3u8
+澳門普語,https://z88.ubtvfans.com/live/rx3/24/fbbbb000a4376aa5efe7d87589e3ad3c/index.m3u8
+18臺,https://z88.ubtvfans.com/live/rx1/2813/bf9968c0d6c16dded7c49cf9f1419429/index.m3u8
+澳門mama,https://z88.ubtvfans.com/live/rx3/364/0f63868258bdbcfa9c630f14d732bb6d/index.m3u8
+廣東珠江,https://z88.ubtvfans.com/live/rx1/1034/ea91e47e0ce349e1923cbcb373067494/index.m3u8
+澳門蓮花,https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
+鳳凰電影,https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
+Viutv6,https://z88.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
+創世電視,https://z88.ubtvfans.com/live/rx6/1317/a6cc4d38042da834e3c7eee3ad2aef10/index.m3u8
+澳亞衛視,https://z88.ubtvfans.com/live/rx3/85/c871830ea5628e11c1a0af56f2424165/index.m3u8
+TVB亞洲,https://z88.ubtvfans.com/live/rx1/1048/1fca2f643298a4e188bbe00ad6d7b60e/index.m3u8
+TVB粵語,https://z88.ubtvfans.com/live/rx1/1589/f69ec211e7b1001aba0bab74ae0b038f/index.m3u8
+TVB功夫,https://z88.ubtvfans.com/live/rx1/168/83b003eeef5ee14257bc64c8a32eb617/index.m3u8
+亞梅衛視,https://z88.ubtvfans.com/live/rx3/8/77623fd8579d781dec56a03cfcaad0d5/index.m3u8
+TVB1,https://z88.ubtvfans.com/live/rx3/1242/eeea21dcadba59e9cf76774d26343f65/index.m3u8
+TVBDRAMA,https://z88.ubtvfans.com/live/rx3/1243/c58aa488dfca9fea0dd03d144945d918/index.m3u8
+TVBJ1,https://z88.ubtvfans.com/live/rx3/1244/8143b9a14c380ff86751516f49c4d815/index.m3u8
+TVBE,https://z88.ubtvfans.com/live/rx3/1245/32fad5843f9d9c3cb685bae826856acf/index.m3u8
+新時代東部,https://z88.ubtvfans.com/live/rx3/1286/57fa77077b641704a8c5610e6856e7b1/index.m3u8
+新時代西部,https://z88.ubtvfans.com/live/rx3/1287/dc127a53da799d357f8951a2d9f7aa23/index.m3u8
+新時代2,https://z88.ubtvfans.com/live/rx3/1288/00ac0fea3fafa7b991bfee63ce1c5850/index.m3u8
+城市電視,https://z88.ubtvfans.com/live/rx3/1289/352689e8ed7e378f1fc087387bf08f21/index.m3u8
+TVB星河,https://z88.ubtvfans.com/live/rx4/1079/5c3f0a081da1a530f171486f6931c93a/index.m3u8
+TVB經典,https://z88.ubtvfans.com/live/rx3/1083/3f1033b4dc8bef46e6a2482a701130b4/index.m3u8
+
+
 國會議事轉播,#genre#
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會議事轉播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
@@ -225,10 +411,32 @@ MOMO購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 Viva 美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 
-成人點播頻道_3368,#genre#
+
+🔞台灣串流頻道,#genre#
+松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+玩美臺,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
+免子臺,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+極限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+彩虹k,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+彩虹電影,http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+彩虹E,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
+HustLer,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
+Redlight,http://z88.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
+SEX ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+Passie,http://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
+白兔,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
+花花公子電視,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/527/index.m3u8
+菊花臺,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/147/index.m3u8
+紅綠兔,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6280/index.m3u8
+YOSSO TV SEXY,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
+白兔1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
+花花電視,http://ca.ukrainske.tv/242/3530225EDBD6B16/video.m3u8
 母子愉悅亂倫-蘭心潔,https://je40u.cdnedge.live/file/avple-images/hls/624eeb896d742407ed435445/playlist.m3u8
 鄰居妹妹-前田由美,https://u89ey.cdnedge.live/file/avple-images/hls/623239d98cc9324f4943612d/playlist.m3u8
-??潮,https://u89ey.cdnedge.live/file/avple-images/hls/624ed647f0cc4f2b3cb8b9ae/playlist.m3u8
+高潮,https://u89ey.cdnedge.live/file/avple-images/hls/624ed647f0cc4f2b3cb8b9ae/playlist.m3u8
 小姨勾引親外甥-白星雨,https://u89ey.cdnedge.live/file/avple-images/hls/61efa03b5d579208810784f5/playlist.m3u8
 老公懷疑我出軌,https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
 口交5分鐘不射就內射,https://v10.ripic.xyz/60de050fb89f73afd3e60da9/video.m3u8
@@ -238,3 +446,1275 @@ Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
+
+
+🔞EXTINF,#genre#
+EXTINF,http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+Erox,http://94.229.250.73:8008/play/a002
+Playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+EXTINF:-1,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+Шелк,http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+Penthouse Gold HD,http://51.159.102.100/PenthouseGold/index.m3u8
+Русская ночь,http://94.154.83.88:10000/russiannight
+Кино 18+,https://autopilot.catcast.tv/content/40381/index.m3u8
+Passion XXX,http://62.176.77.22:9781/play/a00n
+Vivid Red,http://62.176.77.22:9781/play/a00m
+Evil Angel,http://62.176.77.22:9781/play/a00l 
+Hustler HD,https://cdn-global.lolokoko.tv/HUSTLER.stream/chunks.m3u8 
+Private TV,http://149.62.183.194:9293/play/a07t
+Babestation 24,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8 
+Brazzers TV Europe,https://cdn-global.lolokoko.tv/BRAZZERS.stream/chunks.m3u8 
+Redlight HD,https://cdn-global.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+Шалун,http://31.134.132.245:8080/shalun_hd/index.m3u8
+Babes TV,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
+Barely Legal,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/871/index.m3u8
+Red Lips,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
+Blue Hustler,http://31.134.132.245:8080/hustler_hd/index.m3u8ips
+Dorcel TV,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
+Extasy 4K,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
+
+
+🔞歐美頻道,#genre#
+MILF,https://cdn.adultiptv.net/milf.m3u8
+MILF,https://cdn.redtraffic.net/milf.m3u8
+Big Dick,https://cdn.adultiptv.net/bigdick.m3u8
+Big Dick,https://cdn.redtraffic.net/bigdick.m3u8
+Big Tits,https://cdn.adultiptv.net/bigtits.m3u8
+Big Tits,https://cdn.redtraffic.net/bigtits.m3u8
+Fetish,https://cdn.adultiptv.net/fetish.m3u8
+Fetish,https://cdn.redtraffic.net/fetish.m3u8
+Pornstar,https://cdn.adultiptv.net/pornstar.m3u8
+Pornstar,https://cdn.redtraffic.net/pornstar.m3u8
+Big Ass,https://cdn.adultiptv.net/bigass.m3u8
+Big Ass,https://cdn.redtraffic.net/bigass.m3u8
+Interracial,https://cdn.adultiptv.net/interracial.m3u8
+Interracial,https://cdn.redtraffic.net/interracial.m3u8
+Latina,https://cdn.adultiptv.net/latina.m3u8
+Latina,https://cdn.redtraffic.net/latina.m3u8
+POV,https://cdn.adultiptv.net/pov.m3u8
+POV,https://cdn.redtraffic.net/pov.m3u8
+Blowjob,https://cdn.adultiptv.net/blowjob.m3u8
+Blowjob,https://cdn.redtraffic.net/blowjob.m3u8
+Teen,https://cdn.adultiptv.net/teen.m3u8
+Teen,https://cdn.redtraffic.net/teen.m3u8
+Hardcore,https://cdn.adultiptv.net/hardcore.m3u8
+Hardcore,https://cdn.redtraffic.net/hardcore.m3u8
+Cuckold,https://cdn.adultiptv.net/cuckold.m3u8
+Cuckold,https://cdn.redtraffic.net/cuckold.m3u8
+Threesome,https://cdn.adultiptv.net/threesome.m3u8
+Threesome,https://cdn.redtraffic.net/threesome.m3u8
+Russian,https://cdn.adultiptv.net/russian.m3u8
+Russian,https://cdn.redtraffic.net/russian.m3u8
+Lesbian,https://cdn.adultiptv.net/lesbian.m3u8
+Lesbian,https://cdn.redtraffic.net/lesbian.m3u8
+
+
+台湾,#genre#
+BBC Lifestyle,p2p://135.148.104.228:19806/178e533979bb4ec3af9190ca475f23ef
+民视,p2p://135.148.104.228:19806/7b662823ed634f1fad66ab442b177118
+台视,p2p://135.148.104.228:19806/9868c18e3c0940cd8aa003d9ae54f862
+Lifetime,p2p://135.148.104.228:19806/112b06172cdf41cbb6990e64d30cab0c
+大爱1台,p2p://135.148.104.228:19806/e89ec8c592484d88bc001e8d8a6c9e31
+KLT-靖天国际台,p2p://135.148.104.228:19806/12d39bada24843588ad72a3175b785a2
+中视,p2p://135.148.104.228:19806/27826c4ed7234c0d8759bc7fe6786a18
+霹雳台湾台,p2p://135.148.104.228:19806/dcdf778fe9ca4184ad6af3a911765cf0
+HGTV居家乐活频道,p2p://135.148.104.228:19806/84613e96237545769558cc572e6d1ab0
+华视,p2p://135.148.104.228:19806/761bc3c0662247d18b0db4da8070b7f4
+Love Nature,p2p://135.148.104.228:19806/574be1e2e0054216abe436413ea4221a
+公视,p2p://135.148.104.228:19806/5bc9388122b840f1abd2ff73c85049a6
+美食星球,p2p://135.148.104.228:19806/1baaeb6967434fee9bf4412904e573b0
+亚洲美食频道,p2p://135.148.104.228:19806/5b787bd078c84a3caa09c3665c66dc50
+好消息,p2p://135.148.104.228:19806/febf2282369d409d92d68514b72fc433
+亚洲旅游台,p2p://135.148.104.228:19806/259c24cb79ce4b5db1fb1e1b894c517e
+EYE TV旅游台,p2p://135.148.104.228:19806/2d426994acef44deb401aa8a4cd5a92e
+原住民,p2p://135.148.104.228:19806/cb5b7549e3604100a605ca17c82808f5
+好消息2台,p2p://135.148.104.228:19806/2b9f20946a6147dfba8f92373fbafee5
+三立综合台,p2p://135.148.104.228:19806/792a7263dd7b4c7484512d07f3c21083
+靖天资讯台,p2p://135.148.104.228:19806/5c9d432112fd4d4e92263a34415293fa
+靖天综合台,p2p://135.148.104.228:19806/ed2e3f294dcc40c1b72aba372fbed64d
+靖天育乐台,p2p://135.148.104.228:19806/d67fd6c2e7c44e17b9e86d9073f2930e
+中视经典台,p2p://135.148.104.228:19806/8b9e15ff15474ccbbc2780c1484e50c9
+中视菁采台,p2p://135.148.104.228:19806/ae5e01a7bc294327b88f65aa5d38217c
+客家电视台,p2p://135.148.104.228:19806/eafabb6e7c30439b8ecd35ad40a46a96
+TVBS精采台,p2p://135.148.104.228:19806/2089afbec2474359add275658522922f
+壹电视综合,p2p://135.148.104.228:19806/617d6cf150574cb485ee07aea57262fd
+纬来精采,p2p://135.148.104.228:19806/1db14fe8aad841b4b28eca2b136e7206
+ETtoday综合台,p2p://135.148.104.228:19806/8e1b32241c9d4d079a2df7dc99adb312
+台视综合台,p2p://135.148.104.228:19806/6593a4d5000dedcb98fef0154abd184d
+民视第一台,p2p://135.148.104.228:19806/b97979cec8d74feebc370f3470cc06c6
+民视台湾台,p2p://135.148.104.228:19806/192bd12842624eb39e2f6b86eeacdca8
+Nice TV靖天欢乐台,p2p://135.148.104.228:19806/439163cf3469473b8ffd582b687991be
+探索频道,p2p://135.148.104.228:19806/9f2e92df32b34a569ad7e6818f4732fb
+八大优频道,p2p://135.148.104.228:19806/7abaa68442ce4ed7ad7c9772fb46eda9
+三立戏剧台,p2p://135.148.104.228:19806/7a5b874b630d457bb5997a2fe4690550
+龙华戏剧,p2p://135.148.104.228:19806/5d4f0bd2b18b4a588a0ca733569b18dd
+靖天戏剧台,p2p://135.148.104.228:19806/1282202787324223b35e3c84d9e673c6
+靖洋戏剧台,p2p://135.148.104.228:19806/84a559f1b4884854be933d5d4fc0d4a6
+靖天日本台,p2p://135.148.104.228:19806/c88dcc9ddf6747b991fc1a0db939147d
+i-Fun动漫台,p2p://135.148.104.228:19806/91a0e3fa1a714dd7b7cf55343052cd4f
+TLC旅游生活,p2p://135.148.104.228:19806/621ca70412034f5eb919c1ec03679804
+韩国娱乐台,p2p://135.148.104.228:19806/80d680dc15ec44bea9c3a3160ecdcb14
+达文西频道,p2p://135.148.104.228:19806/65939a080006919098d4bd6914a733d2
+动物星球,p2p://135.148.104.228:19806/5b41e724ea8e4e7eb92e3dac95589165
+ROCK Extreme,p2p://135.148.104.228:19806/fc56480dab3541a6a99d66c3d2048526
+中视新闻台,p2p://135.148.104.228:19806/cb5965a89e434df7aeb66b2364116ae4
+寰宇新闻台,p2p://135.148.104.228:19806/a265fb55774a4554bc2db19b16f53be6
+华视新闻,p2p://135.148.104.228:19806/ebe8db2daafa47768f37bcae17bfe299
+CN卡通频道,p2p://135.148.104.228:19806/f4dd909eedc64e6b9736e248aedf6d61
+NHK新闻资讯台,p2p://135.148.104.228:19806/c2da55d84a72418c8f1876c25ec97a1d
+美亚电影台HD,p2p://135.148.104.228:19806/a850e570b868424c94319a2652ca7c62
+龙华电影,p2p://135.148.104.228:19806/1df6f5f0993a46faa17f676518654709
+Smart知识台,p2p://135.148.104.228:19806/65939c760002de7398de3a2e3f1b051b
+靖天映画,p2p://135.148.104.228:19806/b723859f3ed94e5ba712148b209eefd0
+MOMO亲子台,p2p://135.148.104.228:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
+靖天电影台,p2p://135.148.104.228:19806/d8c581e0e1a24823a3d2110e3584ef8b
+WARNER TV,p2p://135.148.104.228:19806/cd2062a6c5a94d548f3516d96e23deec
+公视台语台,p2p://135.148.104.228:19806/6593a0f40009baf898efc82314242462
+amc电影台,p2p://135.148.104.228:19806/24ce0147e36a438eab843a3168cea3bc
+东森幼幼台,p2p://135.148.104.228:19806/baa16215e2224e399f6dc71eb3576ed4
+HBO Family,p2p://135.148.104.228:19806/8a0208ebdfa04b5eab112f0c8b01719c
+CatchPlay电影台,p2p://135.148.104.228:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
+CinemaWorld,p2p://135.148.104.228:19806/e262f40881b2461f9a270b4d9d0b54c3
+壹电视电影台,p2p://135.148.104.228:19806/1be1329b6d124745a87a16de445d2352
+纬来综合台,p2p://135.148.104.228:19806/d40310ae8bba42569d3d90b4cf7d9928
+采昌影剧台,p2p://135.148.104.228:19806/a0d691053f9b4876ab2b509a62296911
+八大第一台,p2p://135.148.104.228:19806/270abff66f5e496fb9c100a0dbca3fe6
+佛卫慈悲台,p2p://135.148.104.228:19806/be70c8b5b35c4551b5c7d3c905234e69
+八大综合台,p2p://135.148.104.228:19806/6c18a737c1394e59ae5072935d630f40
+三立台湾台,p2p://135.148.104.228:19806/ff12e8f29f9b4f61a9b766709aa498f6
+三立都会台,p2p://135.148.104.228:19806/7a36f98eee8e48a48ea64a1359083c8a
+东森综合台,p2p://135.148.104.228:19806/a05a4d8b51f54013925315261a2c6aa9
+东森超视,p2p://135.148.104.228:19806/5121f16c4b634c1683e9444aa68494b6
+中天综合台,p2p://135.148.104.228:19806/65b21a81000274a20ffaac0a0c7b0000
+中天娱乐台,p2p://135.148.104.228:19806/6932151dd5a74b759a053f78a719fbf3
+东森戏剧台,p2p://135.148.104.228:19806/4fae332a68a04f3fa77a158ac1fa4bce
+八大戏剧台,p2p://135.148.104.228:19806/4eec82bd1e634ceab82b90e395116c83
+TVBS欢乐台,p2p://135.148.104.228:19806/569aec3edbbc4267bd6f829b3d495d5a
+纬来戏剧台,p2p://135.148.104.228:19806/69036778f8fc40729301e9e88aeee556
+高点综合台,p2p://135.148.104.228:19806/462775e2153243fc92adec0793c638d0
+CNBC,p2p://135.148.104.228:19806/b642a4ce45734a7190f0acbd8cd462dd
+Bloomberg TV,p2p://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
+HITS,p2p://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
+壹电视新闻台,p2p://135.148.104.228:19806/31dad83ef5b74c5db225482cd2e0fbae
+年代新闻(备),p2p://135.148.104.228:19806/95f67e884d88463e907c301d05fa68b7
+东森新闻台,p2p://135.148.104.228:19806/e1a899eded4d48578084c61957fb8c2b
+中天新闻台,p2p://135.148.104.228:19806/bd9064ee198045a386f1f2dba5073f4e
+民视新闻台,p2p://135.148.104.228:19806/d24f18e610d248b7a450d29492b37ebf
+三立新闻台,p2p://135.148.104.228:19806/9388262af2604cc798800736d070d39e
+TVBS新闻台,p2p://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
+TVBS,p2p://135.148.104.228:19806/9fb651a7ec2e402588a0752ba1035476
+东森财经新闻台,p2p://135.148.104.228:19806/6596322e000d4091a2f7138e424b32c5
+非凡新闻台,p2p://135.148.104.228:19806/02f80f7aad2c480992e06e1bd8a7facb
+MOMO综合台,p2p://135.148.104.228:19806/659391fc000353d298b54dbe4b486dab
+东森电影台,p2p://135.148.104.228:19806/08435f286ac744a0942899c551209779
+纬来电影台,p2p://135.148.104.228:19806/429796f5f00946fa933e400729286c7e
+龙祥电影,p2p://135.148.104.228:19806/78502c9b515845a7baca6a3a6ea88b8a
+HBO,p2p://135.148.104.228:19806/37f11d742fee447ab15f07db28095bd6
+东森洋片台,p2p://135.148.104.228:19806/5e8420f5477344b9b7b39d9e96162ce1
+AXN,p2p://135.148.104.228:19806/893f7dec641a42458f47ccfbd93525ba
+好莱坞电影台,p2p://135.148.104.228:19806/9862f4958472458ca2ebc718bb92a5c6
+CINEMAX,p2p://135.148.104.228:19806/fd7fd316ff5f4ae0a79d274a86483a4f
+纬来育乐台,p2p://135.148.104.228:19806/78b57c4d9e644fafafe01588c43b4787
+纬来体育台,p2p://135.148.104.228:19806/79090c69d43040148deaa21d5e26c32a
+ELEVEN体育1台,p2p://135.148.104.228:19806/fcfde35352d5464f9ed1c711ef2d05b1
+JET综合台,p2p://135.148.104.228:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
+国兴卫视,p2p://135.148.104.228:19806/18aaee00d2af442ebb4592e15f7b2a20
+Z频道,p2p://135.148.104.228:19806/8789d946039740bda334150ac3138166
+Animax,p2p://135.148.104.228:19806/22f75ace87a545aab39a2e4cd244bbad
+人间卫视,p2p://135.148.104.228:19806/6603c45500066bb04efa3edb7378469c
+尼克儿童频道,p2p://135.148.104.228:19806/879f28be19bc47df84ad3d5470be58d0
+八大娱乐台,p2p://135.148.104.228:19806/cea44ead76804413bd48caf76c5c2749
+三立iNEWS,p2p://135.148.104.228:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
+龙华偶像,p2p://135.148.104.228:19806/5b720b1e1b404f129e7009363d3035f8
+tvN,p2p://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
+France24,p2p://135.148.104.228:19806/72d5e1665d3e4b729ff9dbd4325e8694
+非凡商业台,p2p://135.148.104.228:19806/0c1ba96949414628ae64fc70c3354e7b
+公视3台,p2p://135.148.104.228:19806/95f2ed538e044aac891abfe6a9ce6ba7
+大爱2台,p2p://135.148.104.228:19806/2036b83c58e344c782eb154b233c8c77
+ELTV生活英语台,p2p://135.148.104.228:19806/78c0f08e89a844ef89d6803bce27a827
+靖洋卡通Nice Bingo,p2p://135.148.104.228:19806/1279fb2d1ae14676a31b2e5b38a2cd57
+靖天卡通台,p2p://135.148.104.228:19806/0e27e5f319264b609ec810e126edf969
+Nick Jr.,p2p://135.148.104.228:19806/acebbded37714fa4a5554c025873a92c
+Mezzo Live,p2p://135.148.104.228:19806/1c1e90cd01934a5f917ec4fad5c97665
+CLASSICA 古典乐,p2p://135.148.104.228:19806/133be9054bcd4fa68d2e34205004a51a
+爱尔达体育1台(备),p2p://135.148.104.228:19806/1180278580d04cb490450ec59b4edc6b
+爱尔达体育2台,p2p://135.148.104.228:19806/d1f16ee235314a0fbc33742ab7af534b
+TRACE Sport Stars,p2p://135.148.104.228:19806/b0cb233f10e84f29910fa38e15a07035
+博斯高球,p2p://135.148.104.228:19806/6ff0b79453d2430986930b7c84a286df
+博斯高球二台,p2p://135.148.104.228:19806/65e1b654000ce227c9f3778a2b254b95	
+博斯网球台,p2p://135.148.104.228:19806/7fb5b66ce38747de84be865952153959
+博斯魅力网,p2p://135.148.104.228:19806/65e1b6530009723ec9f372c730a82585
+博斯无限台,p2p://135.148.104.228:19806/f2973cfa7c2045e6b8a184f1bf18af7c
+博斯无限二台,p2p://135.148.104.228:19806/65e1b653000eb97ec9f3741f6f4318a0
+博斯运动,p2p://135.148.104.228:19806/6293839c167e4b6393c745db434b2465
+ELEVEN体育2台,p2p://135.148.104.228:19806/057061c0da744aa7b035169dba5ebe2a
+智林体育台,p2p://135.148.104.228:19806/931c171e2f774f7aa1a92e97f5098c9f
+博斯运动二台,p2p://135.148.104.228:19806/65e1b65400075c3dc9f3762355b36cc1
+HBO强档巨献,p2p://135.148.104.228:19806/563a5981b8ad4df085b59ce98bbecb95
+HBO原创巨献,p2p://135.148.104.228:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+BBC Earth,p2p://135.148.104.228:19806/49261fefe28441bea7b775cc44fa16b5
+Discovery Asia,p2p://135.148.104.228:19806/0afefbe6244c42dbac40a3d8abef8d07
+Discovery科学频道,p2p://135.148.104.228:19806/39e1494bd82c449892c6f92a6c8dc213
+DMAX,p2p://135.148.104.228:19806/50af7fb4500840e292bcfae4dd50e97f
+EVE,p2p://135.148.104.228:19806/f21130546932443d98f6ec02aa4ec99a
+历史频道,p2p://135.148.104.228:19806/e6f506b509c94bacb4a371cdbcbe7719
+罪案侦缉频道,p2p://135.148.104.228:19806/ef7b4ee3be374092a4a0074a6be41e03
+EYE TV戏剧台,p2p://135.148.104.228:19806/2831986ed4b448c9b626788fbd3f2f89
+台视新闻台,p2p://135.148.104.228:19806/9817b59742464113bd5656fcc7dced84
+寰宇新闻台湾台,p2p://135.148.104.228:19806/65b21a80000977cd0ffaa9e72e6218af
+台视财经台,p2p://135.148.104.228:19806/e01d7738e33e456a812f7cefbf27b29a
+纬来日本,p2p://135.148.104.228:19806/5f9d37ba1fc04a04aaec6979908294a2
+爱尔达影剧台,p2p://135.148.104.228:19806/65b2176e0008ea530feeab784c543898
+民视(备),p2p://135.148.104.228:19806/07d108fdb6f543de8226d05f281225e2
+三立台湾台(备),p2p://135.148.104.228:19806/7554a57ea53f4c10ae4e219ac2d374c4
+影迷数位电影台,p2p://135.148.104.228:19806/bc069c037478448a9e41dbc3e1d5d0f6
+爱尔达体育1台,p2p://135.148.104.228:19806/68e521d35c0247ddbc5073dee98245a3
+爱尔达体育3台,p2p://135.148.104.228:19806/3ebc6b89559c44dca30c4c259a5646b9
+台视(备),p2p://135.148.104.228:19806/3c20d4387ec845149b2ded5f28805f18
+爱尔达体育4台,p2p://135.148.104.228:19806/df4f198dbe6347e1a084c79d208f227d
+中视(备),p2p://135.148.104.228:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
+华视(备),p2p://135.148.104.228:19806/177390ae66634acca9be01242a769660
+东森新闻台(备),p2p://135.148.104.228:19806/35983e2efd5c44bf84bfb2977bbbc96d
+镜新闻,p2p://135.148.104.228:19806/668a0abb880a496d8f57fad2f580566b
+MTV,p2p://135.148.104.228:19806/eb5ba5262e2e4779a1418c78d14ad1e5
+东森购物1台,p2p://135.148.104.228:19806/eccc79da1c0a4b54b49a71277e1534a0
+东森购物2台,p2p://135.148.104.228:19806/71a90a7da65142e795b97def2400e1fb
+TechStorm,p2p://135.148.104.228:19806/994876c6aadc4234ba73441f18d36602
+年代新闻,p2p://135.148.104.228:19806/65ddd162000837a5babd25111eb9560c
+中天新闻台(B),p2p://135.148.104.228:19806/e92e93fd67794e92acdc0d4005f0781a
+纬来育乐台(B),p2p://135.148.104.228:19806/09f5cbcd57934038bc76de430a767046
+纬来电影台(B),p2p://135.148.104.228:19806/7ab30b79b011427287733d8ba51333e8
+纬来综合台(B),p2p://135.148.104.228:19806/a537a3ebc712483993ab82440801d1e6
+CINEMAX(B),p2p://135.148.104.228:19806/adf42efd52864d6e9454132f0d849fb7
+亚洲美食频道(B),p2p://135.148.104.228:19806/8a565409a26044bead7e66ac44c894f0
+美食星球(B),p2p://135.148.104.228:19806/60c698afbda7443998a2b9fd5c00c54d
+EYE TV旅游台(B),p2p://135.148.104.228:19806/055ce8e749c1425c87950f93d0bf9bcd
+Animax(B),p2p://135.148.104.228:19806/9a6969de27b145dc972e19d71c1a8932
+CinemaWorld(B),p2p://135.148.104.228:19806/c6efdcd038204b4781cafc2273b4adb3
+爱尔达体育1台(B),p2p://135.148.104.228:19806/38729b9421044022a4d81ee0fe899dcd
+亚洲旅游台(B),p2p://135.148.104.228:19806/816c4598cfb641f5845b90a3bc772f1c
+TVBS欢乐台(B),p2p://135.148.104.228:19806/b7e4efb094034ce1895b3d9a5548cc2b
+高点综合台(B),p2p://135.148.104.228:19806/0add95963fcd4b6ba03d63cc32dbd1a4
+HBO Family(B),p2p://135.148.104.228:19806/924dad4bd6604751ba4c4ae69781784b
+HBO强档巨献(B),p2p://135.148.104.228:19806/85cdd046958e48a794ff6f2d26b8ceba
+HBO原创巨献(B),p2p://135.148.104.228:19806/6cf195d6fb5a4f9bb6fd98cf97af421b
+amc电影台(B),p2p://135.148.104.228:19806/3dc5467282034921b7124f4be60f4782
+Discovery Asia(B),p2p://135.148.104.228:19806/65e9a59d000f257fe8f2360919064328
+探索频道(B),p2p://135.148.104.228:19806/202aafe50f8947eeac67a09b828f8c40
+动物星球(B),p2p://135.148.104.228:19806/ff4ce945b27940f89712c63366f0454d
+三立iNEWS(B),p2p://135.148.104.228:19806/31103be1231e435ab69fdc1492cf08ee
+霹雳台湾台(B),p2p://135.148.104.228:19806/c72cf3cb004849c082422b8e0fa31067
+BBC Earth(B),p2p://135.148.104.228:19806/17826db977f04f8fa679d438d6c51700
+BBC Lifestyle(B),p2p://135.148.104.228:19806/5955951f08424fd49e21d90e882e5228
+影迷数位电影台(B),p2p://135.148.104.228:19806/381a31aedcd2452c9be9582fc5a8ac51
+爱尔达体育4台(B),p2p://135.148.104.228:19806/797d51a6805c4a5fac1b71a678228513
+博斯高球(B),p2p://135.148.104.228:19806/1938e9044d66468a9f38456fc383259f
+博斯网球台(B),p2p://135.148.104.228:19806/6895bdc150744da98afe23ce77e32e51
+博斯运动(B),p2p://135.148.104.228:19806/1fded122b4b74670b6012a8068e44766
+博斯无限台(B),p2p://135.148.104.228:19806/d0a027824de144fd88aef46f0fba7c99
+中天亚洲台(B),p2p://135.148.104.228:19806/cb5ccc31dac94210bdc7507c320fb32e
+中天娱乐台(B),p2p://135.148.104.228:19806/f2d219cb882a47038438e2f483f7bf95
+WARNER TV(B),p2p://135.148.104.228:19806/f613ad7c2e684a3599566ad2405d9c6e
+i-Fun动漫台(B),p2p://135.148.104.228:19806/a215407035a548a7bd01ec29a94e5ed2
+八大优频道(B),p2p://135.148.104.228:19806/e1b81f9f50644fd38273333129365a4c
+民视第一台(B),p2p://135.148.104.228:19806/1c48731982a54a59a9555f7247f3bf7f
+三立新闻台(B),p2p://135.148.104.228:19806/96118abbe8ee48ddaef2c9c1cea1af04
+东森戏剧台(B),p2p://135.148.104.228:19806/8e23c200926a4eaaa00043b39dca9075
+东森新闻台(B),p2p://135.148.104.228:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
+历史频道(B),p2p://135.148.104.228:19806/63e740392c4641cc9dab02d98b74782f
+爱尔达体育2台(B),p2p://135.148.104.228:19806/b63a56b3be724653802408c3b2044490
+爱尔达体育3台(B),p2p://135.148.104.228:19806/c34b66fc16df4781baceff8a2f6430e4
+TVBS(B),p2p://135.148.104.228:19806/be3d1c188f0c4b938ccfca04566b0fc1
+TVBS新闻台(B),p2p://135.148.104.228:19806/65fa6dc600095b662a8020fe14c65804
+年代新闻(B),p2p://135.148.104.228:19806/65fa6ea5000ec21a2a83897e03cd44bb
+非凡新闻台(B),p2p://135.148.104.228:19806/65fa6fc4000df93d2a87ea67255a50ce
+中国大陆,#genre#
+CCTV1,p2p://135.148.104.228:19806/f1e3bc8a344e49dab603272c8fd2641e
+CCTV2,p2p://135.148.104.228:19806/ce08ee69cea5402c99bf285704eac3e5
+CCTV3,p2p://135.148.104.228:19806/784f6703531044be9cee14b793948d30
+CCTV4,p2p://135.148.104.228:19806/50c3e18e04bf478db59251455cf3d309
+CCTV5,p2p://135.148.104.228:19806/7d00bdeddb6c422796e62ae9e8b9398d
+CCTV5+,p2p://135.148.104.228:19806/65a531aa00057c26dd8d1ccf196a034e
+CCTV6,p2p://135.148.104.228:19806/3ec70c48b2024e4f9210169aec2914c7
+CCTV7,p2p://135.148.104.228:19806/e70ef03e57794075962ec3960df5b167
+CCTV8,p2p://135.148.104.228:19806/65a52e1d00012b4cdd7f3cee366e723b
+CCTV9,p2p://135.148.104.228:19806/65a52e1d0007b3b6dd7f3e945c727248
+CCTV10,p2p://135.148.104.228:19806/65a52e1d000c0c0bdd7f3fad13ad7f10
+CCTV11,p2p://135.148.104.228:19806/65a52e1e0002f04bdd7f414333117e01
+CCTV12,p2p://135.148.104.228:19806/65a52e1e0008b4e1dd7f42ba38ef4a02
+CCTV13,p2p://135.148.104.228:19806/65a52dc0000d93bbdd7dd4d235813afb
+CCTV14,p2p://135.148.104.228:19806/65a52dc1000332e5dd7dd60b29277892
+CCTV15,p2p://135.148.104.228:19806/65a52dc10008dffbdd7dd78215274e95
+北京卫视,p2p://135.148.104.228:19806/8d7d0547db754c32bca6011693893b40
+天津卫视,p2p://135.148.104.228:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
+河北卫视,p2p://135.148.104.228:19806/f0390f4cc1fa4b9991338bc6426deb17
+黑龙江卫视,p2p://135.148.104.228:19806/2f690600a9454710b15b0e90853268c3
+辽宁卫视,p2p://135.148.104.228:19806/4b1903b35f804f1180a4b346efbabfc9
+东方卫视,p2p://135.148.104.228:19806/10521db17e054dbeba85448ac091ae64
+江苏卫视,p2p://135.148.104.228:19806/13f3f27751184d95902e5c588264551e
+浙江卫视,p2p://135.148.104.228:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+江西卫视,p2p://135.148.104.228:19806/d3548b106a7d45b4972427c3a75135ab
+山东卫视,p2p://135.148.104.228:19806/be77ccef4df042ab909e0a2586844431
+东南卫视,p2p://135.148.104.228:19806/00aae4669ca24ddabf43997323ceef8e
+湖北卫视,p2p://135.148.104.228:19806/7553b94400ac4d85b752579acb37c0ce
+湖南卫视,p2p://135.148.104.228:19806/45dc7947c5574ebfb0e68e5d0a537ed0
+深圳卫视,p2p://135.148.104.228:19806/b8c8ef10f65649c9a43388d771203f61
+广东卫视,p2p://135.148.104.228:19806/cf7073fbb4c5490a86aca002247700f9
+广西卫视,p2p://135.148.104.228:19806/eb435193f43d4c8ca09c9ce477d4d7b9
+重庆卫视,p2p://135.148.104.228:19806/c173700eaecc412695b37ac062b6abac
+云南卫视,p2p://135.148.104.228:19806/9203ba029385410793e3f2b7bffb3335
+星空卫视,p2p://135.148.104.228:19806/0b87528420394614b1016123ff4fda4c
+大湾区卫视,p2p://135.148.104.228:19806/587bc565d5a4413987fdce380a48a332
+珠江台,p2p://135.148.104.228:19806/a050c8e736174de681b13b8ebd2ce3c4
+快乐垂钓,p2p://135.148.104.228:19806/65a4f19a000ece67dc92e0b05e060435
+魅力足球,p2p://135.148.104.228:19806/ca7a1a18635e453a9a77e5fd5d425e89
+五星体育,p2p://135.148.104.228:19806/d75057c993f84e7c86f94e8f1e56ad24
+广东体育,p2p://135.148.104.228:19806/bb744a1252da46a6a2ae5546f4da7c72
+私人影院,p2p://135.148.104.228:19806/3cfadd5e9af14d6db652b3c23acd7a7d
+Channel [V],p2p://135.148.104.228:19806/65938874000d6c7c9890150e746d4c5b
+CHC动作电影,p2p://135.148.104.228:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
+广东影视,p2p://135.148.104.228:19806/f2dbc62d3b0b4af3ac2420174eadf202
+CHC高清电影,p2p://135.148.104.228:19806/02385419696a411db959037c2190cf11
+CHC家庭影院,p2p://135.148.104.228:19806/28fb3856055c452db8f17441c99f21cf
+CCTV16,p2p://135.148.104.228:19806/65a614e0000be91ae104b1833fc057ba
+CCTV17,p2p://135.148.104.228:19806/65a614e00004fec6e104afbe58b32445
+湖南卫视(B),p2p://135.148.104.228:19806/d8ea1b07516449b6968c04b07cb188ea
+珠江台(B),p2p://135.148.104.228:19806/a25f500eaa204ab89f61c1dc4679c7b3
+大湾区卫视(B),p2p://135.148.104.228:19806/eaf180a6f2b44f4bb6b780e39e431f4b
+五星体育(B),p2p://135.148.104.228:19806/387fd2fee8ce4ced972cd7be0f1fc77a
+CCTV1(B),p2p://135.148.104.228:19806/1a50835e80564ba8ae28fce9bb7f228f
+CHC高清电影(B),p2p://135.148.104.228:19806/bc7bf77f1cb5401389500427f060caa1
+CHC家庭影院(B),p2p://135.148.104.228:19806/53491943aa934355b381bc8684bc4fc2
+CHC动作电影(B),p2p://135.148.104.228:19806/ab40a3bbbef244a1b4c8c0f841f0561f
+浙江卫视(B),p2p://135.148.104.228:19806/b4518016c79d45f38a27eeafb3309925
+重温经典频道,p2p://135.148.104.228:19806/65fa5e2600039eda2a43168726d80618
+港澳,#genre#
+港台电视31,p2p://135.148.104.228:19806/e4b56cb972e940ee8be694602294d242
+港台电视32,p2p://135.148.104.228:19806/9c0a161f9c59476584fe4d8effc125b6
+HOY TV,p2p://135.148.104.228:19806/10c18372b612479086c1f259245543ff
+﻿翡翠台(备),p2p://147.135.39.171:9906/65e067d500071b152f5b108a3f5b16fb
+J2,p2p://135.148.104.228:19806/6a623cf5c0bc4c96b8fd45a47af4a872
+无线新闻台(备),p2p://147.135.39.171:9906/65af205400009f3c6edb7a235cfa4c88
+TVB娱乐新闻台,p2p://135.148.104.228:19806/46bb3afe133d4cd8ac4b195c7f5f428c
+无线新闻台,p2p://147.135.39.171:9906/65e067d500043d6d2f5b0fce7ad17a25
+无线财经体育资讯台,p2p://135.148.104.228:19806/65b212f60006eae40fdd362b7ad67084
+ViuTVsix,p2p://135.148.104.228:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
+ViuTV,p2p://135.148.104.228:19806/976916e8baee45a89d5e023224f7ab2b
+凤凰中文台,p2p://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f	
+凤凰资讯台,p2p://135.148.104.228:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰香港台,p2p://135.148.104.228:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+TVB星河,p2p://135.148.104.228:19806/0c08d9d705a747908c23ba652726d777
+澳门-MACAU,p2p://135.148.104.228:19806/f9ba8df6f9ed45789e882211735e6414
+澳门莲花,p2p://135.148.104.228:19806/4c56fbe4e68541a9a759fa269574f98b
+HKC 18,p2p://135.148.104.228:19806/140377dc9e0848678d614d451d69af9e
+戏曲台,p2p://135.148.104.228:19806/4c3b3c3a6c8849c3aa0fc9938859e134
+翡翠台,p2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
+千禧经典台,p2p://135.148.104.228:19806/1a5b04c67ece47bb87aa482e2c73138a
+Thrill,p2p://135.148.104.228:19806/1c3c73215afd42558101c3ee65737202
+明珠台,p2p://135.148.104.228:19806/9993262cc067418a983f0c7ec18adef9
+now财经台,p2p://135.148.104.228:19806/88f95058c046453a973e2540701ccb4e
+美亚电影台(粤语),p2p://135.148.104.228:19806/ee16565eb5fe46be8d22cbbde1fa9fae
+18台,p2p://135.148.104.228:19806/8bf8f53c61944785b13817297101af20
+HOY资讯台,p2p://135.148.104.228:19806/eb5a565eb80d40509f0a248018dfd337
+Hands Up,p2p://135.148.104.228:19806/7a79a82b627a417f897895b4adf874aa
+粤语片台,p2p://135.148.104.228:19806/3a44c9c92439443494b8ecff6fdb2336
+亚洲剧台,p2p://135.148.104.228:19806/ee081a662356489d8b2170952ec91d24
+功夫台,p2p://135.148.104.228:19806/ef6373344abf4bedae4d49ac953c1742
+now新闻台,p2p://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
+香港国际财经台,p2p://135.148.104.228:19806/6aa47af091b54d618d1513b1bc23b0b9
+黄金翡翠台,p2p://135.148.104.228:19806/864714d6ebe847edaa948e9104107f12
+无线财经体育资讯台(B),p2p://135.148.104.228:19806/acf61c067b48468dbdf3ae976c322d1a
+翡翠台(B),p2p://135.148.104.228:19806/65f96ab8000ca1d1268c26e426ae6c37
+无线新闻台(B),p2p://135.148.104.228:19806/85a50e6db781406bacc41b10a75a70d5
+now财经台(B),p2p://135.148.104.228:19806/3a492b41b36f45acab0b75396aadc32d
+TVB娱乐新闻台(B),p2p://135.148.104.228:19806/94c52f4f55a646f6825cff0b78316ae2
+明珠台(B),p2p://135.148.104.228:19806/fd4c4431a2204a20b5c7c67698592912
+香港国际财经台(B),p2p://135.148.104.228:19806/f3cb31dde1e040a4a30f89e8f95beea7
+TVB星河(B),p2p://135.148.104.228:19806/2dfd5ed435e841c1b6949346c2b58583
+澳门莲花(B),p2p://135.148.104.228:19806/35abc186b6194a4ca97a6d9f9d59e501
+澳门-MACAU(B),p2p://135.148.104.228:19806/ed4ff86efe2647dd8c6f6f91739dd9c9
+黄金翡翠台(B),p2p://135.148.104.228:19806/c2e1bcd2c5544341b2a0d7f7a53e0d98
+ViuTVsix(B),p2p://135.148.104.228:19806/4117b4e170014c2fbce73011cfaf066a
+now新闻台(B),p2p://135.148.104.228:19806/5c263253cf5241b1a155f0b1b85edea1
+J2(B),p2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+凤凰中文台(B),p2p://135.148.104.228:19806/65fd687c000dccf1362379174a9617fc
+凤凰资讯台(B),p2p://135.148.104.228:19806/65fd6d04000e7c8036352c8637e97c89
+马来西亚,#genre#
+beIN Sports,p2p://135.148.104.228:19806/eefa5931a750470d8a3267932e36c644
+TVB娱乐新闻台,p2p://135.148.104.228:19806/46bb3afe133d4cd8ac4b195c7f5f428c
+TV1,p2p://135.148.104.228:19806/a3299ebd988b447992cf982df2ea7562
+TV2,p2p://135.148.104.228:19806/facbc81537924664aaf429b4e0faec17
+TV3,p2p://135.148.104.228:19806/6a00a0b3636340a4bc00626fedaa36f6
+NTV7,p2p://135.148.104.228:19806/7c0bb3dc5b304064809b7b4711d75ccc
+八度空间,p2p://135.148.104.228:19806/c1351c973d544fd9b9fcf34d36cc3ab1
+TV9,p2p://135.148.104.228:19806/cd4d90b0f1c84d33ae6ab4ebf09ce61a
+Astro Oasis HD,p2p://135.148.104.228:19806/ba94a812ece14f4484d550852d736644
+Al-Hijrah,p2p://135.148.104.228:19806/2bbbb59b7e4c44e1ac91c3a4e9fa222a
+SUN TV,p2p://135.148.104.228:19806/4bb094b241874180af9f61a56370ce35
+爱奇艺,p2p://135.148.104.228:19806/220100b4bf8a42b49b38d1152cf9ab84
+Astro小太阳,p2p://135.148.104.228:19806/b9014d57594d4cfdb87848d4b2610506
+Astro AEC(备),p2p://135.148.104.228:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+天映频道,p2p://135.148.104.228:19806/65e1b0870000c6d7c9dccba555040378
+翡翠台(华丽台),p2p://135.148.104.228:19806/0485c5b3e68c43268b39c8e68b0e6244
+Astro AOD HD 311,p2p://135.148.104.228:19806/676d5767c17749f8950a81ed8681380a
+中天亚洲台,p2p://135.148.104.228:19806/7c932e1429374b358b547a75ebba7ca8
+TVB星河,p2p://135.148.104.228:19806/0c08d9d705a747908c23ba652726d777
+天映经典,p2p://135.148.104.228:19806/3ac31fa9f30145b68f8469b00d91b200
+Astro欢喜台,p2p://135.148.104.228:19806/a2f732d447dc4c0b9e80417490de4e1d
+KBS World,p2p://135.148.104.228:19806/61432c16625e41d3b52570bb136f5054
+TVS,p2p://135.148.104.228:19806/18061f7a3a814916bebc76d2363b31e9
+tvN Movies HD,p2p://135.148.104.228:19806/c6e40b3dec3344909fc0ca9378a7f4c7
+Astro Awani,p2p://135.148.104.228:19806/35b5cce22fc04eb59b09311468ab603a
+CGTN,p2p://135.148.104.228:19806/a478d869f49148b09b5ad2ddfa73e36b
+BBC World News,p2p://135.148.104.228:19806/ecc7214268ee448ab42b65d9f2e2663a
+CNBC,p2p://135.148.104.228:19806/b642a4ce45734a7190f0acbd8cd462dd
+Bloomberg TV,p2p://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
+Astro Ceria,p2p://135.148.104.228:19806/65a60c7700089e76e0e3d6806c8b1e66
+Boomerang,p2p://135.148.104.228:19806/65619d3500003c6967236ef726ef1633
+KIX,p2p://135.148.104.228:19806/3f7be3ad31504c9fa358e3fe583fac0a
+HITS,p2p://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
+Astro Arena,p2p://135.148.104.228:19806/65b216e7000a7ed40fec9c7d4f4b3c78
+Astro SuperSport,p2p://135.148.104.228:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,p2p://135.148.104.228:19806/650d4fca00064e791dd4dbcd16fd08c0
+Astro SuperSport 3,p2p://135.148.104.228:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,p2p://135.148.104.228:19806/c7f1be20958243f68c943016c446501e
+beIN Sports 3,p2p://135.148.104.228:19806/65a52dc1000d76fbdd7dd8ab186b4afd
+WWE,p2p://135.148.104.228:19806/32e0838eeab84b3a96297dcceca27f5a
+Sky News,p2p://135.148.104.228:19806/f023e7189a5541b3a288267608b4836a
+八度空间(备),p2p://135.148.104.228:19806/34bef24c069e40779fb4b4c827e0051f
+tvN,p2p://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
+France24,p2p://135.148.104.228:19806/72d5e1665d3e4b729ff9dbd4325e8694
+SPOTV,p2p://135.148.104.228:19806/60ad67b765414b32882a24ce6c63808a
+Astro AEC,p2p://135.148.104.228:19806/77dec61f37164fb4b2d9813821f040b8
+Awesome TV,p2p://135.148.104.228:19806/3653aa8c401947d4882212e59c54bfba
+BOO,p2p://135.148.104.228:19806/72791d5b2d0847bdbd28aaee41af5537
+千禧经典台,p2p://135.148.104.228:19806/1a5b04c67ece47bb87aa482e2c73138a
+ABC Australia,p2p://135.148.104.228:19806/65159e6a0003ce6d3e47fc21533740b0
+Eurosport HD,p2p://135.148.104.228:19806/65159769000b9a153e2ca23c14c042d2
+Arena Bola,p2p://135.148.104.228:19806/6597c3de0009a0efa91838f96fd623b1
+Star Vijay,p2p://135.148.104.228:19806/9ae9ad5dd9884ef5b30d006572db2572
+Zee Tamil,p2p://135.148.104.228:19806/65a60dec0007945de0e9874a4d685350
+TVBS亚洲,p2p://135.148.104.228:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
+HITS Movies,p2p://135.148.104.228:19806/72b44f288c8c4c5baa031ec11d9e0e35
+beIN Sports 2,p2p://135.148.104.228:19806/65619d35000372e967236fc35ab64b39
+Berita RTM,p2p://135.148.104.228:19806/da7e362a8d2e40b3bbe02f430a39fc0e
+Golf Channel,p2p://135.148.104.228:19806/65619e930003f0fc6728c71226a25f2d
+TV Okey,p2p://135.148.104.228:19806/c393e305d0034cb383ed076f9f711f1a
+Boomerang(B),p2p://135.148.104.228:19806/45f849d284af44fb80815dc8faa555d0
+Golf Channel(B),p2p://135.148.104.228:19806/f525ac536b9740f1be9aa0e15eebdd74
+beIN Sports 2(B),p2p://135.148.104.228:19806/54acc624548a4ac1be80ee2ae0ad2f03
+TVB娱乐新闻台(B),p2p://135.148.104.228:19806/94c52f4f55a646f6825cff0b78316ae2
+Astro AOD HD 311(B),p2p://135.148.104.228:19806/5039f17fc72347a09ce0514dd1c6b9b3
+TVB星河(B),p2p://135.148.104.228:19806/2dfd5ed435e841c1b6949346c2b58583
+BBC World News(B),p2p://135.148.104.228:19806/323c575f4f694f739cd9f7a945075cef
+TV9(B),p2p://135.148.104.228:19806/f3302a1f09b24a71ac71ba6c01fa993e
+TV3(B),p2p://135.148.104.228:19806/af9c201f3aea41e99078e10a6240fcd4
+tvN Movies HD(B),p2p://135.148.104.228:19806/562aa415c1594f8690597144cf976250
+新加坡,#genre#
+beIN Sports,p2p://135.148.104.228:19806/eefa5931a750470d8a3267932e36c644
+HGTV居家乐活频道,p2p://135.148.104.228:19806/84613e96237545769558cc572e6d1ab0
+中天亚洲台,p2p://135.148.104.228:19806/7c932e1429374b358b547a75ebba7ca8
+天映经典,p2p://135.148.104.228:19806/3ac31fa9f30145b68f8469b00d91b200
+KBS World,p2p://135.148.104.228:19806/61432c16625e41d3b52570bb136f5054
+CGTN,p2p://135.148.104.228:19806/a478d869f49148b09b5ad2ddfa73e36b
+CNBC,p2p://135.148.104.228:19806/b642a4ce45734a7190f0acbd8cd462dd
+Bloomberg TV,p2p://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
+HITS,p2p://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
+beIN Sports 3,p2p://135.148.104.228:19806/65a52dc1000d76fbdd7dd8ab186b4afd
+Mediacorp 5,p2p://135.148.104.228:19806/7ecf2b27c2554eef87bb4b3603e82a4f
+Mediacorp 8,p2p://135.148.104.228:19806/02b0b2bfe7974369b811f418dcd4eddf
+Suria,p2p://135.148.104.228:19806/9ea5cf9604c545c88d5a634f5450204b
+Vasantham,p2p://135.148.104.228:19806/c59b3a242b644ec2ba2d3398ad14189b
+CNA,p2p://135.148.104.228:19806/52b67f21b37b4764a87c33dd46844fdb
+Mediacorp U,p2p://135.148.104.228:19806/1c7cdb0005764374ab173154f8418848
+Euronews,p2p://135.148.104.228:19806/5b3289dff2154e2c8e166cc3f081f326
+Fight Sports,p2p://135.148.104.228:19806/7375a5f151c047b294a8e8c6ddad178d
+GEM,p2p://135.148.104.228:19806/76f6e10887894d07bd5b225cc895e2a5
+Fox News,p2p://135.148.104.228:19806/e9305a82b75c42f5901c0594e063e999
+东森亚洲卫视,p2p://135.148.104.228:19806/8a43d9cb067b47aaa8fd5f550930be0c
+Thrill,p2p://135.148.104.228:19806/1c3c73215afd42558101c3ee65737202
+TVBS亚洲,p2p://135.148.104.228:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
+NBA,p2p://135.148.104.228:19806/65159b8e000aa81c3e3cd2861b6b31f1
+Fox News(B),p2p://135.148.104.228:19806/f995b6bf60d241828966663608f77e2b
+Mediacorp U(B),p2p://135.148.104.228:19806/bcf807b5e6e549b4aa970c8f1c160a5b
+Mediacorp 8(B),p2p://135.148.104.228:19806/009ed3c76b6e4a0cb514213b944e3b1b
+日本,#genre#
+NHK-G综合,p2p://135.148.104.228:19806/810050ee3b224cffbff84c07e53c499a
+NHK-E教育,p2p://135.148.104.228:19806/797e091247a14ad2a918c9cb2e95cca3
+日本テレビ,p2p://135.148.104.228:19806/e83c93ef5c914ed3826fe7856b81acf0
+TBSテレビ,p2p://135.148.104.228:19806/9376bfbc1275463dadf7d89cf5eebf6c
+テレビ東京,p2p://135.148.104.228:19806/df391d094cf243bda2d71eea2543f6a3
+フジテレビ,p2p://135.148.104.228:19806/54dd404db8674941a08958b36acf24a7
+読売テレビ,p2p://135.148.104.228:19806/67e4cf369c3041ae9df1aca8b83fecf8
+関西テレビ,p2p://135.148.104.228:19806/bfb58a0f01504914883d882ee3082053
+KBS京都,p2p://135.148.104.228:19806/729ad31db2414a458905bbadb735bbae
+毎日放送,p2p://135.148.104.228:19806/ccac43e2944e468b91bcba848d34c3fd
+朝日放送,p2p://135.148.104.228:19806/b9fd3c1349444e5d8e73b51b2fd298f9
+テレビ大阪,p2p://135.148.104.228:19806/ad58b2a5a3554960a7cab3825097b6e6
+BS-1,p2p://135.148.104.228:19806/bb73b7a100954eb0a941586c172b75da
+BS日テレ,p2p://135.148.104.228:19806/15653a24109f412d8c13623fe3d8cbce
+BS朝日,p2p://135.148.104.228:19806/823835bf82b648b7b949cd6b10b9465f
+BS-TBS,p2p://135.148.104.228:19806/3158a94fbe3c43d0938fdbb5c727e3d7
+BS11,p2p://135.148.104.228:19806/a4be116db92743e1ac8dc4d6a86ebed1
+BSフジ,p2p://135.148.104.228:19806/ecd5225855164918853748cdf29fa61a
+WOWOWプライム,p2p://135.148.104.228:19806/b6120a213ab04f9f830e9435530eb905
+WOWOWライブ,p2p://135.148.104.228:19806/ff616330600e438d97cf03101ae7c3a1
+WOWOWシネマ,p2p://135.148.104.228:19806/e30a2709ee2c492495621bdd54db7294
+スター・チャンネル1,p2p://135.148.104.228:19806/8869813c1bfc46b3ba00e21e2cb35474
+スター・チャンネル2,p2p://135.148.104.228:19806/0293a4ec77f745f4be8700e6f3d8830f
+スター・チャンネル3,p2p://135.148.104.228:19806/0a8db2b6767948c1b4e1e7b86ac4c658
+BSアニマックス,p2p://135.148.104.228:19806/242df12175db458eaa4b56885dfe1ee3
+J Sports 1,p2p://135.148.104.228:19806/3bf47ad3b3514230bd24efe7178aee5e
+J Sports 2,p2p://135.148.104.228:19806/1dec0300cce54ba5853fd5aadc349595
+J Sports 3,p2p://135.148.104.228:19806/1a9fd30d67f8480490d1fe07440658b5
+J Sports 4,p2p://135.148.104.228:19806/f7915841f9c04692b3c336849b8ed00c
+Green Channel,p2p://135.148.104.228:19806/9a0e8e3bc32341738cd921467307e93e
+ゴルフネットワークHD,p2p://135.148.104.228:19806/df0994ae49fd4d138304ebcd700a9d1c
+時代劇専門チャンネル,p2p://135.148.104.228:19806/aaa4c8da4b0f4146a58012b64a9d1c06
+Music Japan TV,p2p://135.148.104.228:19806/7bbfd7a0233d4861943f8488dc21e075
+キッズステーションHD,p2p://135.148.104.228:19806/434d7c2079e341609cba49f816c81cf5
+ディスカバリーチャンネル,p2p://135.148.104.228:19806/c198ef50712d485d95ebf9c20935cfdb
+ナショナルジオグラフィック,p2p://135.148.104.228:19806/415d6f2939a74d34b80a151a959b1733
+日テレNEWS 24,p2p://135.148.104.228:19806/c7154b60dd934b43a1e42a0fc1b38734
+旅チャンネル,p2p://135.148.104.228:19806/bab71e3fb519479ea64543d006b8089f
+韩国,#genre#
+Arirang,p2p://135.148.104.228:19806/853704c2f9a442e7a1532038f14d8d00
+KBS1,p2p://135.148.104.228:19806/28676e413f2a477ababeae97e87ef855
+KBS2,p2p://135.148.104.228:19806/fa378d3829f643d2a87c4c754bbae507
+KBS Drama,p2p://135.148.104.228:19806/10263d570592484e864bf42334ba5a2f
+KBS Joy,p2p://135.148.104.228:19806/0a9a842f13284e848e7aa72af382c176
+SBS,p2p://135.148.104.228:19806/c8f25b3b0185407792640de06e8781df
+SBS Biz,p2p://135.148.104.228:19806/a99ade867d304779a5ac84ab89228575
+JTBC,p2p://135.148.104.228:19806/4e234cda667b42a8bc3081db3b08bfce
+EBS,p2p://135.148.104.228:19806/257252e5e0f749beb160af97e36d15d1
+YTN,p2p://135.148.104.228:19806/37e575278e574bc9a9fc598c733de125
+Mnet,p2p://135.148.104.228:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb
+tvN,p2p://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
+OCN,p2p://135.148.104.228:19806/0fae247ef984444d9149e2c20be2c8b3
+OCN Movies,p2p://135.148.104.228:19806/328994e1d61946198d921e2fe2bbc1a0
+TV Chosun,p2p://135.148.104.228:19806/f2bbdada428d45c298a039f3bdf0f12e
+MBC,p2p://135.148.104.228:19806/36faab63fc2e4983b559a7e8f2002e30
+MBN,p2p://135.148.104.228:19806/09dbf5da37f9450c9bca9c7dabadf2bd
+Tooniverse,p2p://135.148.104.228:19806/3c1da427c435451fa526abe4d1c5d446
+SPOTV,p2p://135.148.104.228:19806/d270398d5c9d4358a1fab94773d6b8d1
+JTBC GOLF,p2p://135.148.104.228:19806/7c397fb18c154c5f91e41a48fd3ab95c
+泰国,#genre#
+Channel 5,p2p://135.148.104.228:19806/68798aed16c6475180d6239acdecd888
+NBT,p2p://135.148.104.228:19806/4977f52edbae4d41b28fa28fb4bb8eb7
+TNN 16,p2p://135.148.104.228:19806/5fa63eddc30543879c96b0a0a08ea60d
+JKN 18,p2p://135.148.104.228:19806/5fa4254f665e421688ac293bd1dd1d59
+Voice TV,p2p://135.148.104.228:19806/565ee6db091d4f5eb249d8cfd88ff392
+Nation TV,p2p://135.148.104.228:19806/9006192061234d3abc002c9df98617a3
+Workpoint TV,p2p://135.148.104.228:19806/e3dcbf98790f47a6ae10aa0e6b92d3a3
+true4U,p2p://135.148.104.228:19806/70d07d9bf1594d1aafa109803f097fd5
+GMM 25,p2p://135.148.104.228:19806/7202eeef804f4338bcd118210a39a66b
+Channel 8,p2p://135.148.104.228:19806/3564da7fb0ea488cba5f0179145e0394
+Mono 29,p2p://135.148.104.228:19806/a8da70ef841f4aa29be21f4123b1e0a6
+MCOT,p2p://135.148.104.228:19806/84419b9f1d144bd687913e3739c10011
+ONE,p2p://135.148.104.228:19806/bbed53ec33024bafae4696ba4d589e2c
+Thairath TV,p2p://135.148.104.228:19806/c1db5ee1e01048bc9f7319cda9a530c6
+Channel 3,p2p://135.148.104.228:19806/9f2ed619044e4208b64ba52f7a8c0a80
+Amarin TV,p2p://135.148.104.228:19806/74f013c77d3b43bf875702f7177dba68
+Channel 7,p2p://135.148.104.228:19806/377bbd391f744a86a07d3d46e28db730
+PPTV,p2p://135.148.104.228:19806/46ff90c62cbb4bdfbccd3033a9268dcb
+Thai Parliament TV,p2p://135.148.104.228:19806/139a4607a0d24095a17ff2745cb2141d
+Thai PBS,p2p://135.148.104.228:19806/aeb8c0b2981e4f0fb69383eea64f5deb
+News 1,p2p://135.148.104.228:19806/4d7a0f009ed44250b371cf1a3b10c4b3
+Channel 4050,p2p://135.148.104.228:19806/03f62b6c560745a69e3580aaa3a32294
+TVB Thai,p2p://135.148.104.228:19806/7cf6f4e9806f4b6389d3a89af43cc256
+Bluesky,p2p://135.148.104.228:19806/c6490fe262bd4cf9a6bb3a3b82870495
+Top News,p2p://135.148.104.228:19806/8a46eec67bfa42f6abd4032f91d304bf
+北美,#genre#
+CNBC,p2p://135.148.104.228:19806/b642a4ce45734a7190f0acbd8cd462dd
+Bloomberg TV,p2p://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
+ESPN,p2p://135.148.104.228:19806/2436baa9e481444fa785298d5931bdba
+600TV,p2p://135.148.104.228:19806/64c36a1900089f29fd2b824d6b4b65c1
+CBSN,p2p://135.148.104.228:19806/697a642115f74499aafe783d34690381
+NBA,p2p://135.148.104.228:19806/65159b8e000aa81c3e3cd2861b6b31f1
+新时代1(西部),p2p://135.148.104.228:19806/a3d06a9ecf30410582ad64ed15cdf6fd
+新时代2,p2p://135.148.104.228:19806/65013e4c0002afeaeeb07d8a59ff6121
+新时代1(东部),p2p://135.148.104.228:19806/28d014f7982c4041ab7197218b9c1284
+城市电视,p2p://135.148.104.228:19806/a18fbea7eddd4079b3e2e684d19df5c4
+Fox News,p2p://135.148.104.228:19806/6579228d000333673171faee60517ea8
+BBC World News,p2p://135.148.104.228:19806/6579228c000c47523171f9583333664f
+CNN USA,p2p://135.148.104.228:19806/6579228c000644123171f7d14c4002bd
+CBC News,p2p://135.148.104.228:19806/6579228b000ea7c13171f60c6a0d21f3
+MSNBC,p2p://135.148.104.228:19806/6579228b000782ab3171f43764692427
+CTV News,p2p://135.148.104.228:19806/6579228b0000fa413171f29242d67919
+Business News Network,p2p://135.148.104.228:19806/6579228a00091f3e3171f0bd49686fdf
+CP24,p2p://135.148.104.228:19806/6579228a000310453171ef2756ac0145
+The Weather Network,p2p://135.148.104.228:19806/65792289000be5843171ed9050240875
+The Weather Channel,p2p://135.148.104.228:19806/65792289000516983171ebcb68d70d48
+KOMO 4 TV,p2p://135.148.104.228:19806/65791ef700074fd53163fa0823ae64b8
+新闻,#genre#
+中视新闻台,p2p://135.148.104.228:19806/cb5965a89e434df7aeb66b2364116ae4
+寰宇新闻台,p2p://135.148.104.228:19806/a265fb55774a4554bc2db19b16f53be6
+华视新闻,p2p://135.148.104.228:19806/ebe8db2daafa47768f37bcae17bfe299
+NHK新闻资讯台,p2p://135.148.104.228:19806/c2da55d84a72418c8f1876c25ec97a1d
+无线新闻台(备),p2p://147.135.39.171:9906/65af205400009f3c6edb7a235cfa4c88
+无线新闻台,p2p://147.135.39.171:9906/65e067d500043d6d2f5b0fce7ad17a25
+无线财经体育资讯台,p2p://135.148.104.228:19806/65b212f60006eae40fdd362b7ad67084
+CGTN,p2p://135.148.104.228:19806/a478d869f49148b09b5ad2ddfa73e36b
+BBC World News,p2p://135.148.104.228:19806/ecc7214268ee448ab42b65d9f2e2663a
+CNBC,p2p://135.148.104.228:19806/b642a4ce45734a7190f0acbd8cd462dd
+Bloomberg TV,p2p://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
+CNA,p2p://135.148.104.228:19806/52b67f21b37b4764a87c33dd46844fdb
+壹电视新闻台,p2p://135.148.104.228:19806/31dad83ef5b74c5db225482cd2e0fbae
+年代新闻(备),p2p://135.148.104.228:19806/95f67e884d88463e907c301d05fa68b7
+东森新闻台,p2p://135.148.104.228:19806/e1a899eded4d48578084c61957fb8c2b
+中天新闻台,p2p://135.148.104.228:19806/bd9064ee198045a386f1f2dba5073f4e
+民视新闻台,p2p://135.148.104.228:19806/d24f18e610d248b7a450d29492b37ebf
+三立新闻台,p2p://135.148.104.228:19806/9388262af2604cc798800736d070d39e
+TVBS新闻台,p2p://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
+东森财经新闻台,p2p://135.148.104.228:19806/6596322e000d4091a2f7138e424b32c5
+非凡新闻台,p2p://135.148.104.228:19806/02f80f7aad2c480992e06e1bd8a7facb
+TNN 16,p2p://135.148.104.228:19806/5fa63eddc30543879c96b0a0a08ea60d
+JKN 18,p2p://135.148.104.228:19806/5fa4254f665e421688ac293bd1dd1d59
+三立iNEWS,p2p://135.148.104.228:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
+Sky News,p2p://135.148.104.228:19806/f023e7189a5541b3a288267608b4836a
+Euronews,p2p://135.148.104.228:19806/5b3289dff2154e2c8e166cc3f081f326
+France24,p2p://135.148.104.228:19806/72d5e1665d3e4b729ff9dbd4325e8694
+600TV,p2p://135.148.104.228:19806/64c36a1900089f29fd2b824d6b4b65c1
+非凡商业台,p2p://135.148.104.228:19806/0c1ba96949414628ae64fc70c3354e7b
+CBSN,p2p://135.148.104.228:19806/697a642115f74499aafe783d34690381
+Fox News,p2p://135.148.104.228:19806/e9305a82b75c42f5901c0594e063e999
+NDTV,p2p://135.148.104.228:19806/d7fc2d61608d43098f59f35647342c6f
+ABC Australia,p2p://135.148.104.228:19806/65159e6a0003ce6d3e47fc21533740b0
+台视新闻台,p2p://135.148.104.228:19806/9817b59742464113bd5656fcc7dced84
+寰宇新闻台湾台,p2p://135.148.104.228:19806/65b21a80000977cd0ffaa9e72e6218af
+台视财经台,p2p://135.148.104.228:19806/e01d7738e33e456a812f7cefbf27b29a
+CNN,p2p://135.148.104.228:19806/cc0fd522ff3f4f37a53773c138dacac1
+now财经台,p2p://135.148.104.228:19806/88f95058c046453a973e2540701ccb4e
+东森新闻台(备),p2p://135.148.104.228:19806/35983e2efd5c44bf84bfb2977bbbc96d
+镜新闻,p2p://135.148.104.228:19806/668a0abb880a496d8f57fad2f580566b
+now新闻台,p2p://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
+Fox News,p2p://135.148.104.228:19806/6579228d000333673171faee60517ea8
+BBC World News,p2p://135.148.104.228:19806/6579228c000c47523171f9583333664f
+CNN USA,p2p://135.148.104.228:19806/6579228c000644123171f7d14c4002bd
+CBC News,p2p://135.148.104.228:19806/6579228b000ea7c13171f60c6a0d21f3
+MSNBC,p2p://135.148.104.228:19806/6579228b000782ab3171f43764692427
+CTV News,p2p://135.148.104.228:19806/6579228b0000fa413171f29242d67919
+Business News Network,p2p://135.148.104.228:19806/6579228a00091f3e3171f0bd49686fdf
+CP24,p2p://135.148.104.228:19806/6579228a000310453171ef2756ac0145
+The Weather Network,p2p://135.148.104.228:19806/65792289000be5843171ed9050240875
+The Weather Channel,p2p://135.148.104.228:19806/65792289000516983171ebcb68d70d48
+香港国际财经台,p2p://135.148.104.228:19806/6aa47af091b54d618d1513b1bc23b0b9
+无线财经体育资讯台(B),p2p://135.148.104.228:19806/acf61c067b48468dbdf3ae976c322d1a
+年代新闻,p2p://135.148.104.228:19806/65ddd162000837a5babd25111eb9560c
+中天新闻台(B),p2p://135.148.104.228:19806/e92e93fd67794e92acdc0d4005f0781a
+无线新闻台(B),p2p://135.148.104.228:19806/85a50e6db781406bacc41b10a75a70d5
+now财经台(B),p2p://135.148.104.228:19806/3a492b41b36f45acab0b75396aadc32d
+Fox News(B),p2p://135.148.104.228:19806/f995b6bf60d241828966663608f77e2b
+三立iNEWS(B),p2p://135.148.104.228:19806/31103be1231e435ab69fdc1492cf08ee
+香港国际财经台(B),p2p://135.148.104.228:19806/f3cb31dde1e040a4a30f89e8f95beea7
+BBC World News(B),p2p://135.148.104.228:19806/323c575f4f694f739cd9f7a945075cef
+now新闻台(B),p2p://135.148.104.228:19806/5c263253cf5241b1a155f0b1b85edea1
+三立新闻台(B),p2p://135.148.104.228:19806/96118abbe8ee48ddaef2c9c1cea1af04
+东森新闻台(B),p2p://135.148.104.228:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
+TVBS新闻台(B),p2p://135.148.104.228:19806/65fa6dc600095b662a8020fe14c65804
+年代新闻(B),p2p://135.148.104.228:19806/65fa6ea5000ec21a2a83897e03cd44bb
+非凡新闻台(B),p2p://135.148.104.228:19806/65fa6fc4000df93d2a87ea67255a50ce
+音乐,#genre#
+Music Japan TV,p2p://135.148.104.228:19806/7bbfd7a0233d4861943f8488dc21e075
+Mezzo Live,p2p://135.148.104.228:19806/1c1e90cd01934a5f917ec4fad5c97665
+CLASSICA 古典乐,p2p://135.148.104.228:19806/133be9054bcd4fa68d2e34205004a51a
+Channel [V],p2p://135.148.104.228:19806/65938874000d6c7c9890150e746d4c5b
+MTV,p2p://135.148.104.228:19806/eb5ba5262e2e4779a1418c78d14ad1e5
+体育,#genre#
+beIN Sports,p2p://135.148.104.228:19806/eefa5931a750470d8a3267932e36c644
+CCTV5,p2p://135.148.104.228:19806/7d00bdeddb6c422796e62ae9e8b9398d
+CCTV5+,p2p://135.148.104.228:19806/65a531aa00057c26dd8d1ccf196a034e
+快乐垂钓,p2p://135.148.104.228:19806/65a4f19a000ece67dc92e0b05e060435
+魅力足球,p2p://135.148.104.228:19806/ca7a1a18635e453a9a77e5fd5d425e89
+五星体育,p2p://135.148.104.228:19806/d75057c993f84e7c86f94e8f1e56ad24
+广东体育,p2p://135.148.104.228:19806/bb744a1252da46a6a2ae5546f4da7c72
+Sky Sports Golf,p2p://135.148.104.228:19806/65791ef9000e6a67316403ad31ad3930
+Sky Sports Football,p2p://135.148.104.228:19806/65791ef900094e3c3164026476a47cd3
+Astro Arena,p2p://135.148.104.228:19806/65b216e7000a7ed40fec9c7d4f4b3c78
+Astro SuperSport,p2p://135.148.104.228:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,p2p://135.148.104.228:19806/650d4fca00064e791dd4dbcd16fd08c0
+Astro SuperSport 3,p2p://135.148.104.228:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,p2p://135.148.104.228:19806/c7f1be20958243f68c943016c446501e
+beIN Sports 3,p2p://135.148.104.228:19806/65a52dc1000d76fbdd7dd8ab186b4afd
+WWE,p2p://135.148.104.228:19806/32e0838eeab84b3a96297dcceca27f5a
+纬来育乐台,p2p://135.148.104.228:19806/78b57c4d9e644fafafe01588c43b4787
+纬来体育台,p2p://135.148.104.228:19806/79090c69d43040148deaa21d5e26c32a
+ELEVEN体育1台,p2p://135.148.104.228:19806/fcfde35352d5464f9ed1c711ef2d05b1
+Z频道,p2p://135.148.104.228:19806/8789d946039740bda334150ac3138166
+J Sports 1,p2p://135.148.104.228:19806/3bf47ad3b3514230bd24efe7178aee5e
+J Sports 2,p2p://135.148.104.228:19806/1dec0300cce54ba5853fd5aadc349595
+J Sports 3,p2p://135.148.104.228:19806/1a9fd30d67f8480490d1fe07440658b5
+J Sports 4,p2p://135.148.104.228:19806/f7915841f9c04692b3c336849b8ed00c
+Skynet Sports HD,p2p://135.148.104.228:19806/64f03b7d000cf732ac3d879228791c70
+Skynet Sports 2,p2p://135.148.104.228:19806/64f03b7e0004ca5cac3d89676c3c51df
+Skynet Sports 5,p2p://135.148.104.228:19806/64f03b7f0003688dac3d8cf1521c6e9f
+Skynet Sports 6,p2p://135.148.104.228:19806/64f03b7e000b23c7ac3d8b0d775b55a1
+Fight Sports,p2p://135.148.104.228:19806/7375a5f151c047b294a8e8c6ddad178d
+ESPN,p2p://135.148.104.228:19806/2436baa9e481444fa785298d5931bdba
+HKC 18,p2p://135.148.104.228:19806/140377dc9e0848678d614d451d69af9e
+爱尔达体育1台(备),p2p://135.148.104.228:19806/1180278580d04cb490450ec59b4edc6b
+爱尔达体育2台,p2p://135.148.104.228:19806/d1f16ee235314a0fbc33742ab7af534b
+TRACE Sport Stars,p2p://135.148.104.228:19806/b0cb233f10e84f29910fa38e15a07035
+博斯高球,p2p://135.148.104.228:19806/6ff0b79453d2430986930b7c84a286df
+博斯高球二台,p2p://135.148.104.228:19806/65e1b654000ce227c9f3778a2b254b95	
+博斯网球台,p2p://135.148.104.228:19806/7fb5b66ce38747de84be865952153959
+博斯魅力网,p2p://135.148.104.228:19806/65e1b6530009723ec9f372c730a82585
+博斯无限台,p2p://135.148.104.228:19806/f2973cfa7c2045e6b8a184f1bf18af7c
+博斯无限二台,p2p://135.148.104.228:19806/65e1b653000eb97ec9f3741f6f4318a0
+SPOTV,p2p://135.148.104.228:19806/60ad67b765414b32882a24ce6c63808a
+博斯运动,p2p://135.148.104.228:19806/6293839c167e4b6393c745db434b2465
+ELEVEN体育2台,p2p://135.148.104.228:19806/057061c0da744aa7b035169dba5ebe2a
+智林体育台,p2p://135.148.104.228:19806/931c171e2f774f7aa1a92e97f5098c9f
+博斯运动二台,p2p://135.148.104.228:19806/65e1b65400075c3dc9f3762355b36cc1
+Eurosport HD,p2p://135.148.104.228:19806/65159769000b9a153e2ca23c14c042d2
+Arena Bola,p2p://135.148.104.228:19806/6597c3de0009a0efa91838f96fd623b1
+NBA,p2p://135.148.104.228:19806/65159b8e000aa81c3e3cd2861b6b31f1
+beIN Sports 2,p2p://135.148.104.228:19806/65619d35000372e967236fc35ab64b39
+爱尔达体育1台,p2p://135.148.104.228:19806/68e521d35c0247ddbc5073dee98245a3
+爱尔达体育3台,p2p://135.148.104.228:19806/3ebc6b89559c44dca30c4c259a5646b9
+爱尔达体育4台,p2p://135.148.104.228:19806/df4f198dbe6347e1a084c79d208f227d
+Sky Sports F1,p2p://135.148.104.228:19806/65791ef90003eb94316400fd79094faa
+Sky Sports Arena,p2p://135.148.104.228:19806/65791ef8000e15953163ffb52b633954
+Sky Sports Main Event,p2p://135.148.104.228:19806/65791ef800079cd23163fe0f44d92213
+Sky Sports Cricket,p2p://135.148.104.228:19806/65791ef8000290523163fcb71a5c79e1
+Sky Sports Mix,p2p://135.148.104.228:19806/65791ef7000cb6683163fb6f54195e6f
+Golf Channel,p2p://135.148.104.228:19806/65619e930003f0fc6728c71226a25f2d
+TechStorm,p2p://135.148.104.228:19806/994876c6aadc4234ba73441f18d36602
+纬来育乐台(B),p2p://135.148.104.228:19806/09f5cbcd57934038bc76de430a767046
+Golf Channel(B),p2p://135.148.104.228:19806/f525ac536b9740f1be9aa0e15eebdd74
+爱尔达体育1台(B),p2p://135.148.104.228:19806/38729b9421044022a4d81ee0fe899dcd
+beIN Sports 2(B),p2p://135.148.104.228:19806/54acc624548a4ac1be80ee2ae0ad2f03
+五星体育(B),p2p://135.148.104.228:19806/387fd2fee8ce4ced972cd7be0f1fc77a
+爱尔达体育4台(B),p2p://135.148.104.228:19806/797d51a6805c4a5fac1b71a678228513
+博斯高球(B),p2p://135.148.104.228:19806/1938e9044d66468a9f38456fc383259f
+博斯网球台(B),p2p://135.148.104.228:19806/6895bdc150744da98afe23ce77e32e51
+博斯运动(B),p2p://135.148.104.228:19806/1fded122b4b74670b6012a8068e44766
+博斯无限台(B),p2p://135.148.104.228:19806/d0a027824de144fd88aef46f0fba7c99
+爱尔达体育2台(B),p2p://135.148.104.228:19806/b63a56b3be724653802408c3b2044490
+爱尔达体育3台(B),p2p://135.148.104.228:19806/c34b66fc16df4781baceff8a2f6430e4
+知识,#genre#
+BBC Lifestyle,p2p://135.148.104.228:19806/178e533979bb4ec3af9190ca475f23ef
+Lifetime,p2p://135.148.104.228:19806/112b06172cdf41cbb6990e64d30cab0c
+KLT-靖天国际台,p2p://135.148.104.228:19806/12d39bada24843588ad72a3175b785a2
+HGTV居家乐活频道,p2p://135.148.104.228:19806/84613e96237545769558cc572e6d1ab0
+Love Nature,p2p://135.148.104.228:19806/574be1e2e0054216abe436413ea4221a
+美食星球,p2p://135.148.104.228:19806/1baaeb6967434fee9bf4412904e573b0
+亚洲美食频道,p2p://135.148.104.228:19806/5b787bd078c84a3caa09c3665c66dc50
+亚洲旅游台,p2p://135.148.104.228:19806/259c24cb79ce4b5db1fb1e1b894c517e
+EYE TV旅游台,p2p://135.148.104.228:19806/2d426994acef44deb401aa8a4cd5a92e
+CCTV9,p2p://135.148.104.228:19806/65a52e1d0007b3b6dd7f3e945c727248
+探索频道,p2p://135.148.104.228:19806/9f2e92df32b34a569ad7e6818f4732fb
+TLC旅游生活,p2p://135.148.104.228:19806/621ca70412034f5eb919c1ec03679804
+动物星球,p2p://135.148.104.228:19806/5b41e724ea8e4e7eb92e3dac95589165
+ELTV生活英语台,p2p://135.148.104.228:19806/78c0f08e89a844ef89d6803bce27a827
+BBC Earth,p2p://135.148.104.228:19806/49261fefe28441bea7b775cc44fa16b5
+Discovery Asia,p2p://135.148.104.228:19806/0afefbe6244c42dbac40a3d8abef8d07
+Discovery科学频道,p2p://135.148.104.228:19806/39e1494bd82c449892c6f92a6c8dc213
+DMAX,p2p://135.148.104.228:19806/50af7fb4500840e292bcfae4dd50e97f
+EVE,p2p://135.148.104.228:19806/f21130546932443d98f6ec02aa4ec99a
+历史频道,p2p://135.148.104.228:19806/e6f506b509c94bacb4a371cdbcbe7719
+罪案侦缉频道,p2p://135.148.104.228:19806/ef7b4ee3be374092a4a0074a6be41e03
+亚洲美食频道(B),p2p://135.148.104.228:19806/8a565409a26044bead7e66ac44c894f0
+美食星球(B),p2p://135.148.104.228:19806/60c698afbda7443998a2b9fd5c00c54d
+EYE TV旅游台(B),p2p://135.148.104.228:19806/055ce8e749c1425c87950f93d0bf9bcd
+亚洲旅游台(B),p2p://135.148.104.228:19806/816c4598cfb641f5845b90a3bc772f1c
+Discovery Asia(B),p2p://135.148.104.228:19806/65e9a59d000f257fe8f2360919064328
+探索频道(B),p2p://135.148.104.228:19806/202aafe50f8947eeac67a09b828f8c40
+动物星球(B),p2p://135.148.104.228:19806/ff4ce945b27940f89712c63366f0454d
+BBC Earth(B),p2p://135.148.104.228:19806/17826db977f04f8fa679d438d6c51700
+BBC Lifestyle(B),p2p://135.148.104.228:19806/5955951f08424fd49e21d90e882e5228
+历史频道(B),p2p://135.148.104.228:19806/63e740392c4641cc9dab02d98b74782f
+儿少,#genre#
+CCTV14,p2p://135.148.104.228:19806/65a52dc1000332e5dd7dd60b29277892
+达文西频道,p2p://135.148.104.228:19806/65939a080006919098d4bd6914a733d2
+CN卡通频道,p2p://135.148.104.228:19806/f4dd909eedc64e6b9736e248aedf6d61
+MOMO亲子台,p2p://135.148.104.228:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
+Astro小太阳,p2p://135.148.104.228:19806/b9014d57594d4cfdb87848d4b2610506
+Astro Ceria,p2p://135.148.104.228:19806/65a60c7700089e76e0e3d6806c8b1e66
+Boomerang,p2p://135.148.104.228:19806/65619d3500003c6967236ef726ef1633
+Animax,p2p://135.148.104.228:19806/22f75ace87a545aab39a2e4cd244bbad
+尼克儿童频道,p2p://135.148.104.228:19806/879f28be19bc47df84ad3d5470be58d0
+靖洋卡通Nice Bingo,p2p://135.148.104.228:19806/1279fb2d1ae14676a31b2e5b38a2cd57
+靖天卡通台,p2p://135.148.104.228:19806/0e27e5f319264b609ec810e126edf969
+Nick Jr.,p2p://135.148.104.228:19806/acebbded37714fa4a5554c025873a92c
+Hands Up,p2p://135.148.104.228:19806/7a79a82b627a417f897895b4adf874aa
+Boomerang(B),p2p://135.148.104.228:19806/45f849d284af44fb80815dc8faa555d0
+Animax(B),p2p://135.148.104.228:19806/9a6969de27b145dc972e19d71c1a8932
+电影,#genre#
+CCTV6,p2p://135.148.104.228:19806/3ec70c48b2024e4f9210169aec2914c7
+美亚电影台HD,p2p://135.148.104.228:19806/a850e570b868424c94319a2652ca7c62
+龙华电影,p2p://135.148.104.228:19806/1df6f5f0993a46faa17f676518654709
+Smart知识台,p2p://135.148.104.228:19806/65939c760002de7398de3a2e3f1b051b
+靖天映画,p2p://135.148.104.228:19806/b723859f3ed94e5ba712148b209eefd0
+靖天电影台,p2p://135.148.104.228:19806/d8c581e0e1a24823a3d2110e3584ef8b
+WARNER TV,p2p://135.148.104.228:19806/cd2062a6c5a94d548f3516d96e23deec
+amc电影台,p2p://135.148.104.228:19806/24ce0147e36a438eab843a3168cea3bc
+HBO Family,p2p://135.148.104.228:19806/8a0208ebdfa04b5eab112f0c8b01719c
+CatchPlay电影台,p2p://135.148.104.228:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
+CinemaWorld,p2p://135.148.104.228:19806/e262f40881b2461f9a270b4d9d0b54c3
+壹电视电影台,p2p://135.148.104.228:19806/1be1329b6d124745a87a16de445d2352
+采昌影剧台,p2p://135.148.104.228:19806/a0d691053f9b4876ab2b509a62296911
+天映频道,p2p://135.148.104.228:19806/65e1b0870000c6d7c9dccba555040378
+天映经典,p2p://135.148.104.228:19806/3ac31fa9f30145b68f8469b00d91b200
+tvN Movies HD,p2p://135.148.104.228:19806/c6e40b3dec3344909fc0ca9378a7f4c7
+私人影院,p2p://135.148.104.228:19806/3cfadd5e9af14d6db652b3c23acd7a7d
+东森电影台,p2p://135.148.104.228:19806/08435f286ac744a0942899c551209779
+纬来电影台,p2p://135.148.104.228:19806/429796f5f00946fa933e400729286c7e
+龙祥电影,p2p://135.148.104.228:19806/78502c9b515845a7baca6a3a6ea88b8a
+HBO,p2p://135.148.104.228:19806/37f11d742fee447ab15f07db28095bd6
+东森洋片台,p2p://135.148.104.228:19806/5e8420f5477344b9b7b39d9e96162ce1
+AXN,p2p://135.148.104.228:19806/893f7dec641a42458f47ccfbd93525ba
+好莱坞电影台,p2p://135.148.104.228:19806/9862f4958472458ca2ebc718bb92a5c6
+CINEMAX,p2p://135.148.104.228:19806/fd7fd316ff5f4ae0a79d274a86483a4f
+HBO强档巨献,p2p://135.148.104.228:19806/563a5981b8ad4df085b59ce98bbecb95
+HBO原创巨献,p2p://135.148.104.228:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+BOO,p2p://135.148.104.228:19806/72791d5b2d0847bdbd28aaee41af5537
+Thrill,p2p://135.148.104.228:19806/1c3c73215afd42558101c3ee65737202
+HITS Movies,p2p://135.148.104.228:19806/72b44f288c8c4c5baa031ec11d9e0e35
+影迷数位电影台,p2p://135.148.104.228:19806/bc069c037478448a9e41dbc3e1d5d0f6
+美亚电影台(粤语),p2p://135.148.104.228:19806/ee16565eb5fe46be8d22cbbde1fa9fae
+CHC动作电影,p2p://135.148.104.228:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
+CHC高清电影,p2p://135.148.104.228:19806/02385419696a411db959037c2190cf11
+CHC家庭影院,p2p://135.148.104.228:19806/28fb3856055c452db8f17441c99f21cf
+纬来电影台(B),p2p://135.148.104.228:19806/7ab30b79b011427287733d8ba51333e8
+CINEMAX(B),p2p://135.148.104.228:19806/adf42efd52864d6e9454132f0d849fb7
+CinemaWorld(B),p2p://135.148.104.228:19806/c6efdcd038204b4781cafc2273b4adb3
+HBO Family(B),p2p://135.148.104.228:19806/924dad4bd6604751ba4c4ae69781784b
+HBO强档巨献(B),p2p://135.148.104.228:19806/85cdd046958e48a794ff6f2d26b8ceba
+HBO原创巨献(B),p2p://135.148.104.228:19806/6cf195d6fb5a4f9bb6fd98cf97af421b
+amc电影台(B),p2p://135.148.104.228:19806/3dc5467282034921b7124f4be60f4782
+影迷数位电影台(B),p2p://135.148.104.228:19806/381a31aedcd2452c9be9582fc5a8ac51
+WARNER TV(B),p2p://135.148.104.228:19806/f613ad7c2e684a3599566ad2405d9c6e
+tvN Movies HD(B),p2p://135.148.104.228:19806/562aa415c1594f8690597144cf976250
+CHC高清电影(B),p2p://135.148.104.228:19806/bc7bf77f1cb5401389500427f060caa1
+CHC家庭影院(B),p2p://135.148.104.228:19806/53491943aa934355b381bc8684bc4fc2
+CHC动作电影(B),p2p://135.148.104.228:19806/ab40a3bbbef244a1b4c8c0f841f0561f
+戏剧,#genre#
+三立戏剧台,p2p://135.148.104.228:19806/7a5b874b630d457bb5997a2fe4690550
+龙华戏剧,p2p://135.148.104.228:19806/5d4f0bd2b18b4a588a0ca733569b18dd
+靖天戏剧台,p2p://135.148.104.228:19806/1282202787324223b35e3c84d9e673c6
+靖洋戏剧台,p2p://135.148.104.228:19806/84a559f1b4884854be933d5d4fc0d4a6
+东森戏剧台,p2p://135.148.104.228:19806/4fae332a68a04f3fa77a158ac1fa4bce
+八大戏剧台,p2p://135.148.104.228:19806/4eec82bd1e634ceab82b90e395116c83
+纬来戏剧台,p2p://135.148.104.228:19806/69036778f8fc40729301e9e88aeee556
+EYE TV戏剧台,p2p://135.148.104.228:19806/2831986ed4b448c9b626788fbd3f2f89
+爱尔达影剧台,p2p://135.148.104.228:19806/65b2176e0008ea530feeab784c543898
+亚洲剧台,p2p://135.148.104.228:19806/ee081a662356489d8b2170952ec91d24
+东森戏剧台(B),p2p://135.148.104.228:19806/8e23c200926a4eaaa00043b39dca9075
+
+待測試🔞 PORNBOX,#genre#
+PORNBOX 1,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/567
+PORNBOX 10,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/576
+PORNBOX 100,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/666
+PORNBOX 11,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/577
+PORNBOX 12,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/578
+PORNBOX 13,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/579
+PORNBOX 14,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/580
+PORNBOX 15,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/581
+PORNBOX 16,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/582
+PORNBOX 17,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/583
+PORNBOX 18,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/584
+PORNBOX 19,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/585
+PORNBOX 2,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/568
+PORNBOX 20,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/586
+PORNBOX 21,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/587
+PORNBOX 22,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/588
+PORNBOX 23,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/589
+PORNBOX 24,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/590
+PORNBOX 25,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/591
+PORNBOX 26,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/592
+PORNBOX 27,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/593
+PORNBOX 28,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/594
+PORNBOX 29,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/595
+PORNBOX 3,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/569
+PORNBOX 30,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/596
+PORNBOX 31,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/597
+PORNBOX 32,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/598
+PORNBOX 33,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/599
+PORNBOX 34,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/600
+PORNBOX 35,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/601
+PORNBOX 36,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/602
+PORNBOX 37,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/603
+PORNBOX 38,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/604
+PORNBOX 39,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/605
+PORNBOX 4,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/570
+PORNBOX 40,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/606
+PORNBOX 41,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/607
+PORNBOX 42,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/608
+PORNBOX 43,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/609
+PORNBOX 44,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/610
+PORNBOX 45,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/611
+PORNBOX 46,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/612
+PORNBOX 47,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/613
+PORNBOX 48,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/614
+PORNBOX 49,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/615
+PORNBOX 5,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/571
+PORNBOX 50,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/616
+PORNBOX 51,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/617
+PORNBOX 52,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/618
+PORNBOX 53,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/619
+PORNBOX 54,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/620
+PORNBOX 55,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/621
+PORNBOX 56,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/622
+PORNBOX 57,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/623
+PORNBOX 58,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/624
+PORNBOX 59,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/625
+PORNBOX 6,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/572
+PORNBOX 60,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/626
+PORNBOX 61,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/627
+PORNBOX 62,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/628
+PORNBOX 63,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/629
+PORNBOX 64,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/630
+PORNBOX 65,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/631
+PORNBOX 66,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/632
+PORNBOX 67,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/633
+PORNBOX 68,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/634
+PORNBOX 69,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/635
+PORNBOX 7,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/573
+PORNBOX 70,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/636
+PORNBOX 71,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/637
+PORNBOX 72,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/638
+PORNBOX 73,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/639
+PORNBOX 74,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/640
+PORNBOX 75,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/641
+PORNBOX 76,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/642
+PORNBOX 77,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/643
+PORNBOX 78,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/644
+PORNBOX 79,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/645
+PORNBOX 8,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/574
+PORNBOX 80,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/646
+PORNBOX 81,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/647
+PORNBOX 82,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/648
+PORNBOX 83,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/649
+PORNBOX 84,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/650
+PORNBOX 85,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/651
+PORNBOX 86,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/652
+PORNBOX 87,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/653
+PORNBOX 88,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/654
+PORNBOX 89,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/655
+PORNBOX 9,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/575
+PORNBOX 90,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/656
+PORNBOX 91,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/657
+PORNBOX 92,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/658
+PORNBOX 93,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/659
+PORNBOX 94,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/660
+PORNBOX 95,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/661
+PORNBOX 96,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/662
+PORNBOX 97,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/663
+PORNBOX 98,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/664
+PORNBOX 99,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/665
+
+
+待測試🔞 XXL TV,#genre#
+XXL TV Anal,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/321
+XXL TV Big Ass,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/322
+XXL TV Big Dick,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/324
+XXL TV Big Tits,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/325
+XXL TV Blonde,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/326
+XXL TV Blowjob,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/328
+XXL TV Brunette,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/330
+XXL TV Compilation,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/331
+XXL TV Cuckold,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/337
+XXL TV Fetish,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/338
+XXL TV Gangbang,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/341
+XXL TV Hardcore,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1071
+XXL TV Interracialhttp://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1072
+XXL TV Latina,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1073
+XXL TV Lesbian,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1074
+XXL TV Live Cams,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1075
+XXL TV MILF,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1076
+XXL TV Pornstar,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1077
+XXL TV POV,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1078
+XXL TV Rough,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1079
+XXL TV Russian,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1080
+XXL TV Teen,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1081
+XXL TV Threesome,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/1082
+ZOOMOO 4K,http://78.159.119.122:2082/xplus-2-BHm5F4g9H0/Gp0Ano4ZxV/370
+
+
+待測試🔞 海外頻道,#genre#
+HUSTLER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121527
+REDLIGHT HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121528
+PRIVATE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121529
+DORCEL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121530
+DORCEL XXX  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121531
+VIVID RED HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121532
+VIXEN HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121533
+EROX XXX  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121534
+PENTHOUSE QUICKIES HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121535
+SUPER ONE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121536
+BABES TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121537
+XY PLUS HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121538
+XY MAX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121539
+XY MIX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121540
+VIVID TV EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121541
+VIVID TOUCH HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121542
+DUSK! HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121543
+HUSTLER TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121544
+XXL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121545
+PASSIE XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121546
+PASSION XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121547
+REALITY KINGS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121548
+BRAZZERS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121549
+BRAZZERS TV EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121550
+BRAZZERS TV EUROPE UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121551
+HOT TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121552
+VENUS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121553
+SEXTREME TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121554
+SEXY HOT HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121555
+MEIDEN VAN HOLLAND HARD HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121556
+EVIL ANGEL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121557
+EROTIC 1 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121558
+EROTIC 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121559
+EROTIC 3 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121560
+EROTIC 4 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121561
+EROTIC 5 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121562
+EROTIC 6 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121563
+EROTIC 7 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121564
+EROTIC 8 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121565
+BANG U HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121566
+ШАЛУН TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121567
+ШЁЛК TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121568
+PLAYBOY HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121569
+PLAYBOY EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121570
+PLAYBOY EUROPE UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121571
+BLUE HUSTLER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121572
+BLUE HUSTLER EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121573
+RUSSIAN NIGHT  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121574
+BARELY LEGAL TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121575
+O LA LA TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121576
+FRENCH LOVER TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121577
+NUART TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121578
+EXXXOTICA TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121579
+SECRET CIRCLE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121580
+LUST PUR TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121581
+BEATE-UHSE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121582
+PURE BABES TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121583
+PINKO CLUB HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121584
+CENTO X CENTO HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121585
+DREAM PORN HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121586
+X-DREAM TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121587
+X-DREAM TV 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121588
+FREE X TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121589
+FREE X TV 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121590
+FREE X TV HQ HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121591
+FANTAZZY TV  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121592
+PRIVATE SPICE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121593
+SEX PRIVE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121594
+LEO TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121595
+X1 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121596
+X BIZARRE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121597
+X DESIRE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121598
+X BUNGA BUNGA,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121599
+PENTHOUSE PASSION,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121600
+HOT XXL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121601
+LEGAL TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121602
+NAUGHTY TV  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121603
+BALKAN EROTIC HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121604
+TABOO HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121605
+OLDTIMER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121606
+BANGERZ HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121607
+NET XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121608
+PLAYHOUSE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121609
+HOT PLEASURE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121610
+MILF TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121611
+RED XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121612
+EXTREME HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121613
+LESBIAN AFFAIR HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121614
+EMANUELLE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121615
+SEX ATION HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121616
+FAST BOYZ HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121617
+X-MO HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121618
+PENTHOUSE GOLD HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121619
+EROX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121620
+EROX XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121621
+EXTASY HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121622
+EXTASY 4K,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121623
+SUPERONE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121624
+THE ADULT CHANNELS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121625
+ОХ-АХ HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121626
+KINOXXX 1 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121627
+KINOXXX 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121628
+KINOXXX 3 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121629
+KINOXXX 4 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121630
+KINOXXX 5 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121631
+JASMIN TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121632
+FASHION TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121633
+FASHION TV UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121634
+A3 BIKINI TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121635
+VISIT-X TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121636
+ALBA 1 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/16171
+ALBA 2 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/16172
+ALBA 3 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/16173
+ALBA 4 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67430
+ALBA 5 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67431
+ALBA 6 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67432
+BRAZZERS 1,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17362
+BRAZZERS 2,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17363
+BRAZZERS 3,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17364
+BRAZZERS 4,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17365
+BRAZZERS 5,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17366
+BRAZZERS 6,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17367
+BRAZZERS 7,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17368
+BRAZZERS 8,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17369
+BRAZZERS 9,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17370
+STRICTLY SEXUAL 1,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17371
+STRICTLY SEXUAL 2,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17372
+STRICTLY SEXUAL 3,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17373
+STRICTLY SEXUAL 4,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17374
+STRICTLY SEXUAL 5,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17375
+STRICTLY SEXUAL 6,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17376
+STRICTLY SEXUAL 7,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17377
+STRICTLY SEXUAL 8,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17378
+STRICTLY SEXUAL 9,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17379
+XXX: CONNECT XXX 1,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67535
+XXX: CONNECT XXX 2,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67536
+XXX: CONNECT XXX 3,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67537
+XXX: CONNECT XXX 4,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67538
+XXX: CONNECT XXX 5,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67539
+XXX: CONNECT XXX 6,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67540
+XXX: CONNECT XXX 7,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67541
+XXX: CONNECT XXX 8,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67542
+FAKE HOSPITAL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67584
+FAKE HOSTEL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67585
+FAKE TAXI,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67586
+FAMILY SINNERS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67587
+FAMILY STROKES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67588
+FAMILY XXX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67589
+FEMALE AGENT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67590
+FEMALE FAKE TAXI,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67591
+FEVER FILMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67592
+FIRST ANAL QUEST,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67593
+FITNESS ROOMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67594
+FORGIVE ME FATHER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67595
+GF REGENVE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67596
+GIRLS GONE PINK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67597
+GOTMYLF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67598
+HENTAI,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67599
+HER LIMIT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67600
+HOT WIFE XXX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67601
+I KNOW THAT GIRL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67602
+JAPAN LUST,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67603
+JAV HUB,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67604
+JAYS POV,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67605
+JESH BY JESH,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67606
+KINKY SPA,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67607
+LETS DO IT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67608
+LIFE SELECTOR,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67609
+LOVE HER ASS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67610
+MASSAGE ROOMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67611
+MEAN GIRLS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67612
+MIKES APARTMENT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67613
+MILE HIGH,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67614
+MILF HUNTER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67615
+MOFOS B SIDES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67616
+MOFOS LAB,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67617
+MOM KNOWS BEST,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67618
+MOM TEACH SEX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67619
+MONEY TALKS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67620
+MR LUCKY POV,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67621
+MY 18 TEENS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67622
+MY DIRT HOBBY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67623
+MY FAMILY PIES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67624
+MY FRIENDS HOT MOM,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67625
+MY LIFE IN MIAMI,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67626
+MY PERVY FAMILY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67627
+MY VERY FIRST TIME,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67628
+MYLF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67629
+NANNY SPY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67630
+NAUGHTY AMERICA,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67631
+NF BUSTY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67632
+NUBILE FILMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67633
+OFFICE OBSESSION,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67634
+PERV MOM,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67635
+PERVS ON PATROL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67636
+PORNO ACADEMIE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67637
+POVD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67638
+PRESTIGE JAPAN,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67639
+PRETTY DIRTY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67640
+PRIVATE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67641
+PROPERTY SEX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67642
+PUBLIC AGENT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67643
+PUBLIC PICKUPS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67644
+PURE18,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67645
+RAW ATTACK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67646
+REAL EX GIRLFRIENDS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67647
+REAL SENSUAL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67648
+RK PRIME,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67649
+SELL YOUR GF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67650
+SEX WORKING,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67651
+SHARE MY BF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67652
+SIS LOVES ME,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67653
+STEP MOM LESSONS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67654
+STEPSIBLINGS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67655
+STRANDED TEENS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67656
+SWALLOW SALON,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67657
+THE INNOCENCE OF YOUTH,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67658
+TINY 4K,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67659
+TONIGHTS GIRLFRIEND,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67660
+TURNING TWISTYS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67661
+TUSHY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67662
+TWISTYS ORIGINAL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67663
+VIXEN,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67664
+VLOG XXX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67665
+WE LIVE TOGETHER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67666
+WHEN GIRLS PLAY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67667
+ASMR FANTASY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67543
+ATK GIRLFRIENDS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67544
+BABES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67545
+BABES UNLEASHED,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67546
+BABESALICIOUS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67547
+BAD DADDY POV,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67548
+BAEB,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67549
+BANGBUS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67550
+BELLESA FILMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67551
+BIG NATURALS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67552
+BIG TITS AT SCHOOL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67553
+BITCHES ABROAD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67554
+BLACK GFS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67555
+BLACK IS BETTER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67556
+BLACKED,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67557
+BLACKED RAW,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67558
+BLOW ME POV,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67559
+BRATTY SIS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67560
+BRAZZERS EN ESPANOL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67561
+BROKEN BABES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67562
+BROKEN MILF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67563
+CUM 4K,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67564
+CUM FIESTA,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67565
+DAD CRUSH,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67566
+DAUGHTER SWAP,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67567
+DAY WITH A PORNSTAR,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67568
+DEEPER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67569
+DFD BUSTY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67570
+DFD NETWORK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67571
+DIGITAL PLAYGROUND,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67572
+DOG FART NETWORK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67573
+DON\\\'T BREAK ME,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67574
+ELEGANT ANAL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67575
+ERITO,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67576
+EROTIC SPICE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67577
+EXOTIC 4K,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67578
+EXXXTRA SMALL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67579
+FAKE AGENT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67580
+FAKE AGENT UK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67581
+FAKE COP,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67582
+FAKE DRIVING SCHOOL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67583
+
+待測試Live channels Playlist,#genre#
+Live channels Playlist,https://adultiptv.net/chs.m3u
+
+
+待測試 Alternative,#genre#
+Alternative,https://raw.githubusercontent.com/reklamalinir/freeadultiptv/master/live_adult_channels.m3u
+
+待測試 VOD Playlist,#genre#
+VOD Playlist,https://adultiptv.net/videos.m3u8
+Passie,http://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
+白兔,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
+花花公子電視,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/527/index.m3u8
+菊花臺,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/147/index.m3u8
+紅綠兔,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6280/index.m3u8
+YOSSO TV SEXY,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
+白兔1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
