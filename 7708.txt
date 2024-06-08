@@ -63,6 +63,8 @@ GOOD TV 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
 GOOD TV 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
 GOOD TV 健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
 GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
+生命電視,https://epg.pw/stream/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8
+生命電視,https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
 
 🎦電影直播頻道,#genre#
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
