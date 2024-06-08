@@ -10,7 +10,6 @@
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 東森衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-東森財經新聞,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
@@ -20,7 +19,6 @@ HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u
 
 🇹🇼台灣綜合頻道,#genre#
 華視CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 民視 HD,http://220.134.196.147:9574/ch49.m3u8
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
