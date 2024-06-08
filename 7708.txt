@@ -66,18 +66,7 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 
 🎦電影直播頻道,#genre#
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-東森電影HD,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-好莱坞电影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-斗鱼4K影院,http://159.75.85.63:35455/douyu/9249162
-斗鱼4K影院,http://mmitv.top/test/douyu.php?id=9249162
-斗鱼4K影院,http://epg.112114.xyz/douyu/9249162
-天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
-天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 Hi-YAH!,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-Kix (印尼字幕),http://210.210.155.37/dr9445/h/h07/index.m3u8
 My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
 長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 阿里郎 Arirang,http://198.16.100.90:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
