@@ -46,6 +46,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 中視菁采臺,https://stream.freetv.fun/zhong-shi-jing-cai-1.ctv
 八大精彩,https://stream.freetv.fun/ba-da-jing-cai-1.ctv
 八大綜合,https://stream.freetv.fun/ba-da-zong-he-2.m3u8
+八大戲劇HD,https://stream.freetv.fun/ba-da-xi-ju-tai-hd-1.m3u8
 公視戲劇,https://epg.pw/stream/20465771bc9dbdd972f3c59e3c6645103aed450acd7f46bd1e4a9d166ee047a4.m3u8
 大愛1台,https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
 大愛2台,https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
