@@ -98,8 +98,11 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 龍華經典,https://stream.freetv.fun/long-hua-jing-dian-1.ctv
 龍華電影,https://stream.freetv.fun/long-hua-dian-ying-1.ctv
 龍華電影[geo-blocked],https://stream.freetv.fun/long-hua-dian-ying-2.m3u8
+
 🎦電影直播頻道,#genre#
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+神樂影片,https://epg.pw/stream/4bb6cd65c225d9000bfa15a013db79f1068df4d235fb7e2b041dad9ae2b4d1c0.ctv
+變種人電影,https://epg.pw/stream/f41827a1237e7180f5397cd04a3521f6bffe93737f13bd0f27dadeaa4f900746.ctv
 AMC電影,https://stream.freetv.fun/amc-zui-ai-dian-ying-1.ctv
 AMC電影,https://stream.freetv.fun/amcdian-ying-1.m3u8
 CatchPlay電影,https://stream.freetv.fun/catchplay-dian-ying-1.ctv
@@ -115,9 +118,6 @@ My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
 長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 ROCK Entertainment,https://epg.pw/stream/890563baba3628a4096548c973405f5b31de969d8bbe666d6e196540348941dd.ctv
 TVN(TW),https://epg.pw/stream/783b753c8ea521aa47a847b292ea48cb0933e223adb64f5cf1f9799fea5a9062.m3u8
-
-神樂影片,https://epg.pw/stream/4bb6cd65c225d9000bfa15a013db79f1068df4d235fb7e2b041dad9ae2b4d1c0.ctv
-變種人電影,https://epg.pw/stream/f41827a1237e7180f5397cd04a3521f6bffe93737f13bd0f27dadeaa4f900746.ctv
 
 🌈動畫頻道,#genre#
 MOMO親子台,https://epg.pw/stream/cb5e97a3ab7136f3fa96dde3756270770cebfc14b0aa47790ae22d13b6bc70b8.m3u8
