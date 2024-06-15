@@ -82,11 +82,11 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 采昌影劇,https://stream.freetv.fun/cai-chang-ying-ju-1.ctv
 靖天戲劇,https://stream.freetv.fun/jing-tian-xi-ju-1.ctv
 民視影劇臺,https://stream.freetv.fun/min-shi-ying-ju-1.ctv
+經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-3.ctv
 經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-1.m3u8
 經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-2.m3u8
-經典電影臺[geo-blocked],https://stream.freetv.fun/jing-dian-dian-ying-3.ctv
 經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-4.m3u8
-緯來戲劇[geo-blocked],https://stream.freetv.fun/wei-lai-xi-ju-1.m3u8
+緯來戲劇,https://stream.freetv.fun/wei-lai-xi-ju-1.m3u8
 采昌影劇,https://stream.freetv.fun/cai-chang-ying-ju-1.ctv
 靖天戲劇,https://stream.freetv.fun/jing-tian-xi-ju-1.ctv
 靖天映畫,https://stream.freetv.fun/jing-tian-ying-hua-1.ctv
