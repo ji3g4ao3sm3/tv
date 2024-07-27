@@ -150,8 +150,27 @@ ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 🌍人文地理,#genre#
 动物世界,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Animal Planet 中字,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-Discovery,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
-
+BBC Earth(tw)[geo-blocked],https://stream1.freetv.fun/bbc-earth-7.ctv
+BBC Earth(tw),https://stream1.freetv.fun/bbc-earth-5.m3u8
+DISCOVERY Channel,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-16.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-cee-1.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-6.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-7.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-13.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-11.ctv
+DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-2.ctv
+DISCOVERY Channel,https://stream1.freetv.fun/ch-ng-discovery-channels-1.m3u8
+DISCOVERY HD WORLD[geo-blocked],https://stream1.freetv.fun/world-1-2.m3u8
+DISCOVERY HD WORLD[geo-blocked],https://stream1.freetv.fun/world-1-1.m3u8
+DISCOVERY HD WORLD,https://stream1.freetv.fun/discovery-world-1.m3u8
+Discovery(TW),https://stream1.freetv.fun/discovery-east-1.ctv
+Discovery(TW),https://stream1.freetv.fun/discovery-west-1.ctv
+Discovery(TW),https://stream1.freetv.fun/discovery-espanol-1.ctv
+Discovery(TW),https://stream1.freetv.fun/discovery-familia-1.ctv
+Discovery(TW),https://stream1.freetv.fun/discovery-h-h-1.ctv
+Discovery(TW),https://stream1.freetv.fun/discovery-theater-2.ctv
+Discovery(TW)[geo-blocked],https://stream1.freetv.fun/discoveryuhd-1.m3u8
 
 ⚽體育直播,#genre#
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
