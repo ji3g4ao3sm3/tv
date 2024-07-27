@@ -196,8 +196,6 @@ Smithsonian Channel,https://stream1.freetv.fun/smithsonian-1.ctv
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育[geo-blocked],https://stream1.freetv.fun/wei-lai-ti-yu-11.m3u8
-日-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 DAZN 1(TW),https://stream1.freetv.fun/dazn-portugues-1.ctv
 DAZN 2(TW),https://stream1.freetv.fun/dazn2-1.m3u8
 DAZN 2(TW),https://stream1.freetv.fun/dazn-ringside-1.m3u8
@@ -208,6 +206,8 @@ Eleven Sports2,https://stream1.freetv.fun/eleven-sports-2-1.ctv
 Eleven sports,https://stream1.freetv.fun/eleven-sports-3-1.ctv
 Eleven sports,https://stream1.freetv.fun/eleven-sports-1.ctv
 Eleven sports,https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
+日-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 🎶外語流行頻道,#genre#
 EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
