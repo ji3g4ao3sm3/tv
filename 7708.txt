@@ -171,6 +171,24 @@ Discovery(TW),https://stream1.freetv.fun/discovery-familia-1.ctv
 Discovery(TW),https://stream1.freetv.fun/discovery-h-h-1.ctv
 Discovery(TW),https://stream1.freetv.fun/discovery-theater-2.ctv
 Discovery(TW)[geo-blocked],https://stream1.freetv.fun/discoveryuhd-1.m3u8
+Global Trekker,https://stream1.freetv.fun/global-trekker-cdn6-1.m3u8
+Global Trekker,https://stream1.freetv.fun/global-trekker-channel-cdn6-1.m3u8
+Love Nature[geo-blocked],https://stream1.freetv.fun/love-nature-7.m3u8
+Love Nature[geo-blocked],https://stream1.freetv.fun/love-nature-1.m3u8
+Love Nature,https://stream1.freetv.fun/love-nature-2.m3u8
+Love Nature,https://stream1.freetv.fun/lovenature4k-3.m3u8
+Love Nature,https://stream1.freetv.fun/love-nature-5.m3u8
+Love Nature,https://stream1.freetv.fun/lovenature4k-4.m3u8
+Love Nature,https://stream1.freetv.fun/love-nature-3.m3u8
+Love Nature,https://stream1.freetv.fun/lovenature4k-2.m3u8
+Love Nature,https://stream1.freetv.fun/lovenature4k-1.m3u8
+Nat Geo(TW),https://stream1.freetv.fun/natgeo-japan-1.m3u8
+Nat Geo(TW)[geo-blocked],https://stream1.freetv.fun/nat-geo-6.m3u8
+Nat Geo(TW),https://stream1.freetv.fun/nat-geo-5.ctv
+Nat Geo(TW),https://stream1.freetv.fun/nat-geo-1.ctv
+Smithsonian Channel,https://stream1.freetv.fun/ch-ng-smithsonian-1.ctv
+Smithsonian Channel,https://stream1.freetv.fun/smithsonian-channel-2.ctv
+Smithsonian Channel,https://stream1.freetv.fun/smithsonian-1.ctv
 
 ⚽體育直播,#genre#
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
