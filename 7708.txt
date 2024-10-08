@@ -49,7 +49,10 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 中視經典,https://stream.freetv.fun/zhong-shi-jing-dian-1.ctv
 中視菁采臺,https://stream.freetv.fun/zhong-shi-jing-cai-1.ctv
 八大精彩,https://stream.freetv.fun/ba-da-jing-cai-1.ctv
-八大綜合,https://stream.freetv.fun/ba-da-zong-he-2.m3u8
+八大综合台,https://stream.freetv.fun/ba-da-zong-he-2.m3u8
+八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 大愛1台,https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
 大愛2台,https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
 華視-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
