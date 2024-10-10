@@ -110,22 +110,6 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 
 🎦電影直播頻道,#genre#
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-AMC電影,https://stream.freetv.fun/amc-zui-ai-dian-ying-1.ctv
-AMC電影,https://stream.freetv.fun/amcdian-ying-1.m3u8
-CatchPlay電影,https://stream.freetv.fun/catchplay-dian-ying-1.ctv
-Hollywood,https://stream.freetv.fun/hollywood-1.m3u8
-Hollywood,https://stream.freetv.fun/young-hollywood-1.m3u8
-Hollywood,https://stream.freetv.fun/hollywood-2.m3u8
-Hollywood,https://stream.freetv.fun/young-hollywood-2.m3u8
-Hollywood,https://stream.freetv.fun/made-in-hollywood-2.m3u8
-Hollywood,https://stream.freetv.fun/made-in-hollywood-1.m3u8
-ROCK Extreme,https://stream.freetv.fun/ph-rock-extreme-1.ctv
-Hi-YAH!,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
-長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-ROCK Entertainment,https://epg.pw/stream/890563baba3628a4096548c973405f5b31de969d8bbe666d6e196540348941dd.ctv
-TVN(TW),https://epg.pw/stream/783b753c8ea521aa47a847b292ea48cb0933e223adb64f5cf1f9799fea5a9062.m3u8
-鳳凰電影,https://stream1.freetv.fun/feng-huang-dian-ying-4.ctv
 電影_星爺,http://cfss.cc/cdn/hy/11342412.m3u8
 電影_英叔,http://cfss.cc/cdn/hy/11342421.m3u8
 電影_發哥,http://cfss.cc/cdn/hy/11342387.m3u8
