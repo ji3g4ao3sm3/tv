@@ -110,13 +110,14 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 
 🎦電影直播頻道,#genre#
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-国外惊悚,http://allinone.netsite.cc/douyu/96577
-漫威电影,http://allinone.netsite.cc/douyu/6140589
-国外电影,http://allinone.netsite.cc/douyu/323876
-榜单电影,http://allinone.netsite.cc/douyu/8770422
-CHC动作电影,http://219.156.48.185:9999/rtp/225.1.4.208:1261$河南联通
-CHC影迷电影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
+國外驚悚,http://allinone.netsite.cc/douyu/96577
+漫威電影,http://allinone.netsite.cc/douyu/6140589
+國外電影,http://allinone.netsite.cc/douyu/323876
+榜單電影,http://allinone.netsite.cc/douyu/8770422
+CHC動作電影,http://219.156.48.185:9999/rtp/225.1.4.208:1261$河南聯通
+CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+
 🧸動畫頻道,#genre#
 cn卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 靖天育樂台,https://stream1.freetv.fun/jing-tian-yu-le-2.m3u8
