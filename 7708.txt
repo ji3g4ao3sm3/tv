@@ -111,8 +111,10 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 🎦電影直播頻道,#genre#
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 國外驚悚,http://allinone.netsite.cc/douyu/96577
+亞州驚悚,http://allinone.netsite.cc/douyu/218859
+動畫輪播,http://allinone.netsite.cc/douyu/206858
 漫威電影,http://allinone.netsite.cc/douyu/6140589
-國外電影,http://allinone.netsite.cc/douyu/323876
+好萊屋電影,http://allinone.netsite.cc/douyu/323876
 榜單電影,http://allinone.netsite.cc/douyu/8770422
 CHC動作電影,http://219.156.48.185:9999/rtp/225.1.4.208:1261$河南聯通
 CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
