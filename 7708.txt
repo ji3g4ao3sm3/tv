@@ -112,7 +112,6 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 國外驚悚,http://allinone.netsite.cc/douyu/96577
 亞州驚悚,http://allinone.netsite.cc/douyu/218859
-動畫輪播,http://allinone.netsite.cc/douyu/206858
 漫威電影,http://allinone.netsite.cc/douyu/6140589
 好萊屋電影,http://allinone.netsite.cc/douyu/323876
 榜單電影,http://allinone.netsite.cc/douyu/8770422
