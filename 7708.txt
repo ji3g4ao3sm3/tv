@@ -193,7 +193,10 @@ Smithsonian Channel,https://stream1.freetv.fun/smithsonian-1.ctv
 緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-1.ctv
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來體育[geo-blocked],https://stream1.freetv.fun/wei-lai-ti-yu-11.m3u8
+JSPORTS 1 (日),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 2 (日),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 3 (日),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 4 (日),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 DAZN 1(TW),https://stream1.freetv.fun/dazn-portugues-1.ctv
 DAZN 2(TW),https://stream1.freetv.fun/dazn2-1.m3u8
 DAZN 2(TW),https://stream1.freetv.fun/dazn-ringside-1.m3u8
