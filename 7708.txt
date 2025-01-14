@@ -79,8 +79,10 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 🎞️台灣戲劇頻道,#genre#
 三立戲劇,https://stream.freetv.fun/san-li-xi-ju-1.m3u8
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+八大戲劇HD,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戲劇HD,https://stream.freetv.fun/ba-da-xi-ju-tai-hd-1.m3u8
 八大精彩,https://stream.freetv.fun/ba-da-jing-cai-1.ctv
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大綜合,https://stream.freetv.fun/ba-da-zong-he-2.m3u8
 公視戲劇,https://epg.pw/stream/20465771bc9dbdd972f3c59e3c6645103aed450acd7f46bd1e4a9d166ee047a4.m3u8
 影迷數位電影,https://stream.freetv.fun/ying-mi-shu-wei-dian-ying-1.ctv
