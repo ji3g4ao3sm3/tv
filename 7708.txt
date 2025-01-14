@@ -122,7 +122,7 @@ HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u
 CHC動作電影,http://219.156.48.185:9999/rtp/225.1.4.208:1261$河南聯通
 CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-
+歐美電影,http://37.27.111.214:8080/live/35/hls.m3u8
 🧸動畫頻道,#genre#
 cn卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 靖天育樂台,https://stream1.freetv.fun/jing-tian-yu-le-2.m3u8
