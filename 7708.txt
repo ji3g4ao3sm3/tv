@@ -427,7 +427,7 @@ VOA,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 半島電視台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半島電視台,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-海外衛視頻道,#genre#
+🌏海外衛視頻道,#genre#
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 東森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
@@ -441,7 +441,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 
-國會議事轉播,#genre#
+👔國會議事轉播,#genre#
 國會頻道1,https://epg.pw/stream/b73e2686833520fef8096f8377e23ac12d5366c7c87ab4af4b9d58edaa4009cd.m3u8
 國會頻道1,https://epg.pw/stream/14256387a4019f342f90fb2e248e86362692b68d88e4cf9a6842fa659e6966b6.m3u8
 國會頻道1,https://epg.pw/stream/25175c7fccfbd6b9eb84da550d209558856d777a651e95a9eee156246c364050.m3u8
@@ -459,7 +459,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 立法院 直播朝野協商 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
 立法院 直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
 
-宗教佛法頻道,#genre#
+☯️宗教佛法頻道,#genre#
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 生命電視台,https://epg.pw/stream/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8
 生命電視台,https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
@@ -476,7 +476,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 
-電視購物頻道,#genre#
+👗電視購物頻道,#genre#
 MOMO購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 Viva 美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
