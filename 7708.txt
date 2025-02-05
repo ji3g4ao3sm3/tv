@@ -123,7 +123,6 @@ CHC動作電影,http://219.156.48.185:9999/rtp/225.1.4.208:1261$河南聯通
 CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 歐美電影,http://37.27.111.214:8080/live/35/hls.m3u8
-
 📷戲劇重播,#genre#
 新天龍八部之天山童姥,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
@@ -234,7 +233,7 @@ CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
 紀曉嵐,https://live.metshop.top/yy/1354143978
 雍正王朝 高清,https://live.metshop.top/yy/23206872
 康熙微服私訪記,https://live.metshop.top/yy/1352811698
-經典功夫@代,https://lunbo.freetv.top/yy/1355002394
+經典功夫年代,https://lunbo.freetv.top/yy/1355002394
 尋秦記,https://live.metshop.top/yy/1382749900
 封神榜,https://live.metshop.top/yy/1353426319
 新白娘子傳奇,https://live.metshop.top/yy/1354490667
