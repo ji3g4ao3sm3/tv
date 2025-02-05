@@ -123,6 +123,8 @@ CHC動作電影,http://219.156.48.185:9999/rtp/225.1.4.208:1261$河南聯通
 CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 歐美電影,http://37.27.111.214:8080/live/35/hls.m3u8
+
+📷戲劇重播,#genre#
 新天龍八部之天山童姥,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
 九品芝麻官包龍星,https://live.metshop.top/yy/1354930968
@@ -215,7 +217,7 @@ CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
 電影頻道19,http://43.138.170.29:35455/douyu/11880121
 電影頻道20,http://43.138.170.29:35455/douyu/705204
 
-🎦電影輪播頻道,#genre#
+🎬戲劇輪播,#genre#
 笑傲江湖,https://live.metshop.top/yy/1354936128
 笑傲江湖1,https://live.metshop.top/yy/1354282410
 笑傲江湖2,https://live.metshop.top/yy/1354930909
