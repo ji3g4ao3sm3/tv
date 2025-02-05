@@ -290,6 +290,7 @@ CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
 83射鵰英雄傳,http://43.138.170.29:35455/yy/1354210357
 95神鵰俠侶,http://43.138.170.29:35455/yy/1354926637
 舌尖美食,http://epg.112114.xyz/douyu/9650849
+
 🧸動畫頻道,#genre#
 cn卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 靖天育樂台,https://stream1.freetv.fun/jing-tian-yu-le-2.m3u8
@@ -315,6 +316,9 @@ ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 親子動畫01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 親子動畫02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 英文兒歌動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+Nick卡通AKtv,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+AniMAX_AKtv,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+ZooMoo-AKtv,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 🌍人文地理,#genre#
 动物世界,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
