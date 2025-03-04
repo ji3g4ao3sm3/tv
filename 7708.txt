@@ -338,10 +338,10 @@ J-SPORTS 4 ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&cco
 DAZN 1(TW),https://stream1.freetv.fun/dazn-portugues-1.ctv
 DAZN 2(TW),https://stream1.freetv.fun/dazn2-1.m3u8
 DAZN 2(TW),https://stream1.freetv.fun/dazn-ringside-1.m3u8
-ELEVEN Sports1,rtmp://f13h.mine.nu/sat/tv731
+Eleven Sports1,rtmp://f13h.mine.nu/sat/tv731
 Eleven Sports1,https://stream1.freetv.fun/eleven-sports-1-pl-1.ctv
 Eleven Sports1,https://stream1.freetv.fun/eleven-sports-1-1.ctv
-ELEVEN Sports2,rtmp://f13h.mine.nu/sat/tv741
+Eleven Sports2,rtmp://f13h.mine.nu/sat/tv741
 Eleven Sports2,https://stream1.freetv.fun/eleven-sports-2-pl-1.ctv
 Eleven Sports2,https://stream1.freetv.fun/eleven-sports-2-1.ctv
 Eleven sports,https://stream1.freetv.fun/eleven-sports-3-1.ctv
