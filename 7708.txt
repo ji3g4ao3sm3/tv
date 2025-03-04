@@ -283,7 +283,7 @@ ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Nick卡通AKtv,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 AniMAX_AKtv,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 ZooMoo-AKtv,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-
+中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 🌍人文地理,#genre#
 动物世界,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Animal Planet 中字,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
