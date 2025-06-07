@@ -256,13 +256,6 @@ CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
 舌尖美食,http://epg.112114.xyz/douyu/9650849
 
 🧸動畫頻道,#genre#
-cn卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
-靖天育樂台,https://stream1.freetv.fun/jing-tian-yu-le-2.m3u8
-東森幼幼台,https://stream1.freetv.fun/dong-sen-you-you-1.m3u8
-東森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
-東森幼幼台,https://epg.pw/stream/d35cc573746024eb611046288002be136a43c60a22a30468168d81e2afe2897e.m3u8
-東森幼幼台,https://epg.pw/stream/1d9ca51d13542893db91a27fea36b56c6af8a85f2b39d49695832a26f18b1124.m3u8
-東森幼幼台,https://epg.pw/stream/ca6603ca7e76e2c77dd289279ac0d6312096c3ceb3b1747dbc745634ce01ffcd.m3u8
 東森幼幼歌曲輪播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
