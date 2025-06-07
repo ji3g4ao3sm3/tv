@@ -70,7 +70,6 @@ GOOD TV 健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
 GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 
 🎞️台灣戲劇頻道,#genre#
-三立戲劇,https://stream.freetv.fun/san-li-xi-ju-1.m3u8
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戲劇HD,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戲劇HD,https://stream.freetv.fun/ba-da-xi-ju-tai-hd-1.m3u8
