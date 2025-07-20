@@ -239,9 +239,6 @@ J-SPORTS 1 ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&cco
 J-SPORTS 2 ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 J-SPORTS 3 ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 J-SPORTS 4 ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-DAZN 1(TW),https://stream1.freetv.fun/dazn-portugues-1.ctv
-DAZN 2(TW),https://stream1.freetv.fun/dazn2-1.m3u8
-DAZN 2(TW),https://stream1.freetv.fun/dazn-ringside-1.m3u8
 Eleven Sports1,rtmp://f13h.mine.nu/sat/tv731
 Eleven Sports1,https://stream1.freetv.fun/eleven-sports-1-pl-1.ctv
 Eleven Sports1,https://stream1.freetv.fun/eleven-sports-1-1.ctv
@@ -254,7 +251,6 @@ Eleven sports,https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 🎶外語流行頻道,#genre#
-EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
