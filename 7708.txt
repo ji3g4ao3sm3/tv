@@ -73,13 +73,11 @@ HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u
 九品芝麻官包龍星,https://live.metshop.top/yy/1354930968
 周星馳1,http://43.138.170.29:35455/yy/1382736808
 周星馳,http://43.138.170.29:35455/yy/1354658049
-絕版電影@代,https://lunbo.freetv.top/yy/1455988450
 功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
 特輯電影,http://epg.112114.xyz/douyu/3637778
 國產電影,http://epg.112114.xyz/douyu/5423
 國產淩淩漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
 第一滴血全集,http://43.138.170.29:35455/yy/1354932355
-珍珠港-電影,https://live.metshop.top/yy/1354936234
 香港電影,http://43.138.170.29:35455/yy/1382736910
 港片電影,http://43.138.170.29:35455/yy/1459801818
 武俠港片,http://43.138.170.29:35455/yy/1451866697
