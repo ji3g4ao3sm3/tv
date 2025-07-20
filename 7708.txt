@@ -46,7 +46,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
-中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 GOOD TV 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV 生活台,http://live.streamingfast.net/osmflivech12.m3u8
 GOOD TV 真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
@@ -223,45 +223,10 @@ Nick卡通AKtv,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 AniMAX_AKtv,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 ZooMoo-AKtv,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
+
 🌍人文地理,#genre#
 动物世界,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Animal Planet 中字,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-BBC Earth(tw)[geo-blocked],https://stream1.freetv.fun/bbc-earth-7.ctv
-BBC Earth(tw),https://stream1.freetv.fun/bbc-earth-5.m3u8
-DISCOVERY Channel,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
-DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-16.m3u8
-DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-cee-1.m3u8
-DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-6.m3u8
-DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-7.m3u8
-DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-13.m3u8
-DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-11.ctv
-DISCOVERY Channel,https://stream1.freetv.fun/discovery-channel-2.ctv
-DISCOVERY Channel,https://stream1.freetv.fun/ch-ng-discovery-channels-1.m3u8
-DISCOVERY HD WORLD[geo-blocked],https://stream1.freetv.fun/world-1-2.m3u8
-DISCOVERY HD WORLD[geo-blocked],https://stream1.freetv.fun/world-1-1.m3u8
-DISCOVERY HD WORLD,https://stream1.freetv.fun/discovery-world-1.m3u8
-Discovery(TW),https://stream1.freetv.fun/discovery-east-1.ctv
-Discovery(TW),https://stream1.freetv.fun/discovery-west-1.ctv
-Discovery(TW),https://stream1.freetv.fun/discovery-espanol-1.ctv
-Discovery(TW),https://stream1.freetv.fun/discovery-familia-1.ctv
-Discovery(TW),https://stream1.freetv.fun/discovery-h-h-1.ctv
-Discovery(TW),https://stream1.freetv.fun/discovery-theater-2.ctv
-Discovery(TW)[geo-blocked],https://stream1.freetv.fun/discoveryuhd-1.m3u8
-Global Trekker,https://stream1.freetv.fun/global-trekker-cdn6-1.m3u8
-Global Trekker,https://stream1.freetv.fun/global-trekker-channel-cdn6-1.m3u8
-Love Nature[geo-blocked],https://stream1.freetv.fun/love-nature-7.m3u8
-Love Nature[geo-blocked],https://stream1.freetv.fun/love-nature-1.m3u8
-Love Nature,https://stream1.freetv.fun/love-nature-2.m3u8
-Love Nature,https://stream1.freetv.fun/lovenature4k-3.m3u8
-Love Nature,https://stream1.freetv.fun/love-nature-5.m3u8
-Love Nature,https://stream1.freetv.fun/lovenature4k-4.m3u8
-Love Nature,https://stream1.freetv.fun/love-nature-3.m3u8
-Love Nature,https://stream1.freetv.fun/lovenature4k-2.m3u8
-Love Nature,https://stream1.freetv.fun/lovenature4k-1.m3u8
-Nat Geo(TW),https://stream1.freetv.fun/natgeo-japan-1.m3u8
-Nat Geo(TW)[geo-blocked],https://stream1.freetv.fun/nat-geo-6.m3u8
-Nat Geo(TW),https://stream1.freetv.fun/nat-geo-5.ctv
-Nat Geo(TW),https://stream1.freetv.fun/nat-geo-1.ctv
 Smithsonian Channel,https://stream1.freetv.fun/ch-ng-smithsonian-1.ctv
 Smithsonian Channel,https://stream1.freetv.fun/smithsonian-channel-2.ctv
 Smithsonian Channel,https://stream1.freetv.fun/smithsonian-1.ctv
