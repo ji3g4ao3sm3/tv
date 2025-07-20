@@ -65,18 +65,7 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 民視影劇臺,https://stream.freetv.fun/min-shi-ying-ju-1.ctv
 民視影劇臺,https://stream.freetv.fun/min-shi-ying-ju-1.ctv
 龍華經典,https://stream.freetv.fun/long-hua-jing-dian-1.ctv
-
-
-🎦電影直播頻道,#genre#
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-國外驚悚,http://allinone.netsite.cc/douyu/96577
-亞州驚悚,http://allinone.netsite.cc/douyu/218859
-漫威電影,http://allinone.netsite.cc/douyu/6140589
-好萊屋電影,http://allinone.netsite.cc/douyu/323876
-榜單電影,http://allinone.netsite.cc/douyu/8770422
-CHC動作電影,http://219.156.48.185:9999/rtp/225.1.4.208:1261$河南聯通
-CHC影迷電影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 📷戲劇重播,#genre#
 新天龍八部之天山童姥,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
