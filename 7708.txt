@@ -16,7 +16,6 @@ TVBS新聞台,http://61.221.215.25:8800/hls/9/index.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-華視新聞資訊,https://epg.pw/stream/b20d2989c1b4d83ae0b5972a00648b724ae245f21c9542eca7bb8c32a0043a24.ctv
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
 🎭台灣綜合頻道,#genre#
@@ -42,15 +41,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 靖天日本台,https://epg.pw/stream/a0329e8161481d34004df71a5564d22f0a144482f3faed8ec5663dd8fa764d80.m3u8
 靖天綜合台,https://epg.pw/stream/fd6a2d196572e67cb8d49f16bcd9602af8b7408cd4e1e6a9e4ae988e80481df7.m3u8
 靖天綜合台,https://epg.pw/stream/96c74468a1956de7057a0d9f07d7809a7cd3c9be2f5ba56a23c3e0255e2be250.ctv
-中視經典,https://stream.freetv.fun/zhong-shi-jing-dian-1.ctv
-中視菁采臺,https://stream.freetv.fun/zhong-shi-jing-cai-1.ctv
-八大戲劇HD,http://61.221.215.25:8800/hls/39/index.m3u8
-八大戲劇HD,https://stream.freetv.fun/ba-da-xi-ju-tai-hd-1.m3u8
-八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
-八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大綜合,https://stream.freetv.fun/ba-da-zong-he-2.m3u8
-大愛1台,https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
-大愛2台,https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
 華視-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -72,39 +62,10 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 🎞️台灣戲劇頻道,#genre#
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戲劇HD,http://61.221.215.25:8800/hls/39/index.m3u8
-八大戲劇HD,https://stream.freetv.fun/ba-da-xi-ju-tai-hd-1.m3u8
-八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
-八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大綜合,https://stream.freetv.fun/ba-da-zong-he-2.m3u8
-公視戲劇,https://epg.pw/stream/20465771bc9dbdd972f3c59e3c6645103aed450acd7f46bd1e4a9d166ee047a4.m3u8
-影迷數位電影,https://stream.freetv.fun/ying-mi-shu-wei-dian-ying-1.ctv
 民視影劇臺,https://stream.freetv.fun/min-shi-ying-ju-1.ctv
-經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-1.m3u8
-經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-2.m3u8
-經典電影臺[geo-blocked],https://stream.freetv.fun/jing-dian-dian-ying-3.ctv
-經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-4.m3u8
-緯來戲劇,https://stream.freetv.fun/wei-lai-xi-ju-1.m3u8
-采昌影劇,https://stream.freetv.fun/cai-chang-ying-ju-1.ctv
-靖天戲劇,https://stream.freetv.fun/jing-tian-xi-ju-1.ctv
 民視影劇臺,https://stream.freetv.fun/min-shi-ying-ju-1.ctv
-經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-3.ctv
-經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-1.m3u8
-經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-2.m3u8
-經典電影臺,https://stream.freetv.fun/jing-dian-dian-ying-4.m3u8
-緯來戲劇,https://stream.freetv.fun/wei-lai-xi-ju-1.m3u8
-采昌影劇,https://stream.freetv.fun/cai-chang-ying-ju-1.ctv
-靖天戲劇,https://stream.freetv.fun/jing-tian-xi-ju-1.ctv
-靖天映畫,https://stream.freetv.fun/jing-tian-ying-hua-1.ctv
-靖天電影,https://stream.freetv.fun/jing-tian-dian-ying-1.ctv
-靖洋戲劇,https://stream.freetv.fun/jing-yang-xi-ju-1.ctv
-龍華偶像,https://stream.freetv.fun/long-hua-ou-xiang-1.ctv
-龍華偶像,https://epg.pw/stream/f04cd7ed7bbbd3449b03632a4df58481a0871423d84f0e2950b5507a9652eaca.m3u8
-龍華偶像,http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-龍華戲劇,https://stream.freetv.fun/long-hua-xi-ju-1.ctv
-龍華日韓,https://stream.freetv.fun/long-hua-ri-han-1.ctv
 龍華經典,https://stream.freetv.fun/long-hua-jing-dian-1.ctv
-龍華電影,https://stream.freetv.fun/long-hua-dian-ying-2.m3u8
-龍華電影,https://stream.freetv.fun/long-hua-dian-ying-1.ctv
+
 
 🎦電影直播頻道,#genre#
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
