@@ -32,6 +32,7 @@ HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u
 靖天日本台,https://epg.pw/stream/a0139192e3443869304e1c3e3c3d24699e3673ba7f37e40524356affc6bfecb0.m3u8
 靖天日本台,https://epg.pw/stream/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.m3u8
 靖天日本台,https://epg.pw/stream/a0329e8161481d34004df71a5564d22f0a144482f3faed8ec5663dd8fa764d80.m3u8
+EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
@@ -48,7 +49,6 @@ MOMO購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
-EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 GOOD TV 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV 生活台,http://live.streamingfast.net/osmflivech12.m3u8
@@ -372,6 +372,7 @@ VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
