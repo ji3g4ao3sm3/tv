@@ -12,7 +12,7 @@
 TVBS HD,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 TVBS新聞台,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS新聞台,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
-中天新聞台.https://k44991.kylintv.tv/live/cti_iphone.m3u8
+中天新聞台.https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 🎭台灣綜合頻道,#genre#
 民視 HD,http://220.134.196.147:9574/ch49.m3u8
@@ -327,6 +327,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
