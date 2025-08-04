@@ -206,13 +206,6 @@ HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u
 東森幼幼歌曲輪播,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-卡通台0,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-卡通台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-卡通台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-卡通台3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-卡通台4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-卡通台5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-卡通台6,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 小豬佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 哈哈炫動,http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 哈哈炫動,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
@@ -223,6 +216,8 @@ CArtoon Jr,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 Kidsflix,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 MY KIDZ,http://210.210.155.35/uq2663/h/h191/index.m3u8
 Toon Googles,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+PAW Patrol's Best Rescues & Adventures! with Marshall, Chase & Skye,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+
 ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 親子動畫01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 親子動畫02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
@@ -381,6 +376,7 @@ VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
