@@ -193,7 +193,6 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 舌尖美食,http://epg.112114.xyz/douyu/9650849
 
 🧸動畫頻道,#genre#
-東森幼幼歌曲輪播,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 哈哈炫動,http://210.210.155.35/qwr9ew/s/s50/index.m3u8
@@ -332,6 +331,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
