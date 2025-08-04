@@ -12,7 +12,7 @@
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森新聞美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 鏡新聞mnews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754319591/ei/h3aQaNzKHLXQpt8Py72puQk/ip/114.26.201.215/id/5n0y6b0Q25o.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478321/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPt84UvFCcO8UPg1yrrzTEyWekymWRWSSs0o-m1rxsKjlG5Au6Ppkrdn3QcRsmRzz1cP9eIhkID/spc/l3OVKfPerMGX0d48ZjTFZtfZg0FNE-BE-2SNo7-U-XfKnwu1BH4lmkj3iKi0tBUgeJQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgM3zw8QS0Z4egp-ueX-YDx6n8Xr7wA69YWWSX2jLmvdYCIEU-fT9l_0ZKm4WwTsHABdCzCv2Zi1fNC1oerzefE28A/file/index.m3u8
-三立新聞inews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754328798/ei/fpqQaOzpEdaZpt8P8q-t4AY/ip/114.26.201.215/id/pF507BLtbqU.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539853/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLM4UJhhtlaidPexHqZP_C18wst3BYOw7nYmjNO2U_Fc1Gd5EtCgODMxFFs_hlJjKU3U7cgj888s/spc/l3OVKc0-uhG-VGHbpGPs7do17Zip-a0HCL2GxjyAMtNJZAjLPQOY7IaSWbhMDl3bZ1WfWBIJJRM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRp8yOKB4HSm1romgNj3OGYsleQ14rrjZOvz4xKv2Uy8CIHbO58LeK1F8eWSWyg9qXr5D5UGOLT9RwV4Nq7NXPUny/file/index.m3u8
+三立新聞inews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754329060/ei/hJuQaMPKFb-VvcAP5KyK8AQ/ip/114.26.201.215/id/pF507BLtbqU.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPKHBUW1S7VlIyafhnp1nUmQ3VpciSNQ1AK8O02ydKOoiBLqCRG9dKt1GpnePsokk4WeW0eu76G/spc/l3OVKVtBrw-h1aPLKxHjolwi_N1Sf1dIjCXiIDtmDfFD429Lemt7h--qtQfatXtwUxsJilNZeng/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALi5c_JK3QYQkpUUNSuD1tGive7_kyn97hePr63S5pfaAiB1Z8-NIurexeEWGKtIRvL9yb8vutZVC0Kv-DWH5jUOSw%3D%3D/file/index.m3u8
 TVBS新聞台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 TVBS新聞台,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS新聞台,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
@@ -334,6 +334,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
