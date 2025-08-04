@@ -23,17 +23,6 @@ TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 🎭台灣綜合頻道,#genre#
 民視 HD,http://220.134.196.147:9574/ch49.m3u8
-三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
-中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-東森綜合 HD,http://220.134.196.147:9553/index.m3u8
-東森購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-MOMO購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
 緯來日本台,rtmp://f13h.mine.nu:1935/sat/tv771
 緯來綜合台,http://23.26.239.95:3599/xsj.php?id=videoland
@@ -45,6 +34,18 @@ MOMO購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3
 靖天日本台,https://epg.pw/stream/a0329e8161481d34004df71a5564d22f0a144482f3faed8ec5663dd8fa764d80.m3u8
 靖天綜合台,https://epg.pw/stream/fd6a2d196572e67cb8d49f16bcd9602af8b7408cd4e1e6a9e4ae988e80481df7.m3u8
 靖天綜合台,https://epg.pw/stream/96c74468a1956de7057a0d9f07d7809a7cd3c9be2f5ba56a23c3e0255e2be250.ctv
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+東森綜合 HD,http://220.134.196.147:9553/index.m3u8
+東森購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+MOMO購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+
 華視-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -374,6 +375,7 @@ VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
