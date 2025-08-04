@@ -9,7 +9,7 @@
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-三立新聞inews,http://66.165.240.154:8080/live/slxw02/hls.m3u8
+三立新聞inews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754310365/ei/fVKQaMb_B8KM29gP-ODigAE/ip/114.26.201.215/id/pF507BLtbqU.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478321/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLORqWqnNTnakZs7tt1pKE6goxvJeJmHFNAPMq97fYMERYMqoqkFDsg8Y09Iu_JsbK9ChuGCeOFL/spc/l3OVKbZ8CTCSIQ7DdfC70t4Q5OVlQ74gKseVb6J85l2YIrY6c6NMkpZLbX6nEFapd6U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIaOalNRNw1WwrDoVYfXDdTBL-fpyXKfF3E-MzV8HYkeAiEAknyOxr5-gvqYnNtos0XUtfK4X_tueL7Lsew2b33lbks%3D/file/index.m3u8
 TVBS新聞台,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS新聞台,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 中天新聞台.https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
@@ -327,6 +327,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
