@@ -31,7 +31,7 @@ HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 民視 HD,http://220.134.196.147:9574/ch49.m3u8
-公視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -390,6 +390,7 @@ VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
