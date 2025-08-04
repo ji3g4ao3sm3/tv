@@ -2,36 +2,52 @@
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 東森衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立新聞inews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+中時新聞網,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+公視台語台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
-華視新聞,http://139.180.210.242/php/youtube.php?id=wM0g8EoUZ_E
-中視新聞 HD,http://139.180.210.242/php/youtube.php?id=oIgbl7t0S_w
-台灣地震監視,http://139.180.210.242/php/youtube.php?id=Owke6Quk7T0
+TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+華視新聞網,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+股票分析,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+鳳凰電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+鳳凰新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-
 🎭台灣綜合頻道,#genre#
 華視CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+華視CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 華視CTS,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 民視 HD,http://220.134.196.147:9574/ch49.m3u8
+公視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森綜合 HD,http://220.134.196.147:9553/index.m3u8
+東森購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+MOMO購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
 緯來日本台,rtmp://f13h.mine.nu:1935/sat/tv771
 緯來綜合台,http://23.26.239.95:3599/xsj.php?id=videoland
@@ -207,6 +223,13 @@ HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u
 東森幼幼歌曲輪播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+卡通台0,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+卡通台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+卡通台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+卡通台3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+卡通台4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+卡通台5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+卡通台6,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 小豬佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 哈哈炫動,http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 哈哈炫動,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
@@ -314,6 +337,8 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 
 👔國會議事轉播,#genre#
+國會頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+國會頻道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 國會頻道1,https://epg.pw/stream/b73e2686833520fef8096f8377e23ac12d5366c7c87ab4af4b9d58edaa4009cd.m3u8
 國會頻道1,https://epg.pw/stream/14256387a4019f342f90fb2e248e86362692b68d88e4cf9a6842fa659e6966b6.m3u8
 國會頻道1,https://epg.pw/stream/25175c7fccfbd6b9eb84da550d209558856d777a651e95a9eee156246c364050.m3u8
@@ -346,13 +371,19 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-
+美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+信吉,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+佛教台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+大愛海外,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 
 👗電視購物頻道,#genre#
 MOMO購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 Viva 美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 
 成人點播頻道_3368,#genre#
 母子愉悅亂倫-蘭心潔,https://je40u.cdnedge.live/file/avple-images/hls/624eeb896d742407ed435445/playlist.m3u8
@@ -367,6 +398,7 @@ Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
