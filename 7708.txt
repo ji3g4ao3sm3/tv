@@ -25,9 +25,6 @@
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 華視新聞網,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-股票分析,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 鳳凰電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 鳳凰新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
@@ -63,6 +60,9 @@ MOMO購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
+股票分析,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 GOOD TV 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV 生活台,http://live.streamingfast.net/osmflivech12.m3u8
@@ -78,10 +78,7 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 
 🎞️台灣戲劇頻道,#genre#
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
-八大戲劇HD,http://61.221.215.25:8800/hls/39/index.m3u8
-民視影劇臺,https://stream.freetv.fun/min-shi-ying-ju-1.ctv
-民視影劇臺,https://stream.freetv.fun/min-shi-ying-ju-1.ctv
-龍華經典,https://stream.freetv.fun/long-hua-jing-dian-1.ctv
+
 HBO影院,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
 📷戲劇重播,#genre#
@@ -397,6 +394,7 @@ VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
