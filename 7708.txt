@@ -186,7 +186,6 @@ GOOD TV 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
 🧸動畫頻道,#genre#
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-卡通輪播,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754329544/ei/aJ2QaNGfDKyS1d8P7OKt2AY/ip/114.26.201.215/id/N6lNLi8AKI4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548072/txs/51548072%2C51548073%2C51548074%2C51548075%2C51548076%2C51548077/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tw/bui/AY1jyLM8GRYpincQwqCYIp3YQWOPlvC5uXKO7uv20nd-75HzH_Cr9lileLHV6ZOP4Q-DUDxk8aoP6fuF/spc/l3OVKYqaLvW4A3VYTuCn7z2i2oIl4JmDR9liHG4hJ6E3lpjcCB6WWxj6W2DZko0vWaA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANBII5PE43EgFjbATeoSCjuQDJtESN6QZCArfkORaxj3AiBuRiNGqO1iD2wQYuS0eppQGkpbV1PjN7_xjqdgfNX3Eg%3D%3D/file/index.m3u8
 哈哈炫動,http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 哈哈炫動,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 反轉星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -200,6 +199,7 @@ ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Nick卡通AKtv,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 AniMAX_AKtv,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 ZooMoo-AKtv,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+中華小當家,http://152.32.229.52:5050/ofiii168/index.m3u8?proxy=true
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 
 🌍人文地理,#genre#
@@ -323,6 +323,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
