@@ -11,7 +11,7 @@
 東森新聞美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TVBS 亞洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS 亞洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-中視 HD,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
+中視 HD,http://152.32.229.52:5050/4gtv-4gtv040/index.m3u8?proxy=true
 中天新聞台,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新聞台,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
@@ -323,6 +323,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
 
 
 
