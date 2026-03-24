@@ -8,7 +8,6 @@
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-
 東森新聞美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TVBS 亞洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS 亞洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
