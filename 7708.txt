@@ -18,8 +18,6 @@ TVBS 亞洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 民視 HD,http://220.134.196.147:9574/ch49.m3u8
 華視 HD,https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
 華視 HD,http://198.16.100.186:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
-中視,rtmp://59.124.75.138/sat/tv091
-中視,http://50.7.61.148:30080/Entry/ctv
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
 緯來日本台,rtmp://f13h.mine.nu:1935/sat/tv771
 緯來綜合台,http://23.26.239.95:3599/xsj.php?id=videoland
@@ -27,12 +25,6 @@ TVBS 亞洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 緯來育樂台,rtmp://f13h.mine.nu:1935/sat/tv701
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
-三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
-三立台灣台,http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
-公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森綜合 HD,http://220.134.196.147:9553/index.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
