@@ -12,6 +12,10 @@
 東森新聞美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TVBS 亞洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS 亞洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+民視HD,rtmp://f13h.mine.nu/sat/tv051
+台視HD,rtmp://f13h.mine.nu/sat/tv071
+中視HD,rtmp://f13h.mine.nu/sat/tv091
+華視HD,rtmp://f13h.mine.nu/sat/tv111
 🎭台灣綜合頻道,#genre#
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
 緯來日本台,rtmp://f13h.mine.nu:1935/sat/tv771
@@ -19,10 +23,6 @@ TVBS 亞洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 緯來育樂台,rtmp://f13h.mine.nu:1935/sat/tv701
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
-民視,rtmp://f13h.mine.nu/sat/tv051
-台視,rtmp://f13h.mine.nu/sat/tv071
-中視,rtmp://f13h.mine.nu/sat/tv091
-華視,rtmp://f13h.mine.nu/sat/tv111
 ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 HBO,http://31.43.191.125:8080/restream/restream/34787
 HBO,http://31.43.191.125:8080/restream/restream/34918
