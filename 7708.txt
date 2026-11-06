@@ -1,4 +1,7 @@
 📺台灣新聞頻道,#genre#
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 民視HD,rtmp://f13h.mine.nu/sat/tv051
 台視HD,rtmp://f13h.mine.nu/sat/tv071
