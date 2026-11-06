@@ -1,8 +1,5 @@
 📺台灣新聞頻道,#genre#
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-東森新聞美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-TVBS 亞洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS 亞洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 民視HD,rtmp://f13h.mine.nu/sat/tv051
 台視HD,rtmp://f13h.mine.nu/sat/tv071
 中視HD,rtmp://f13h.mine.nu/sat/tv091
